@@ -11,7 +11,7 @@
 </head>
 
 <body>
-	<h2 id = "KittieName">Marcos ???</h2>
+	<h2 id = "KittieName">Marcos ???</h2><h2 id="Kittie2"></h2>
 
 	<h2>MJPM Icons</h2>
     <ol type="1">	
@@ -25,10 +25,10 @@
     Sort by Suit:  The tiles in the rack and the wall are sorted as:  flower, 1-9 bams, green dragon, 1-9 dots, white dragon, 1-9 craks, red dragon, winds as N-E-W-S, jokers.
     </li>
     <li><img src="images/rack_sort.png" width="96" height="96" alt="Sort the Rack">
-    Sort the Rack:  Sorts the tiles, in the rack, in number order, as follows:  flower, 1 bam, 1 dot, 1 crak, etc, winds, dragons, jokers.
+    Sort the Rack:  Sorts the tiles, in the rack, in number order, as follows:  flowers, 1 bam, 1 dot, 1 crak, etc, winds, dragons, jokers.
     </li>
     <li><img src="images/wall_sort.png" width="96" height="96" alt="Sort the Wall">
-    Sort the Wall:   Sorts the tiles, in the wall, in number order, as follows:  flower, 1 bam, 1 dot, 1 crak, etc, winds, dragons, jokers. 
+    Sort the Wall:   Sorts the tiles, in the wall, in number order, as follows:  flowers, 1 bam, 1 dot, 1 crak, etc, winds, dragons, jokers. 
     </li>
 	<li><img src="images/first.png" width="96" height="96" alt="Check pattern">
     Check the Pattern:  Compare the tiles in the rack against the system-stored patterns to see if its a valid pattern.  Shows the first pattern found.
@@ -45,7 +45,7 @@
 	<script>
 		//ignore this script because this is the HTML class
 
-	document.getElementById('KittieName').innerHTML="NOOO Kali !!";
+	document.getElementById('Kittie2').innerHTML="NOOO Kali !!";
 	console.log("This is a secret debugging message:  My name is Kali and don't you forget it !!");
 	console.log("In Chrome and Firefox, it includes the filename and line number where the message is logged");
 	document.write(document.baseURI+"<br>");
@@ -58,7 +58,7 @@
 
 	width = window.innerWidth;
 	<!-- console.log(innerWidth); -->
-	console.log(document.getElementById('KittieName').innerHTML);
+	console.log(document.getElementById('KittieName').innerHTML+document.getElementById('Kittie2').innerHTML);
 
 	var Links = document.getElementsByTagName('a');
 
