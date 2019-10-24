@@ -1,13 +1,26 @@
-h1{
-	color:purple;
-	text-align: center;
-	font-size: 28px;
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
 }
+
 h2{
 	color:green;
 	text-align: center;
 	font-size: 20px;
 }
+ 
+p  {
+  color: blue;
+  font-family: courier;
+  font-size: 160%;
+}
+
+p.highlight {
+  color: red;
+}
+
 
 #cf{
 	position: relative;
@@ -85,4 +98,4 @@ h2{
 
 	}
 }
-		
+</style>		
