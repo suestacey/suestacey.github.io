@@ -11,15 +11,15 @@ h2{
 	font-size: 30px;
 }
  
-p  {
+p.standard  {
   color: #C93;
-  font-family: courier;
+  font-family: Comic Sans MS, Comic Sans, cursive;
   font-size: 20px;
 }
 
 p.highlight {
   color: #F00;
-  font-family: courier;
+  font-family: Bradley Hand, cursive;
   font-size: 20px;
 }
 
