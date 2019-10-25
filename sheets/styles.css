@@ -1,12 +1,12 @@
 <style>
 h1 {
-  color: #00F;
+  color: #0000FF;
   font-family: verdana;
   font-size: 300%;
 }
 
 h2{
-	color:#0F0;
+	color:#00FF00;
 	text-align: center;
 	font-size: 30px;
 }
@@ -18,7 +18,7 @@ p.standard  {
 }
 
 p.highlight {
-  color: #F00;
+  color: #FF0000;
   font-family: Bradley Hand, cursive;
   font-size: 20px;
 }
