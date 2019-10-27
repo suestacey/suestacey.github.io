@@ -1,29 +1,46 @@
 <style>
 h1 {
-  color: #0000FF;
-  font-family: verdana;
-  font-size: 300%;
-}
-
+	font: Arial, Helvetica, sans-serif;
+	 font-size: 60px; 
+	 color: rgb(0,0,255); 
+	 text-transform: uppercase;
+	 text-align: left; 
+	 margin: 0 0 35px 0; 
+	 text-shadow: 0px 2px 0px #f2f2f2;
+         }
 h2{
-	color:#00FF00;
-	text-align: center;
-	font-size: 30px;
+	 
+	 font-family: Rosewood Std Regular, serif;
+	 font-size: 50px; 
+	 color: rgb(0,128,255); 
+	 text-transform: uppercase;
+	 text-align: left; 
+	 margin: 0 0 35px 0; 
+	 text-shadow: 0px 2px 0px #f2f2f2;
 }
  
 p.standard  {
-  color: #C93;
+  color: #FF2020;
+  font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 40px;
 }
 
-p.highlight {
-  color: #FF0000;
-  font-family: Bradley Hand, cursive;
-  font-size: 20px;
+p.red_highlight {
+  color: rgb(255,0,0);
+  background:#E9E9E9;
+  font: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+p.purple_highlight {
+  color: rgb(128,0,128);
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 40px;
 }
 
 body {
-	background-color: #E9E9E9;
+	background-color: #E0E0E0;
 }
 </style>		
