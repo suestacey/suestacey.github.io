@@ -51,14 +51,14 @@ p.red_highlight {
   color: rgb(255,0,0);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 28px;
+  font-size: 32px;
 }
 
 p.purple_highlight {
   color: rgb(128,0,128);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 28px;
+  font-size: 32px;
 }
 
 body {
