@@ -11,7 +11,7 @@ h1 {
 h2{
 	 
 	 font-family: Rosewood Std Regular, serif;
-	 font-size: 50px; 
+	 font-size: 40px; 
 	 color: rgb(0,128,255); 
 	 text-transform: uppercase;
 	 text-align: left; 
@@ -33,11 +33,18 @@ p.standard_normal {
   font-size: 30px;
 }
 
-p.standard_normal_14 {
-  color: #FF2020;
-  font-weight: normal;
-  font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 14px;
+p.standard_Q {
+  color: #666666;
+  font-weight: bold;
+  font: Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+p.standard_M {
+  color: #000080;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
 }
 
 p.red_highlight {
@@ -55,6 +62,6 @@ p.purple_highlight {
 }
 
 body {
-	background-color: #E0E0E0;
+	background-color: #FFFFFF;
 }
 </style>		
