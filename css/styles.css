@@ -2,7 +2,7 @@
 h1 {
 	font: Arial, Helvetica, sans-serif;
 	 font-size: 60px; 
-	 color: rgb(0,0,255); 
+	 color: rgb(128,0,128); 
 	 text-transform: uppercase;
 	 text-align: left; 
 	 margin: 0 0 35px 0; 
@@ -10,8 +10,17 @@ h1 {
          }
 h2{
 	 
+	 font-family: Comic Sans MS, Comic Sans, sans-serif;
+	 font-size: 28px; 
+	 color: rgb(0,128,255); 
+	 text-align: left; 
+	 margin: 0 0 35px 0; 
+	 text-shadow: 0px 2px 0px #f2f2f2;
+}
+h3{
+	 
 	 font-family: Rosewood Std Regular, serif;
-	 font-size: 50px; 
+	 font-size: 40px; 
 	 color: rgb(0,128,255); 
 	 text-transform: uppercase;
 	 text-align: left; 
@@ -33,9 +42,30 @@ p.standard_normal {
   font-size: 30px;
 }
 
-p.standard_normal_14 {
+p.standard_red_normal_14 {
   color: #FF2020;
   font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_red_bold_14 {
+  color: #FF2020;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_normal_14 {
+  color: #0000000;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_bold_14 {
+  color: #000000;
+  font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 14px;
 }
