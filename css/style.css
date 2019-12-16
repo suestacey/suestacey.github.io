@@ -58,7 +58,7 @@ p.standard_blue_normal_30 {
 
 p.standard_green_bold_28  {
   color: #228b22;
-  margin: 3:
+  margin: 0 0 10px 0;
   padding: 0;
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
@@ -67,7 +67,7 @@ p.standard_green_bold_28  {
 
 p.standard_green_normal_28 {
   color: #228b22;
-  margin: 2;
+  margin: 0 0 10px 0;
   padding: 0;
   font-weight: normal;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
@@ -90,7 +90,7 @@ p.standard_navyblue_bold_14 {
 
 p.comic_navyblue_normal_24 {
   color: #000080;
-  margin: 2;
+  margin: 0 0 10px 0;
   padding: 0;
   font-weight: normal;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
@@ -99,7 +99,7 @@ p.comic_navyblue_normal_24 {
 
 p.comic_navyblue_bold_24 {
   color: #000080;
-  margin: 3:
+  margin: 0 0 10px 0;
   padding: 0;
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
@@ -108,7 +108,7 @@ p.comic_navyblue_bold_24 {
 
 p.comic_purple_normal_24 {
   color: #663399;
-  margin: 2;
+  margin: 0 0 10px 0;
   padding: 0;
   font-weight: normal;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
@@ -117,7 +117,7 @@ p.comic_purple_normal_24 {
 
 p.comic_purple_bold_24 {
   color: #663399;
-  margin: 3:
+  margin: 0 0 10px 0;
   padding: 0;
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
