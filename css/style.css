@@ -56,18 +56,22 @@ p.standard_blue_normal_30 {
   font-size: 30px;
 }
 
-p.standard_green_bold_30  {
+p.standard_green_bold_28  {
   color: #228b22;
+  margin: 1;
+  padding: 0;
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 30px;
+  font-size: 28px;
 }
 
-p.standard_green_normal_30 {
+p.standard_green_normal_28 {
   color: #228b22;
+  margin: 2;
+  padding: 0;
   font-weight: normal;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 30px;
+  font-size: 28px;
 }
 
 p.standard_navyblue_normal_14 {
@@ -82,6 +86,42 @@ p.standard_navyblue_bold_14 {
   font-weight: normal;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 14px;
+}
+
+p.comic_navyblue_normal_24 {
+  color: #000080;
+  margin: 2;
+  padding: 0;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 24;
+}
+
+p.comic_navyblue_bold_24 {
+  color: #000080;
+  margin: 1;
+  padding: 0;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 24px;
+}
+
+p.comic_purple_normal_24 {
+  color: #663399;
+  margin: 2;
+  padding: 0;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 24;
+}
+
+p.comic_purple_bold_24 {
+  color: #663399;
+  margin: 1;
+  padding: 0;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 24px;
 }
 
 p.comic_navyblue_normal_18 {
@@ -134,7 +174,7 @@ p.red_highlight {
 }
 
 p.purple_highlight {
-  color: rgb(128,0,128);
+  color: rgb(102,51,103);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 30px;
