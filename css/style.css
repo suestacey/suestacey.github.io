@@ -138,6 +138,13 @@ p.comic_navyblue_bold_18 {
   font-size: 18px;
 }
 
+p.standard_blue_normal_14 {
+  color: #000080;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
 p.standard_red_normal_14 {
   color: #FF2020;
   font-weight: normal;
@@ -155,6 +162,13 @@ p.standard_red_bold_14 {
 p.standard_normal_14 {
   color: #0000000;
   font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_purple_normal_14 {
+  color: rgb(102,51,103);
+  font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 14px;
 }
