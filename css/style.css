@@ -145,6 +145,13 @@ p.standard_blue_normal_14 {
   font-size: 14px;
 }
 
+p.standard_blue_bold_14 {
+  color: #000080;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
 p.standard_red_normal_14 {
   color: #FF2020;
   font-weight: normal;
@@ -167,7 +174,28 @@ p.standard_normal_14 {
 }
 
 p.standard_purple_normal_14 {
-  color: rgb(102,51,103);
+  color:#8000FF;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_purple_bold_14 {
+	color:#8000FF;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_green_normal_14 {
+  color:#008040
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_green_bold_14 {
+	color:#008040;
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 14px;
