@@ -123,6 +123,14 @@ p.comic_purple_bold_24 {
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 24px;
 }
+p.comic_purple_bold_14 {
+  color: #663399;
+  margin: 1;
+  padding: 0;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
 
 p.comic_navyblue_normal_18 {
   color: #000080;
