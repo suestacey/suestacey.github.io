@@ -39,6 +39,12 @@ p.standard_Q {
   font: Helvetica, sans-serif;
   font-size: 16px;
 }
+p.standard_MR {
+  color: #FF0000;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
 
 p.standard_M {
   color: #000080;
