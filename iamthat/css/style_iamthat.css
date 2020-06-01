@@ -39,6 +39,12 @@ p.standard_Q {
   font: Helvetica, sans-serif;
   font-size: 16px;
 }
+p.standard_QR {
+  color: #FF0000;
+  font-weight: bold;
+  font: Helvetica, sans-serif;
+  font-size: 16px;
+}
 p.standard_MR {
   color: #FF0000;
   font-weight: bold;
