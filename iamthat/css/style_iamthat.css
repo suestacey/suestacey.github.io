@@ -69,6 +69,12 @@ p.standard_M {
   font: Verdana, Arial, sans-serif;
   font-size: 18px;
 }
+p.standard_Black {
+  color: #000000;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
 p.standard_MPI {
   color: rgb(192,18,139);
   font-weight: bold;
