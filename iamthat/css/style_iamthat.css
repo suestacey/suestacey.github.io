@@ -77,6 +77,14 @@ p.standard_MPI {
   font: Verdana, Arial, sans-serif;
   font-size: 18px;
 }
+p.standard_MPB {
+  color: rgb(0,90,157);
+  font-weight: bold;
+  font-style: italic;
+    text-align: center;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
 p.standard_MI {
   color: #000080;
   font-weight: bold;
