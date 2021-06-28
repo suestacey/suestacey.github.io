@@ -241,11 +241,11 @@ p.green_highlight {
 
 #gallery {
 line-height: 0;
--webkit-column-count:5;
+-webkit-column-count:1;
 -webkit-column-gap:5px;
--moz-column-count:5;
+-moz-column-count:1;
 -moz-column-gap:5px;
-column-count:5;
+column-count:1;
 column-gap:5x;	
 }
 
