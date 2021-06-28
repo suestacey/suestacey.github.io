@@ -222,30 +222,30 @@ p.red_highlight {
   color: rgb(255,0,0);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 p.purple_highlight {
   color: rgb(102,51,103);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 p.green_highlight {
   color: rgb(91,194,54);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 #gallery {
 line-height: 0;
--webkit-column-count:1;
+-webkit-column-count:5;
 -webkit-column-gap:5px;
--moz-column-count:1;
+-moz-column-count:5;
 -moz-column-gap:5px;
-column-count:1;
+column-count:5;
 column-gap:5x;	
 }
 
