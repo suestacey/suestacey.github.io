@@ -1,23 +1,6 @@
 {
-    "Listing":[
-        {
-            "0":{
-                "name":"bucks",
-				"imageFile":"https://suestacey.github.io/data/bucks.png",
-            },
-            "1":{
-                "name":"bam1",
-				"imageFile":"https://suestacey.github.io/data/bam1.png",
-            },
-            "2":{
-                "name":"dot1",
-				"imageFile":"https://suestacey.github.io/data/dot1.png",
-            },
-            "1":{
-                "name":"crak1",
-				"imageFile":"https://suestacey.github.io/data/crak1.png",
-            },
-        }
-    ]
+    "name": ["bucks","bam1","dot1","crak1"],
+    "imageFile": ["https://suestacey.github.io/data/bucks.png", "https://suestacey.github.io/data/bam1.png", "https://suestacey.github.io/data/dot1.png","https://suestacey.github.io/data/crak1.png"],
 }
+
 
