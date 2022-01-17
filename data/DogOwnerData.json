@@ -1,0 +1,24 @@
+"""
+                [
+                 {
+                    "name": "Katie",
+                    "age": 61,
+                    "dogs": [
+                     {
+                       "dog_name": "Obie",
+                        "breed": "Wild",
+                        "age": 11
+                    },
+                    {
+                        "dog_name": "Red",
+                        "breed": "Unique",
+                        "age": 15
+                    }
+             ]
+                    },
+                    {
+                    "name": "Lis",
+                    "age": 69
+                    }
+                ]
+             """
