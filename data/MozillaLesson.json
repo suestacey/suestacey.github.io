@@ -13,10 +13,7 @@
         "Radiation resistance",
         "Turning tiny",
         "Radiation blast"
-      ],
-	"imageFile": [
-		"suestacey.github.io/imageGallery/img/anjali120.png"
-	],
+      ]
     },
     {
       "name": "Madame Uppercut",
@@ -26,10 +23,7 @@
         "Million tonne punch",
         "Damage resistance",
         "Superhuman reflexes"
-      ],
-	"imageFile": [
-		"suestacey.github.io/imageGallery/img/anjali120.png"
-	],
+      ]
     },
     {
       "name": "Eternal Flame",
@@ -41,10 +35,7 @@
         "Inferno",
         "Teleportation",
         "Interdimensional travel"
-      ],
-	"imageFile": [
-		"suestacey.github.io/imageGallery/img/anjali120.png"
-	],
+      ]
     },
     {
       "name": "Sue Stacey",
@@ -56,10 +47,7 @@
         "Indonesia",
         "toast",
         "sarcasm"
-      ],
-	"imageFile": [
-		"https://suestacey.github.io/imageGallery/img/anjali120.png"
-	],
+      ]
     }
   ]
 }
