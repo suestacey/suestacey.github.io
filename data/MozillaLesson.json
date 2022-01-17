@@ -36,6 +36,18 @@
         "Teleportation",
         "Interdimensional travel"
       ]
+    },
+    {
+      "name": "Sue Stacey",
+      "age": 66,
+      "secretIdentity": "Barbara Borland",
+      "powers": [
+        "sports",
+        "money",
+        "Indonesia",
+        "toast",
+        "sarcasm"
+      ]
     }
   ]
 }
