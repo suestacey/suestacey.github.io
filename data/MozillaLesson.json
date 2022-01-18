@@ -40,6 +40,11 @@
     {
       "name": "Sue Stacey",
       "age": 66,
+	 "extra stuff": [
+		"yes",
+		"no",
+		"https://suestacey,github.io/imageGallery/img/abitha.png",
+	],
       "secretIdentity": "Barbara Borland",
       "powers": [
         "sports",
