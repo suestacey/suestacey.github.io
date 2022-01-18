@@ -8,6 +8,12 @@
     {
       "name": "Molecule Man",
       "age": 29,
+	"id": 0,
+	 "imageFile": [
+		"https://suestacey.github.io/imageGallery/img/bucks.png",
+		"https://suestacey.github.io/imageGallery/img/bam1.png",
+		"https://suestacey.github.io/imageGallery/img/ghosts.png"
+	],
       "secretIdentity": "Dan Jukes",
       "powers": [
         "Radiation resistance",
@@ -18,6 +24,12 @@
     {
       "name": "Madame Uppercut",
       "age": 39,
+	"id": 1,
+	 "imageFile": [
+		"https://suestacey.github.io/imageGallery/img/smokies.png",
+		"https://suestacey.github.io/imageGallery/img/bandits.png",
+		"https://suestacey.github.io/imageGallery/img/ghosts.png"
+	],
       "secretIdentity": "Jane Wilson",
       "powers": [
         "Million tonne punch",
@@ -28,6 +40,12 @@
     {
       "name": "Eternal Flame",
       "age": 1000000,
+	"id": 2,
+	 "imageFile": [
+		"https://suestacey.github.io/imageGallery/img/smokies.png",
+		"https://suestacey.github.io/imageGallery/img/bandits.png",
+		"https://suestacey.github.io/imageGallery/img/ghosts.png"
+	],
       "secretIdentity": "Unknown",
       "powers": [
         "Immortality",
@@ -40,6 +58,7 @@
     {
       "name": "Sue Stacey",
       "age": 66,
+	"id": 3,
 	 "imageFile": [
 		"https://suestacey.github.io/imageGallery/img/smokies.png",
 		"https://suestacey.github.io/imageGallery/img/bandits.png",
