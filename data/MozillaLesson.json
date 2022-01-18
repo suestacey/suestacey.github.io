@@ -3,6 +3,12 @@
   "homeTown": "Metro City",
   "formed": 2016,
   "secretBase": "Super tower",
+  	 "images": [
+		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
+		"https://suestacey.github.io/imageGallery/img/bucks.png",
+		"https://suestacey.github.io/imageGallery/img/bam1.png",
+		"https://suestacey.github.io/imageGallery/img/micaela.png"
+	],
   "active": true,
   "members": [
     {
