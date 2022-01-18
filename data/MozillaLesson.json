@@ -40,10 +40,10 @@
     {
       "name": "Sue Stacey",
       "age": 66,
-	 "extra stuff": [
-		"yes",
-		"no",
-		"https://suestacey,github.io/imageGallery/img/abitha.png"
+	 "imageFile": [
+		"https://suestacey.github.io/imageGallery/img/smokies.png",
+		"https://suestacey.github.io/imageGallery/img/bandits.png",
+		"https://suestacey.github.io/imageGallery/img/ghosts.png"
 	],
       "secretIdentity": "Barbara Borland",
       "powers": [
