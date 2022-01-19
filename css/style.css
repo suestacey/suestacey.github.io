@@ -169,6 +169,13 @@ p.standard_red_normal_14 {
   font-size: 14px;
 }
 
+p.standard_red_bold_16 {
+  color: #FF2020;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 16px;
+}
+
 p.standard_red_bold_14 {
   color: #FF2020;
   font-weight: bold;
