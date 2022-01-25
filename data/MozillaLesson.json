@@ -30,6 +30,26 @@
       ]
     },
     {
+      "name": "Chloe Morrison",
+      "age": 91,
+	"id": 2,
+	 "images": [
+		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
+		"https://suestacey.github.io/imageGallery/img/smokies.png",
+		"https://suestacey.github.io/imageGallery/img/bandits.png",
+		"https://suestacey.github.io/imageGallery/img/ghosts.png"
+	],
+      "secretIdentity": "Ardelia Wofford",
+      "powers": [
+        "Imagination",
+        "artistry",
+        "Vision",
+        "versatile",
+        "emotional authenticity"
+      ]
+    },
+
+    {
       "name": "Madame Uppercut",
       "age": 39,
 	"id": 1,
@@ -46,25 +66,7 @@
         "Superhuman reflexes"
       ]
     },
-    {
-      "name": "Eternal Flame",
-      "age": 1000000,
-	"id": 2,
-	 "images": [
-		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
-		"https://suestacey.github.io/imageGallery/img/smokies.png",
-		"https://suestacey.github.io/imageGallery/img/bandits.png",
-		"https://suestacey.github.io/imageGallery/img/ghosts.png"
-	],
-      "secretIdentity": "Unknown",
-      "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
-    },
+
     {
       "name": "Sue Stacey",
       "age": 66,
