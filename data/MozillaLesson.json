@@ -1,5 +1,5 @@
 {
-  "squadName": "Super hero squad",
+  "squadName": "Super women squad",
   "homeTown": "Metro City",
   "formed": 2016,
   "id": 0,
@@ -13,8 +13,8 @@
   "active": true,
   "members": [
     {
-      "name": "Molecule Man",
-      "age": 29,
+      "name": "Lebowitz Woman",
+      "age": 70,
 	"id": 0,
 	 "images": [
 		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
@@ -22,11 +22,11 @@
 		"https://suestacey.github.io/imageGallery/img/bam1.png",
 		"https://suestacey.github.io/imageGallery/img/micaela.png"
 	],
-      "secretIdentity": "Dan Jukes",
+      "secretIdentity": "Frances",
       "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Algebra",
+        "Surliness",
+        "Pearl-grey Checker Cab"
       ]
     },
     {
