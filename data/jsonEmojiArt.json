@@ -1,0 +1,52 @@
+{
+  "title": "Absolute",
+  "location": "Portland",
+  "id": 0,
+  	 "images": [
+		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
+		"https://suestacey.github.io/imageGallery/img/bucks.png",
+		"https://suestacey.github.io/imageGallery/img/bam1.png",
+		"https://suestacey.github.io/imageGallery/img/micaela.png"
+	],
+  "tags": "tag1"
+    },
+    {
+                 "title": "Relative",
+              "location": "Oakland",
+      "id": 1,
+	 "images": [
+		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
+		"https://suestacey.github.io/imageGallery/img/smokies.png",
+		"https://suestacey.github.io/imageGallery/img/bandits.png",
+		"https://suestacey.github.io/imageGallery/img/ghosts.png"
+	],
+  "tags": "tag2"
+    },
+
+    {
+                 "title": "Superlative",
+              "location": "Santa Barbara",
+      "id": 2,
+	 "images": [
+		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
+		"https://suestacey.github.io/imageGallery/img/smokies.png",
+		"https://suestacey.github.io/imageGallery/img/bandits.png",
+		"https://suestacey.github.io/imageGallery/img/ghosts.png"
+	],
+  "tags": "tag3"
+    },
+
+    {
+                 "title": "Supernatural",
+              "location": "Indonesia",
+      "id": 3,
+	 "images": [
+		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
+		"https://suestacey.github.io/imageGallery/img/smokies.png",
+		"https://suestacey.github.io/imageGallery/img/bandits.png",
+		"https://suestacey.github.io/imageGallery/img/ghosts.png"
+	],
+  "tags": "tag4"
+    },
+  ]
+}

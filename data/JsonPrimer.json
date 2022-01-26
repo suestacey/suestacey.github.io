@@ -12,7 +12,7 @@
     {
       "name": "Lebowitz Woman",
       "age": 70,
-      "id": 1,
+      "id": 0,
       "images": [
 		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
 		"https://suestacey.github.io/imageGallery/img/bucks.png",
@@ -29,7 +29,7 @@
     {
       "name": "Chloe Morrison",
       "age": 91,
-      "id": 2,
+      "id": 1,
 	 "images": [
 		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
 		"https://suestacey.github.io/imageGallery/img/smokies.png",
@@ -49,7 +49,7 @@
     {
       "name": "Madame Uppercut",
       "age": 39,
-	"id": 3,
+	"id": 2,
 	 "images": [
 		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
 		"https://suestacey.github.io/imageGallery/img/smokies.png",
@@ -67,7 +67,7 @@
     {
       "name": "Sue Stacey",
       "age": 66,
-      "id": 4,
+      "id": 3,
 	 "images": [
 		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
 		"https://suestacey.github.io/imageGallery/img/smokies.png",
