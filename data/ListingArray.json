@@ -4,10 +4,10 @@
   "location": "Oakland",
   "id": 0,
   	 "images": [
-		"purpleeyes.png",
-		"bucks.png",
-		"bam1.png",
-		"micaela.png"
+		"purpleeyes",
+		"bucks",
+		"bam1",
+		"micaela"
 	],
   "tags": "tag1"
 },
