@@ -1,0 +1,50 @@
+[
+{
+  "title": "Bluh",
+  "location": "Oakland",
+  "id": 0,
+  	 "images": [
+		"purpleeyes",
+		"bucks",
+		"bam1",
+		"micaela"
+	],
+  "tags": "tag1"
+},
+{
+  "title": "Blah",
+  "location": "Portland",
+  "id": 1,
+  	 "images": [
+		"redeyes",
+		"deva",
+		"flowerag",
+		"flowerai"
+	],
+  "tags": "tag2"
+},
+{
+  "title": "Bleh",
+  "location": "Santa Barbara",
+  "id": 2,
+  	 "images": [
+		"flowerr",
+		"flowers",
+		"flowerttt",
+		"floweru2"
+	],
+  "tags": "tag3"
+},
+{
+  "title": "Blih",
+  "location": "Indonesia",
+  "id": 3,
+  	 "images": [
+		"blueeyes",
+		"smokies",
+		"bandits",
+		"ghosts"
+	],
+  "tags": "tag4"
+}
+]
