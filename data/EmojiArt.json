@@ -27,7 +27,7 @@
 {
   "title": "Bleh",
   "location": "Santa Barbara",
-  "id": 0,
+  "id": 2,
   	 "images": [
 		"https://suestacey.github.io/imageGallery/img/flowerr.png",
 		"https://suestacey.github.io/imageGallery/img/flowers.png",
@@ -39,14 +39,14 @@
 {
   "title": "Blih",
   "location": "Indonesia",
-  "id": 1,
+  "id": 3,
   	 "images": [
 		"https://suestacey.github.io/imageGallery/img/blueeyes.png",
 		"https://suestacey.github.io/imageGallery/img/smokies.png",
 		"https://suestacey.github.io/imageGallery/img/bandits.png",
 		"https://suestacey.github.io/imageGallery/img/ghosts.png"
 	],
-  "tags": "tag2"
+  "tags": "tag4"
 }
 ]
 }
