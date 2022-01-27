@@ -1,7 +1,7 @@
 [
 {
   "title": "Bluh",
-  "location": "Oakland",
+  "location": "Micaela, Bucks, 1 Bam, Purple Eyes",
   "id": 0,
   	 "images": [
 		"purpleeyes",
@@ -9,11 +9,11 @@
 		"bam1",
 		"micaela"
 	],
-  "tags": "tag1"
+  "tags": "Group 1"
 },
 {
   "title": "Blah",
-  "location": "Portland",
+  "location": "Cee, Deva, Two Tone, Red Eyes",
   "id": 1,
   	 "images": [
 		"redeyes",
@@ -21,11 +21,11 @@
 		"flowerag",
 		"flowerae"
 	],
-  "tags": "tag2"
+  "tags": "Group 2"
 },
 {
   "title": "Bleh",
-  "location": "Santa Barbara",
+  "location": "Sting, Tops, Bacon, Trickster",
   "id": 2,
   	 "images": [
 		"flowerr",
@@ -33,11 +33,11 @@
 		"flowerttt",
 		"floweru2"
 	],
-  "tags": "tag3"
+  "tags": "Group 3"
 },
 {
   "title": "Blih",
-  "location": "Indonesia",
+  "location": "Ghosts, Smokies, Bandits, Blue Eyes",
   "id": 3,
   	 "images": [
 		"blueeyes",
@@ -45,6 +45,6 @@
 		"bandits",
 		"ghosts"
 	],
-  "tags": "tag4"
+  "tags": "Group 4"
 }
 ]
