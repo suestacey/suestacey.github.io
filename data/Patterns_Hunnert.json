@@ -1,0 +1,802 @@
+[
+    {
+        "fullName": "123B 123D 123C 123BDC 44C : Little Chows (WP)",
+        "id": 1,
+        "name": "123B 123D 123C 123BDC 44C",
+        "nameExtension": "Little Chows (WP)",
+        "patternid": "2125",
+        "tecPattern": "201,201,202,203,211,212,212,213,221,222,223,223,224,224"
+    },
+    {
+        "fullName": "1B 1D 1C 9B 9D 9C NEWS RWG S : Angels (WP)",
+        "id": 2,
+        "name": "1B 1D 1C 9B 9D 9C NEWS RWG S",
+        "nameExtension": "Angels (WP)",
+        "patternid": "2111",
+        "tecPattern": "201,209,211,219,221,229,230,231,232,233,233,241,242,243"
+    },
+    {
+        "fullName": "1233456789D GGWR : Dragon Line-up (WP)",
+        "id": 3,
+        "name": "1233456789D GGWR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "211,212,213,213,214,215,216,217,218,219,241,241,242,243"
+    },
+    {
+        "fullName": "135B 1357D 13579D WW : Hopscotch (WP)",
+        "id": 4,
+        "name": "135B 1357D 13579D WW",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,211,213,215,217,219,221,223,225,227,242,242"
+    },
+    {
+        "fullName": "135B 1357D 13579D EE : Hopscotch (WP)",
+        "id": 5,
+        "name": "135B 1357D 13579D EE",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,211,213,215,217,219,221,223,225,227,231,231"
+    },
+    {
+        "fullName": "135D 1357C 13579B WW : Hopscotch (WP)",
+        "id": 6,
+        "name": "135D 1357C 13579B WW",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,207,209,211,213,215,221,223,225,227,242,242"
+    },
+    {
+        "fullName": "1776B 1776D 1776C 44D : Independence (WP)",
+        "id": 7,
+        "name": "1776B 1776D 1776C 44D",
+        "nameExtension": "Independence (WP)",
+        "patternid": "2123",
+        "tecPattern": "201,206,207,207,211,214,214,216,217,217,221,226,227,227"
+    },
+    {
+        "fullName": "23456789 D NN EE WW : Repression (WP)",
+        "id": 8,
+        "name": "23456789 D NN EE WW",
+        "nameExtension": "Repression (WP)",
+        "patternid": "2137",
+        "tecPattern": "212,213,214,215,216,217,218,219,230,230,231,231,232,232"
+    },
+    {
+        "fullName": "23456789 C NN WW SS : Repression (WP)",
+        "id": 9,
+        "name": "23456789 C NN WW SS",
+        "nameExtension": "Repression (WP)",
+        "patternid": "2137",
+        "tecPattern": "222,223,224,225,226,227,228,229,230,230,232,232,233,233"
+    },
+    {
+        "fullName": "1223456789B SNOW : Ohio Snow Suit (WP)",
+        "id": 10,
+        "name": "1223456789B SNOW",
+        "nameExtension": "Ohio Snow Suit (WP)",
+        "patternid": "2133",
+        "tecPattern": "201,202,202,203,204,205,206,207,208,209,230,232,233,242"
+    },
+    {
+        "fullName": "23345678 999 WWW : Dragon Gates (WP)",
+        "id": 11,
+        "name": "23345678 999 WWW",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "212,213,213,214,215,216,217,218,219,219,219,242,242,242"
+    },
+    {
+        "fullName": "23455678 111 999 D : Heavenly Gates (WP)",
+        "id": 12,
+        "name": "23455678 111 999 D",
+        "nameExtension": "Heavenly Gates (WP)",
+        "patternid": "2120",
+        "tecPattern": "211,211,211,212,213,214,215,215,216,217,218,219,219,219"
+    },
+    {
+        "fullName": "135D 1357C 13579B EE : Hopscotch (WP)",
+        "id": 13,
+        "name": "135D 1357C 13579B EE",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,207,209,211,213,215,221,223,225,227,231,231"
+    },
+    {
+        "fullName": "12345C 6789D N E WW S : Picket Fence (WP)",
+        "id": 14,
+        "name": "12345C 6789D N E WW S",
+        "nameExtension": "Picket Fence (WP)",
+        "patternid": "2135",
+        "tecPattern": "216,217,218,219,221,222,223,224,225,230,231,232,232,233"
+    },
+    {
+        "fullName": "23345678 111 999 DBC : Confused Gates (WP)",
+        "id": 15,
+        "name": "23345678 111 999 DBC",
+        "nameExtension": "Confused Gates (WP)",
+        "patternid": "2114",
+        "tecPattern": "201,201,201,212,213,213,214,215,216,217,218,229,229,229"
+    },
+    {
+        "fullName": "22345678 111 999 D : Heavenly Gates (WP)",
+        "id": 16,
+        "name": "22345678 111 999 D",
+        "nameExtension": "Heavenly Gates (WP)",
+        "patternid": "2120",
+        "tecPattern": "211,211,211,212,212,213,214,215,216,217,218,219,219,219"
+    },
+    {
+        "fullName": "1234567789D GWWR : Dragon Line-up (WP)",
+        "id": 17,
+        "name": "1234567789D GWWR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "211,212,213,214,215,216,217,217,218,219,241,242,242,243"
+    },
+    {
+        "fullName": "1234456789D GWWR : Dragon Line-up (WP)",
+        "id": 18,
+        "name": "1234456789D GWWR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "211,212,213,214,214,215,216,217,218,219,241,242,242,243"
+    },
+    {
+        "fullName": "1234456789D GGWR : Dragon Line-up (WP)",
+        "id": 19,
+        "name": "1234456789D GGWR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "211,212,213,214,214,215,216,217,218,219,241,241,242,243"
+    },
+    {
+        "fullName": "1234556789C GWRR : Dragon Line-up (WP)",
+        "id": 20,
+        "name": "1234556789C GWRR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "221,222,223,224,225,225,226,227,228,229,241,242,243,243"
+    },
+    {
+        "fullName": "1B 1D 1C 9B 9D 9C NEWS RWG 9B : Angels (WP)",
+        "id": 21,
+        "name": "1B 1D 1C 9B 9D 9C NEWS RWG 9B",
+        "nameExtension": "Angels (WP)",
+        "patternid": "2111",
+        "tecPattern": "201,209,209,211,219,221,229,230,231,232,233,241,242,243"
+    },
+    {
+        "fullName": "23455678 111 GGG : Dragon Gates (WP)",
+        "id": 22,
+        "name": "23455678 111 GGG",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "201,201,201,202,203,204,205,205,206,207,208,241,241,241"
+    },
+    {
+        "fullName": "23456678 111 WWW : Dragon Gates (WP)",
+        "id": 23,
+        "name": "23456678 111 WWW",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "211,211,211,212,213,214,215,216,216,217,218,242,242,242"
+    },
+    {
+        "fullName": "123456789C N E W SS : News Line-Up (WP)",
+        "id": 24,
+        "name": "123456789C N E W SS",
+        "nameExtension": "News Line-Up (WP)",
+        "patternid": "2130",
+        "tecPattern": "221,222,223,224,225,226,227,228,229,230,231,232,233,233"
+    },
+    {
+        "fullName": "111C 999C WWW SSS NN : Wright-Patt Wind Tunnel (WP)",
+        "id": 25,
+        "name": "111C 999C WWW SSS NN",
+        "nameExtension": "Wright-Patt Wind Tunnel (WP)",
+        "patternid": "2141",
+        "tecPattern": "221,221,221,229,229,229,230,230,232,232,232,233,233,233"
+    },
+    {
+        "fullName": "1223456789D GWRR : Dragon Line-up (WP)",
+        "id": 26,
+        "name": "1223456789D GWRR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "211,212,212,213,214,215,216,217,218,219,241,242,243,243"
+    },
+    {
+        "fullName": "789B 789D 789C 789BDC 66C : Big Chows (WP)",
+        "id": 27,
+        "name": "789B 789D 789C 789BDC 66C",
+        "nameExtension": "Big Chows (WP)",
+        "patternid": "2112",
+        "tecPattern": "207,207,208,209,217,218,218,219,226,226,227,228,229,229"
+    },
+    {
+        "fullName": "111B 999B NNN SSS WW : Wright-Patt Wind Tunnel (WP)",
+        "id": 28,
+        "name": "111B 999B NNN SSS WW",
+        "nameExtension": "Wright-Patt Wind Tunnel (WP)",
+        "patternid": "2141",
+        "tecPattern": "201,201,201,209,209,209,230,230,230,232,232,233,233,233"
+    },
+    {
+        "fullName": "13579B 1357C 2468D : Heavenly Hopscotch (WP)",
+        "id": 29,
+        "name": "13579B 1357C 2468D",
+        "nameExtension": "Heavenly Hopscotch (WP)",
+        "patternid": "2121",
+        "tecPattern": "201,203,205,207,209,212,214,216,218,221,223,225,227,229"
+    },
+    {
+        "fullName": "123B 123D 123C 123DBC 44B : Little Chows (WP)",
+        "id": 30,
+        "name": "123B 123D 123C 123DBC 44B",
+        "nameExtension": "Little Chows (WP)",
+        "patternid": "2125",
+        "tecPattern": "201,202,202,203,204,204,211,211,212,213,221,222,223,223"
+    },
+    {
+        "fullName": "456B 456D 456C 456BDC 33D : Middle Chows (WP)",
+        "id": 31,
+        "name": "456B 456D 456C 456BDC 33D",
+        "nameExtension": "Middle Chows (WP)",
+        "patternid": "2129",
+        "tecPattern": "204,204,205,206,213,213,214,215,215,216,224,225,226,226"
+    },
+    {
+        "fullName": "12345678 D EE WW SS : Repression (WP)",
+        "id": 32,
+        "name": "12345678 D EE WW SS",
+        "nameExtension": "Repression (WP)",
+        "patternid": "2137",
+        "tecPattern": "211,212,213,214,215,216,217,218,231,231,232,232,233,233"
+    },
+    {
+        "fullName": "111 2345 5678 999 BD : Open Gates (WP)",
+        "id": 33,
+        "name": "111 2345 5678 999 BD",
+        "nameExtension": "Open Gates (WP)",
+        "patternid": "2134",
+        "tecPattern": "201,201,201,202,203,204,215,216,217,218,219,219,219"
+    },
+    {
+        "fullName": "23456778 111 999 DCB : Confused Gates (WP)",
+        "id": 34,
+        "name": "23456778 111 999 DCB",
+        "nameExtension": "Confused Gates (WP)",
+        "patternid": "2114",
+        "tecPattern": "209,209,209,212,213,214,215,216,217,217,218,221,221,221"
+    },
+    {
+        "fullName": "123B 123D 123C 123DCB 44D : Little Chows (WP)",
+        "id": 35,
+        "name": "123B 123D 123C 123DCB 44D",
+        "nameExtension": "Little Chows (WP)",
+        "patternid": "2125",
+        "tecPattern": "201,202,203,203,211,211,212,213,214,214,221,222,222,223"
+    },
+    {
+        "fullName": "1233456789 19 19 CBD : Little Gates (WP)",
+        "id": 36,
+        "name": "1233456789 19 19 CBD",
+        "nameExtension": "Little Gates (WP)",
+        "patternid": "2126",
+        "tecPattern": "201,209,211,219,221,222,223,223,224,225,226,227,228,229"
+    },
+    {
+        "fullName": "789B 789D 789C 789DBC 66D : Big Chows (WP)",
+        "id": 37,
+        "name": "789B 789D 789C 789DBC 66D",
+        "nameExtension": "Big Chows (WP)",
+        "patternid": "2112",
+        "tecPattern": "207,208,208,209,216,216,217,217,218,219,227,228,229,229"
+    },
+    {
+        "fullName": "1234566789B GWRR : Dragon Line-up (WP)",
+        "id": 38,
+        "name": "1234566789B GWRR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "201,202,203,204,205,206,206,207,208,209,241,242,243,243"
+    },
+    {
+        "fullName": "135B 1357D 13579D RR : Hopscotch (WP)",
+        "id": 39,
+        "name": "135B 1357D 13579D RR",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,211,213,215,217,219,221,223,225,227,243,243"
+    },
+    {
+        "fullName": "111B 999B EEE SSS NN : Wright-Patt Wind Tunnel (WP)",
+        "id": 40,
+        "name": "111B 999B EEE SSS NN",
+        "nameExtension": "Wright-Patt Wind Tunnel (WP)",
+        "patternid": "2141",
+        "tecPattern": "201,201,201,209,209,209,230,230,231,231,231,233,233,233"
+    },
+    {
+        "fullName": "GGG WWW RRR EEE NW : Dragonwyck (WP)",
+        "id": 41,
+        "name": "GGG WWW RRR EEE NW",
+        "nameExtension": "Dragonwyck (WP)",
+        "patternid": "2119",
+        "tecPattern": "230,231,231,231,232,241,241,241,242,242,242,243,243,243"
+    },
+    {
+        "fullName": "135B 1357C 13579D NN : Hopscotch (WP)",
+        "id": 42,
+        "name": "135B 1357C 13579D NN",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,211,213,215,217,219,221,223,225,227,230,230"
+    },
+    {
+        "fullName": "23456789 D NN EE SS : Repression (WP)",
+        "id": 43,
+        "name": "23456789 D NN EE SS",
+        "nameExtension": "Repression (WP)",
+        "patternid": "2137",
+        "tecPattern": "212,213,214,215,216,217,218,219,230,230,231,231,233,233"
+    },
+    {
+        "fullName": "1234567889D GWRR : Dragon Line-up (WP)",
+        "id": 44,
+        "name": "1234567889D GWRR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "211,212,213,214,215,216,217,218,218,219,241,242,243,243"
+    },
+    {
+        "fullName": "135D 1357C 13579B RR : Hopscotch (WP)",
+        "id": 45,
+        "name": "135D 1357C 13579B RR",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,207,209,211,213,215,221,223,225,227,243,243"
+    },
+    {
+        "fullName": "23456778 111 GGG : Dragon Gates (WP)",
+        "id": 46,
+        "name": "23456778 111 GGG",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "201,201,201,202,203,204,205,206,207,207,208,241,241,241"
+    },
+    {
+        "fullName": "135D 1357C 13579B NN : Hopscotch (WP)",
+        "id": 47,
+        "name": "135D 1357C 13579B NN",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,207,209,211,213,215,221,223,225,227,230,230"
+    },
+    {
+        "fullName": "23456778 111 999 D : Heavenly Gates (WP)",
+        "id": 48,
+        "name": "23456778 111 999 D",
+        "nameExtension": "Heavenly Gates (WP)",
+        "patternid": "2120",
+        "tecPattern": "211,211,211,212,213,214,215,216,217,217,218,219,219,219"
+    },
+    {
+        "fullName": "12345C 6789D N EE W S : Picket Fence (WP)",
+        "id": 49,
+        "name": "12345C 6789D N EE W S",
+        "nameExtension": "Picket Fence (WP)",
+        "patternid": "2135",
+        "tecPattern": "216,217,218,219,221,222,223,224,225,230,231,231,232,233"
+    },
+    {
+        "fullName": "1234567789D GGWR : Dragon Line-up (WP)",
+        "id": 50,
+        "name": "1234567789D GGWR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "211,212,213,214,215,216,217,217,218,219,241,241,242,243"
+    },
+    {
+        "fullName": "1804B 1804D NEWS SS : Lewis and Clark (WP)",
+        "id": 51,
+        "name": "1804B 1804D NEWS SS",
+        "nameExtension": "Lewis and Clark (WP)",
+        "patternid": "2124",
+        "tecPattern": "201,204,208,211,214,218,230,231,232,233,233,233,242,242"
+    },
+    {
+        "fullName": "23456678 111 999 CDB : Confused Gates (WP)",
+        "id": 52,
+        "name": "23456678 111 999 CDB",
+        "nameExtension": "Confused Gates (WP)",
+        "patternid": "2114",
+        "tecPattern": "209,209,209,211,211,211,222,223,224,225,226,226,227,228"
+    },
+    {
+        "fullName": "23455678 999 GGG : Dragon Gates (WP)",
+        "id": 53,
+        "name": "23455678 999 GGG",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "202,203,204,205,205,206,207,208,209,209,209,241,241,241"
+    },
+    {
+        "fullName": "1B 1D 1C 9B 9D 9C NEWS RWG W : Angels (WP)",
+        "id": 54,
+        "name": "1B 1D 1C 9B 9D 9C NEWS RWG W",
+        "nameExtension": "Angels (WP)",
+        "patternid": "2111",
+        "tecPattern": "201,209,211,219,221,229,230,231,232,232,233,241,242,243"
+    },
+    {
+        "fullName": "22345678 111 GGG : Dragon Gates (WP)",
+        "id": 55,
+        "name": "22345678 111 GGG",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "201,201,201,202,202,203,204,205,206,207,208,241,241,241"
+    },
+    {
+        "fullName": "1B 1D 1C 9B 9D 9C NEWS RWG 9D : Angels (WP)",
+        "id": 56,
+        "name": "1B 1D 1C 9B 9D 9C NEWS RWG 9D",
+        "nameExtension": "Angels (WP)",
+        "patternid": "2111",
+        "tecPattern": "201,209,211,219,219,221,229,230,231,232,233,241,242,243"
+    },
+    {
+        "fullName": "1234556789B GGWR : Dragon Line-up (WP)",
+        "id": 57,
+        "name": "1234556789B GGWR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "201,202,203,204,205,205,206,207,208,209,241,241,242,243"
+    },
+    {
+        "fullName": "23456788 111 GGG : Dragon Gates (WP)",
+        "id": 58,
+        "name": "23456788 111 GGG",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "201,201,201,202,203,204,205,206,207,208,208,241,241,241"
+    },
+    {
+        "fullName": "12345B 6789D N E WW S : Picket Fence (WP)",
+        "id": 59,
+        "name": "12345B 6789D N E WW S",
+        "nameExtension": "Picket Fence (WP)",
+        "patternid": "2135",
+        "tecPattern": "201,202,203,204,205,216,217,218,219,230,231,232,232,233"
+    },
+    {
+        "fullName": "1234456789 19 19 BDC : Little Gates (WP)",
+        "id": 60,
+        "name": "1234456789 19 19 BDC",
+        "nameExtension": "Little Gates (WP)",
+        "patternid": "2126",
+        "tecPattern": "201,202,203,204,204,205,206,207,208,209,211,219,221,229"
+    },
+    {
+        "fullName": "123456789D NN E W S : News Line-Up (WP)",
+        "id": 61,
+        "name": "123456789D NN E W S",
+        "nameExtension": "News Line-Up (WP)",
+        "patternid": "2130",
+        "tecPattern": "211,212,213,214,215,216,217,218,219,230,230,231,232,233"
+    },
+    {
+        "fullName": "1234566789B GGWR : Dragon Line-up (WP)",
+        "id": 62,
+        "name": "1234566789B GGWR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "201,202,203,204,205,206,206,207,208,209,241,241,242,243"
+    },
+    {
+        "fullName": "23345678 111 RRR : Dragon Gates (WP)",
+        "id": 63,
+        "name": "23345678 111 RRR",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "221,221,221,222,223,223,224,225,226,227,228,243,243,243"
+    },
+    {
+        "fullName": "1804B 1804C NEWS SS : Lewis and Clark (WP)",
+        "id": 64,
+        "name": "1804B 1804C NEWS SS",
+        "nameExtension": "Lewis and Clark (WP)",
+        "patternid": "2124",
+        "tecPattern": "201,204,208,221,224,228,230,231,232,233,233,233,242,242"
+    },
+    {
+        "fullName": "23455678 111 999 DCB : Confused Gates (WP)",
+        "id": 65,
+        "name": "23455678 111 999 DCB",
+        "nameExtension": "Confused Gates (WP)",
+        "patternid": "2114",
+        "tecPattern": "209,209,209,212,213,214,215,215,216,217,218,221,221,221"
+    },
+    {
+        "fullName": "123456789C N EE W S : News Line-Up (WP)",
+        "id": 66,
+        "name": "123456789C N EE W S",
+        "nameExtension": "News Line-Up (WP)",
+        "patternid": "2130",
+        "tecPattern": "221,222,223,224,225,226,227,228,229,230,231,231,232,233"
+    },
+    {
+        "fullName": "1234556789 19 19 CBD : Little Gates (WP)",
+        "id": 67,
+        "name": "1234556789 19 19 CBD",
+        "nameExtension": "Little Gates (WP)",
+        "patternid": "2126",
+        "tecPattern": "201,209,211,219,221,222,223,224,225,225,226,227,228,229"
+    },
+    {
+        "fullName": "1223456789D GGWR : Dragon Line-up (WP)",
+        "id": 68,
+        "name": "1223456789D GGWR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "211,212,212,213,214,215,216,217,218,219,241,241,242,243"
+    },
+    {
+        "fullName": "789B 789D 789C 789CDB 66C : Big Chows (WP)",
+        "id": 69,
+        "name": "789B 789D 789C 789CDB 66C",
+        "nameExtension": "Big Chows (WP)",
+        "patternid": "2112",
+        "tecPattern": "207,208,209,209,217,218,218,219,226,226,227,227,228,229"
+    },
+    {
+        "fullName": "135B 1357D 13579D SS : Hopscotch (WP)",
+        "id": 70,
+        "name": "135B 1357D 13579D SS",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,211,213,215,217,219,221,223,225,227,233,233"
+    },
+    {
+        "fullName": "23456678 111 999 CBD : Confused Gates (WP)",
+        "id": 71,
+        "name": "23456678 111 999 CBD",
+        "nameExtension": "Confused Gates (WP)",
+        "patternid": "2114",
+        "tecPattern": "201,201,201,219,219,219,222,223,224,225,226,226,227,228"
+    },
+    {
+        "fullName": "1233456789B SNOW : Ohio Snow Suit (WP)",
+        "id": 72,
+        "name": "1233456789B SNOW",
+        "nameExtension": "Ohio Snow Suit (WP)",
+        "patternid": "2133",
+        "tecPattern": "201,202,203,203,204,205,206,207,208,209,230,232,233,242"
+    },
+    {
+        "fullName": "23456789 C GG WW RR : Repression (WP)",
+        "id": 73,
+        "name": "23456789 C GG WW RR",
+        "nameExtension": "Repression (WP)",
+        "patternid": "2137",
+        "tecPattern": "222,223,224,225,226,227,228,229,241,241,242,242,243,243"
+    },
+    {
+        "fullName": "22345678 999 WWW : Dragon Gates (WP)",
+        "id": 74,
+        "name": "22345678 999 WWW",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "212,212,213,214,215,216,217,218,219,219,219,242,242,242"
+    },
+    {
+        "fullName": "456B 456D 456C 456DBC 33B : Middle Chows (WP)",
+        "id": 75,
+        "name": "456B 456D 456C 456DBC 33B",
+        "nameExtension": "Middle Chows (WP)",
+        "patternid": "2129",
+        "tecPattern": "203,203,204,205,205,206,214,214,215,216,224,225,226,226"
+    },
+    {
+        "fullName": "111 23456789 RRR : Windy Gates (WP)",
+        "id": 76,
+        "name": "111 23456789 RRR",
+        "nameExtension": "Windy Gates (WP)",
+        "patternid": "2140",
+        "tecPattern": "221,221,221,222,223,224,225,226,227,228,229,243,243,243"
+    },
+    {
+        "fullName": "111B 999B SSS SSS EE : Wright-Patt Wind Tunnel (WP)",
+        "id": 77,
+        "name": "111B 999B SSS SSS EE",
+        "nameExtension": "Wright-Patt Wind Tunnel (WP)",
+        "patternid": "2141",
+        "tecPattern": "201,201,201,209,209,209,231,231,232,232,232,233,233,233"
+    },
+    {
+        "fullName": "1234567789 19 19 BDC : Little Gates (WP)",
+        "id": 78,
+        "name": "1234567789 19 19 BDC",
+        "nameExtension": "Little Gates (WP)",
+        "patternid": "2126",
+        "tecPattern": "201,202,203,204,205,206,207,207,208,209,211,219,221,229"
+    },
+    {
+        "fullName": "44B 77B 44D 77D 44C 77C RR : 4th of July (WP)",
+        "id": 79,
+        "name": "44B 77B 44D 77D 44C 77C RR",
+        "nameExtension": "4th of July (WP)",
+        "patternid": "2110",
+        "tecPattern": "204,204,207,207,214,214,217,217,224,224,227,227,243,243"
+    },
+    {
+        "fullName": "23456788 999 GGG : Dragon Gates (WP)",
+        "id": 80,
+        "name": "23456788 999 GGG",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "202,203,204,205,206,207,208,208,209,209,209,241,241,241"
+    },
+    {
+        "fullName": "135D 1357C 13579B SS : Hopscotch (WP)",
+        "id": 81,
+        "name": "135D 1357C 13579B SS",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,207,209,211,213,215,221,223,225,227,233,233"
+    },
+    {
+        "fullName": "111C 999C NNN WWW EE : Wright-Patt Wind Tunnel (WP)",
+        "id": 82,
+        "name": "111C 999C NNN WWW EE",
+        "nameExtension": "Wright-Patt Wind Tunnel (WP)",
+        "patternid": "2141",
+        "tecPattern": "221,221,221,229,229,229,230,230,230,231,231,232,232,232"
+    },
+    {
+        "fullName": "111C 999C NNN EEE WW : Wright-Patt Wind Tunnel (WP)",
+        "id": 83,
+        "name": "111C 999C NNN EEE WW",
+        "nameExtension": "Wright-Patt Wind Tunnel (WP)",
+        "patternid": "2141",
+        "tecPattern": "221,221,221,229,229,229,230,230,230,231,231,231,232,232"
+    },
+    {
+        "fullName": "1804B 1804D NEWS NN : Lewis and Clark (WP)",
+        "id": 84,
+        "name": "1804B 1804D NEWS NN",
+        "nameExtension": "Lewis and Clark (WP)",
+        "patternid": "2124",
+        "tecPattern": "201,204,208,211,214,218,230,230,230,231,232,233,242,242"
+    },
+    {
+        "fullName": "22345678 111 999 DCB : Confused Gates (WP)",
+        "id": 85,
+        "name": "22345678 111 999 DCB",
+        "nameExtension": "Confused Gates (WP)",
+        "patternid": "2114",
+        "tecPattern": "209,209,209,212,212,213,214,215,216,217,218,221,221,221"
+    },
+    {
+        "fullName": "456B 456D 456C 456CDB 33B : Middle Chows (WP)",
+        "id": 86,
+        "name": "456B 456D 456C 456CDB 33B",
+        "nameExtension": "Middle Chows (WP)",
+        "patternid": "2129",
+        "tecPattern": "203,203,204,205,206,206,214,215,215,216,224,224,225,226"
+    },
+    {
+        "fullName": "1234456789C SNOW : Ohio Snow Suit (WP)",
+        "id": 87,
+        "name": "1234456789C SNOW",
+        "nameExtension": "Ohio Snow Suit (WP)",
+        "patternid": "2133",
+        "tecPattern": "221,222,223,224,224,225,226,227,228,229,230,232,233,242"
+    },
+    {
+        "fullName": "23455678 999 WWW : Dragon Gates (WP)",
+        "id": 88,
+        "name": "23455678 999 WWW",
+        "nameExtension": "Dragon Gates (WP)",
+        "patternid": "2116",
+        "tecPattern": "212,213,214,215,215,216,217,218,219,219,219,242,242,242"
+    },
+    {
+        "fullName": "1B 1D 1C 9B 9D 9C NEWS RWG N : Angels (WP)",
+        "id": 89,
+        "name": "1B 1D 1C 9B 9D 9C NEWS RWG N",
+        "nameExtension": "Angels (WP)",
+        "patternid": "2111",
+        "tecPattern": "201,209,211,219,221,229,230,230,231,232,233,241,242,243"
+    },
+    {
+        "fullName": "12345D 6789B NN E W S : Picket Fence (WP)",
+        "id": 90,
+        "name": "12345D 6789B NN E W S",
+        "nameExtension": "Picket Fence (WP)",
+        "patternid": "2135",
+        "tecPattern": "206,207,208,209,211,212,213,214,215,230,230,231,232,233"
+    },
+    {
+        "fullName": "23445678 111 999 DCB : Confused Gates (WP)",
+        "id": 91,
+        "name": "23445678 111 999 DCB",
+        "nameExtension": "Confused Gates (WP)",
+        "patternid": "2114",
+        "tecPattern": "209,209,209,212,213,214,214,215,216,217,218,221,221,221"
+    },
+    {
+        "fullName": "1B 1D 1C 9B 9D 9C NEWS RWG 1B : Angels (WP)",
+        "id": 92,
+        "name": "1B 1D 1C 9B 9D 9C NEWS RWG 1B",
+        "nameExtension": "Angels (WP)",
+        "patternid": "2111",
+        "tecPattern": "201,201,209,211,219,221,229,230,231,232,233,241,242,243"
+    },
+    {
+        "fullName": "123456789C N E WW S : News Line-Up (WP)",
+        "id": 93,
+        "name": "123456789C N E WW S",
+        "nameExtension": "News Line-Up (WP)",
+        "patternid": "2130",
+        "tecPattern": "221,222,223,224,225,226,227,228,229,230,231,232,232,233"
+    },
+    {
+        "fullName": "GGG WWW RRR NNN EW : Dragonwyck (WP)",
+        "id": 94,
+        "name": "GGG WWW RRR NNN EW",
+        "nameExtension": "Dragonwyck (WP)",
+        "patternid": "2119",
+        "tecPattern": "230,230,230,231,232,241,241,241,242,242,242,243,243,243"
+    },
+    {
+        "fullName": "135B 1357D 13579D GG : Hopscotch (WP)",
+        "id": 95,
+        "name": "135B 1357D 13579D GG",
+        "nameExtension": "Hopscotch (WP)",
+        "patternid": "2122",
+        "tecPattern": "201,203,205,211,213,215,217,219,221,223,225,227,241,241"
+    },
+    {
+        "fullName": "111B 999B EEE WWW NN : Wright-Patt Wind Tunnel (WP)",
+        "id": 96,
+        "name": "111B 999B EEE WWW NN",
+        "nameExtension": "Wright-Patt Wind Tunnel (WP)",
+        "patternid": "2141",
+        "tecPattern": "201,201,201,209,209,209,230,230,231,231,231,232,232,232"
+    },
+    {
+        "fullName": "789B 789D 789C 789BDC 66B : Big Chows (WP)",
+        "id": 97,
+        "name": "789B 789D 789C 789BDC 66B",
+        "nameExtension": "Big Chows (WP)",
+        "patternid": "2112",
+        "tecPattern": "206,206,207,207,208,209,217,218,218,219,227,228,229,229"
+    },
+    {
+        "fullName": "1223456789C GWWR : Dragon Line-up (WP)",
+        "id": 98,
+        "name": "1223456789C GWWR",
+        "nameExtension": "Dragon Line-up (WP)",
+        "patternid": "2117",
+        "tecPattern": "221,222,222,223,224,225,226,227,228,229,241,242,242,243"
+    },
+    {
+        "fullName": "GGG WWW RRR EEE WS : Dragonwyck (WP)",
+        "id": 99,
+        "name": "GGG WWW RRR EEE WS",
+        "nameExtension": "Dragonwyck (WP)",
+        "patternid": "2119",
+        "tecPattern": "231,231,231,232,233,241,241,241,242,242,242,243,243,243"
+    },
+    {
+        "fullName": "1B 1D 1C 9B 9D 9C NEWS RWG W : Angels (WP)",
+        "id": 100,
+        "name": "1B 1D 1C 9B 9D 9C NEWS RWG W",
+        "nameExtension": "Angels (WP)",
+        "patternid": "2111",
+        "tecPattern": "201,209,211,219,221,229,230,231,232,233,241,242,242,243"
+    }
+]
