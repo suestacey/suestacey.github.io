@@ -1,0 +1,74 @@
+[
+{
+  "title": "Bluh",
+  "location": "Micaela, Bucks, 1 Bam, Purple Eyes",
+  "id": 0,
+  	 "images": [
+		"purpleeyes",
+		"bucks",
+		"bam1",
+		"micaela"
+	],
+"imageName":[
+		"Purple Eyes",
+		"Bucks",
+		"1 Bam",
+		"Micaela"
+],
+  "tags": "Group 1"
+},
+{
+  "title": "Blah",
+  "location": "Cee, Deva, Two Tone, Red Eyes",
+  "id": 1,
+  	 "images": [
+		"redeyes",
+		"deva",
+		"flowerag",
+		"flowerae"
+	],
+"imageName":[
+		"Cee",
+		"Deva",
+		"Two Tone",
+		"Red Eyes"
+],
+  "tags": "Group 2"
+},
+{
+  "title": "Bleh",
+  "location": "Sting, Tops, Bacon, Trickster",
+  "id": 2,
+  	 "images": [
+		"flowerr",
+		"greeneyes",
+		"flowerttt",
+		"floweru2"
+	],
+"imageName":[
+		"Sting",
+		"Tops",
+		"Bacon",
+		"Trickster"
+],
+  "tags": "Group 3"
+},
+{
+  "title": "Blih",
+  "location": "Ghosts, Smokies, Bandits, Blue Eyes",
+  "id": 3,
+  	 "images": [
+		"blueeyes",
+		"smokies",
+		"bandits",
+		"ghosts"
+	],
+"imageName":[
+		"Ghosts",
+		"Smokies",
+		"Bandits",
+		"Blue Eyes"
+],
+  "tags": "Group 4"
+}
+]
