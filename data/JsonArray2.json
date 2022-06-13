@@ -9,12 +9,12 @@
 		"bam1",
 		"micaela"
 	],
-"imageName":[
+	"imageName":[
 		"Purple Eyes",
 		"Bucks",
 		"1 Bam",
 		"Micaela"
-],
+	],
   "tags": "Group 1"
 },
 {
@@ -27,12 +27,12 @@
 		"flowerag",
 		"flowerae"
 	],
-"imageName":[
+	"imageName":[
 		"Cee",
 		"Deva",
 		"Two Tone",
 		"Red Eyes"
-],
+	],
   "tags": "Group 2"
 },
 {
@@ -45,12 +45,12 @@
 		"flowerttt",
 		"floweru2"
 	],
-"imageName":[
+	"imageName":[
 		"Sting",
 		"Tops",
 		"Bacon",
 		"Trickster"
-],
+	],
   "tags": "Group 3"
 },
 {
@@ -63,12 +63,12 @@
 		"bandits",
 		"ghosts"
 	],
-"imageName":[
+	"imageName":[
 		"Ghosts",
 		"Smokies",
 		"Bandits",
 		"Blue Eyes"
-],
+	],
   "tags": "Group 4"
 }
 ]
