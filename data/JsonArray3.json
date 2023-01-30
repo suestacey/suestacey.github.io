@@ -1,0 +1,74 @@
+[
+{
+  "title": "Bluh",
+  "location": "Micaela, Bucks, 1 Bam, Purple Eyes",
+  "id": 0,
+  	 "images": [
+		"https://suestacey.github.io/imageGallery/img/purpleeyes",
+		"https://suestacey.github.io/imageGallery/img/bucks",
+		"https://suestacey.github.io/imageGallery/img/bam1",
+		"https://suestacey.github.io/imageGallery/img/micaela"
+	],
+"imageName":[
+		"Purple Eyes",
+		"Bucks",
+		"1 Bam",
+		"Micaela"
+],
+  "tags": "Group 1"
+},
+{
+  "title": "Blah",
+  "location": "Cee, Deva, Two Tone, Red Eyes",
+  "id": 1,
+  	 "images": [
+		"https://suestacey.github.io/imageGallery/img/redeyes",
+		"https://suestacey.github.io/imageGallery/img/deva",
+		"https://suestacey.github.io/imageGallery/img/flowerag",
+		"https://suestacey.github.io/imageGallery/img/flowerae"
+	],
+"imageName":[
+		"Cee",
+		"Deva",
+		"Two Tone",
+		"Red Eyes"
+],
+  "tags": "Group 2"
+},
+{
+  "title": "Bleh",
+  "location": "Sting, Tops, Bacon, Trickster",
+  "id": 2,
+  	 "images": [
+		"https://suestacey.github.io/imageGallery/img/flowerr",
+		"https://suestacey.github.io/imageGallery/img/greeneyes",
+		"https://suestacey.github.io/imageGallery/img/flowerttt",
+		"https://suestacey.github.io/imageGallery/img/floweru2"
+	],
+"imageName":[
+		"Sting",
+		"Tops",
+		"Bacon",
+		"Trickster"
+],
+  "tags": "Group 3"
+},
+{
+  "title": "Blih",
+  "location": "Ghosts, Smokies, Bandits, Blue Eyes",
+  "id": 3,
+  	 "images": [
+		"https://suestacey.github.io/imageGallery/img/ghosts",
+		"https://suestacey.github.io/imageGallery/img/smokies",
+		"https://suestacey.github.io/imageGallery/img/bandits",
+		"https://suestacey.github.io/imageGallery/img/blueeyes"
+	],
+"imageName":[		
+		"Blue Eyes",
+		"Smokies",
+		"Bandits",
+		"Ghosts"
+],
+  "tags": "Group 4"
+}
+]
