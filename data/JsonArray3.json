@@ -4,10 +4,10 @@
   "location": "Micaela, Bucks, 1 Bam, Purple Eyes",
   "id": 0,
   	 "images": [
-		"https://suestacey.github.io/imageGallery/img/purpleeyes",
-		"https://suestacey.github.io/imageGallery/img/bucks",
-		"https://suestacey.github.io/imageGallery/img/bam1",
-		"https://suestacey.github.io/imageGallery/img/micaela"
+		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
+		"https://suestacey.github.io/imageGallery/img/bucks.png",
+		"https://suestacey.github.io/imageGallery/img/bam1.png",
+		"https://suestacey.github.io/imageGallery/img/micaela.png"
 	],
 "imageName":[
 		"Purple Eyes",
@@ -22,10 +22,10 @@
   "location": "Cee, Deva, Two Tone, Red Eyes",
   "id": 1,
   	 "images": [
-		"https://suestacey.github.io/imageGallery/img/redeyes",
-		"https://suestacey.github.io/imageGallery/img/deva",
-		"https://suestacey.github.io/imageGallery/img/flowerag",
-		"https://suestacey.github.io/imageGallery/img/flowerae"
+		"https://suestacey.github.io/imageGallery/img/redeyes.png",
+		"https://suestacey.github.io/imageGallery/img/deva.png",
+		"https://suestacey.github.io/imageGallery/img/flowerag.png",
+		"https://suestacey.github.io/imageGallery/img/flowerae.png"
 	],
 "imageName":[
 		"Cee",
@@ -40,10 +40,10 @@
   "location": "Sting, Tops, Bacon, Trickster",
   "id": 2,
   	 "images": [
-		"https://suestacey.github.io/imageGallery/img/flowerr",
-		"https://suestacey.github.io/imageGallery/img/greeneyes",
-		"https://suestacey.github.io/imageGallery/img/flowerttt",
-		"https://suestacey.github.io/imageGallery/img/floweru2"
+		"https://suestacey.github.io/imageGallery/img/flowerr.png",
+		"https://suestacey.github.io/imageGallery/img/greeneyes.png",
+		"https://suestacey.github.io/imageGallery/img/flowerttt.png",
+		"https://suestacey.github.io/imageGallery/img/floweru2.png"
 	],
 "imageName":[
 		"Sting",
@@ -58,10 +58,10 @@
   "location": "Ghosts, Smokies, Bandits, Blue Eyes",
   "id": 3,
   	 "images": [
-		"https://suestacey.github.io/imageGallery/img/ghosts",
-		"https://suestacey.github.io/imageGallery/img/smokies",
-		"https://suestacey.github.io/imageGallery/img/bandits",
-		"https://suestacey.github.io/imageGallery/img/blueeyes"
+		"https://suestacey.github.io/imageGallery/img/ghosts.png",
+		"https://suestacey.github.io/imageGallery/img/smokies.png",
+		"https://suestacey.github.io/imageGallery/img/bandits.png",
+		"https://suestacey.github.io/imageGallery/img/blueeyes.png"
 	],
 "imageName":[		
 		"Blue Eyes",
