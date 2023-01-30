@@ -1,7 +1,7 @@
 [
 {
   "title": "Bluh",
-  "location": "Micaela, Bucks, 1 Bam, Purple Eyes",
+  "location": "The Mind",
   "id": 0,
   	 "images": [
 		"purpleeyes",
@@ -9,17 +9,17 @@
 		"bam1",
 		"micaela"
 	],
-"imageName":[
+	"imageName":[
 		"Purple Eyes",
 		"Bucks",
-		"1Bam",
+		"1 Bam",
 		"Micaela"
-],
+	],
   "tags": "Group 1"
 },
 {
   "title": "Blah",
-  "location": "Cee, Deva, Two Tone, Red Eyes",
+  "location": "Space Station",
   "id": 1,
   	 "images": [
 		"redeyes",
@@ -27,17 +27,17 @@
 		"flowerag",
 		"flowerae"
 	],
-"imageName":[
-		"Ceee",
+	"imageName":[
+		"Red Eyes",
 		"Deva",
 		"Two Tone",
-		"Red Eyes"
-],
+		"Ceee"
+	],
   "tags": "Group 2"
 },
 {
   "title": "Bleh",
-  "location": "Sting, Tops, Bacon, Trickster",
+  "location": "Little Cayman",
   "id": 2,
   	 "images": [
 		"flowerr",
@@ -45,17 +45,17 @@
 		"flowerttt",
 		"floweru2"
 	],
-"imageName":[
-		"Sting",
-		"Tops",
+	"imageName":[
+		"Trickster",
+		"Green Eyes",
 		"Bacon",
-		"Trickster"
-],
+		"Sting"
+	],
   "tags": "Group 3"
 },
 {
   "title": "Blih",
-  "location": "Ghosts, Smokies, Bandits, Blue Eyes",
+  "location": "Indonesia",
   "id": 3,
   	 "images": [
 		"blueeyes",
@@ -63,12 +63,12 @@
 		"bandits",
 		"ghosts"
 	],
-"imageName":[
-		"Ghosts",
+	"imageName":[
+		"Blue Eyes",
 		"Smokies",
 		"Bandits",
-		"Blue Eyes"
-],
+		"Ghosts"
+	],
   "tags": "Group 4"
 }
 ]
