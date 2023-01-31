@@ -9,7 +9,7 @@
 		"bam1",
 		"micaela"
 	],
-  	 "imagURL": [
+  	 "imageURL": [
 		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
 		"https://suestacey.github.io/imageGallery/img/bucks.png",
 		"https://suestacey.github.io/imageGallery/img/bam1.png",
@@ -33,7 +33,7 @@
 		"flowerag",
 		"flowerae"
 	],
-  	 "imagURL": [
+  	 "imageURL": [
 		"https://suestacey.github.io/imageGallery/img/redeyes.png",
 		"https://suestacey.github.io/imageGallery/img/deva.png",
 		"https://suestacey.github.io/imageGallery/img/flowerag.png",
@@ -52,14 +52,20 @@
   "location": "Little Cayman",
   "id": 2,
   	 "images": [
-		"flowerr",
 		"greeneyes",
+		"flowerr",
 		"flowerttt",
 		"floweru2"
 	],
+  	 "imageURL": [
+		"https://suestacey.github.io/imageGallery/img/greeneyes.png",
+		"https://suestacey.github.io/imageGallery/img/"flowerr",.png",
+		"https://suestacey.github.io/imageGallery/img/flowerttt.png",
+		"https://suestacey.github.io/imageGallery/img/floweru2.png"
+	],
 	"imageName":[
-		"Trickster",
 		"Green Eyes",
+		"Trickster",
 		"Bacon",
 		"Sting"
 	],
@@ -74,6 +80,12 @@
 		"smokies",
 		"bandits",
 		"ghosts"
+	],
+  	 "imageURL": [
+		"https://suestacey.github.io/imageGallery/img/blueeyes.png",
+		"https://suestacey.github.io/imageGallery/img/smokies.png",
+		"https://suestacey.github.io/imageGallery/img/bandits.png",
+		"https://suestacey.github.io/imageGallery/img/ghosts.png"
 	],
 	"imageName":[
 		"Blue Eyes",
