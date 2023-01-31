@@ -4,6 +4,12 @@
   "location": "The Mind",
   "id": 0,
   	 "images": [
+		"purpleeyes",
+		"bucks",
+		"bam1",
+		"micaela"
+	],
+  	 "imagURL": [
 		"https://suestacey.github.io/imageGallery/img/purpleeyes.png",
 		"https://suestacey.github.io/imageGallery/img/bucks.png",
 		"https://suestacey.github.io/imageGallery/img/bam1.png",
@@ -26,6 +32,12 @@
 		"deva",
 		"flowerag",
 		"flowerae"
+	],
+  	 "imagURL": [
+		"https://suestacey.github.io/imageGallery/img/redeyes.png",
+		"https://suestacey.github.io/imageGallery/img/deva.png",
+		"https://suestacey.github.io/imageGallery/img/flowerag.png",
+		"https://suestacey.github.io/imageGallery/img/flowerae.png"
 	],
 	"imageName":[
 		"Red Eyes",
