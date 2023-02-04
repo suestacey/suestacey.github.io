@@ -1,30 +1,30 @@
 [
-   {
-      "name":"1 Bam",
-      "imageFile":"bam1.png",
-      "tileCode":2,
-      "tileEquivCode":101,
-      "noJokerEquivCode":201
-   },
-   {
-      "name":"2 Bam",
-      "imageFile":"bam2.png",
-      "tileCode":3,
-      "tileEquivCode":102,
-      "noJokerEquivCode":202
-   },
-   {
-      "name":"3 Bam",
-      "imageFile":"bam3.png",
-      "tileCode":4,
-      "tileEquivCode":103,
-      "noJokerEquivCode":203
-   },
-   {
-      "name":"4 Bam",
-      "imageFile":"bam4.png",
-      "tileCode":5,
-      "tileEquivCode":104,
-      "noJokerEquivCode":204
-   }
+   {
+      "name":"1 Bam",
+      "imageFile":"bam1.png",
+      "tileCode":2,
+      "tileEquivCode":101,
+      "noJokerEquivCode":201
+   },
+   {
+      "name":"2 Bam",
+      "imageFile":"bam2.png",
+      "tileCode":3,
+      "tileEquivCode":102,
+      "noJokerEquivCode":202
+   },
+   {
+      "name":"3 Bam",
+      "imageFile":"bam3.png",
+      "tileCode":4,
+      "tileEquivCode":103,
+      "noJokerEquivCode":203
+   },
+   {
+      "name":"4 Bam",
+      "imageFile":"bam4.png",
+      "tileCode":5,
+      "tileEquivCode":104,
+      "noJokerEquivCode":204
+   }
 ]
