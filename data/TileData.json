@@ -1,5 +1,15 @@
 [
    {
+      "name":"Flower",
+      "imageFile":"bucks.png",
+      "tileCode":1,
+      "tileEquivCode":100,
+      "noJokerEquivCode":20,
+      "tileMax":8,
+      "rank":1,
+      "suitID":1
+   },
+   {
       "name":"1 Bam",
       "imageFile":"bam1.png",
       "tileCode":2,
