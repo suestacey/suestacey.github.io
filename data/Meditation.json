@@ -1,0 +1,46 @@
+[{
+		"id": 0,
+		"date": 20230218,
+		"dateString": "2023-02-18T12:00:00.000Z",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1,
+		"date": 20230219,
+		"dateString": "2023-02-19T12:00:00.000Z",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 2,
+		"date": 20230220,
+		"dateString": "2023-02-20T12:00:00.000Z",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": "None"
+	},
+	{
+		"id": 3,
+		"date": 20230220,
+		"dateString": "2023-02-21T12:00:00.000Z",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 4,
+		"date": 20230222,
+		"dateString": "2023-02-22T12:00:00.000Z",
+		"sessionNumber": 1,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	}
+]
