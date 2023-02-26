@@ -1,7 +1,7 @@
 [
 {
   "title": "Bluh",
-  "location": "The Mind",
+  "location": "Indonesia",
   "id": 0,
   	 "images": [
 		"purpleeyes",
@@ -25,7 +25,7 @@
 },
 {
   "title": "Blah",
-  "location": "Space Station",
+  "location": "The Maldives",
   "id": 1,
   	 "images": [
 		"redeyes",
@@ -49,7 +49,7 @@
 },
 {
   "title": "Bleh",
-  "location": "Little Cayman",
+  "location": "Saba",
   "id": 2,
   	 "images": [
 		"greeneyes",
@@ -73,7 +73,7 @@
 },
 {
   "title": "Blih",
-  "location": "Indonesia",
+  "location": "Little Cayman",
   "id": 3,
   	 "images": [
 		"blueeyes",
