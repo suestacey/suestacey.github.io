@@ -1,7 +1,7 @@
 [{
 		"id": 0,
 		"sessionDate": 20230218,
-		"dateString": "2023-02-18T12:00:000Z",
+		"dateString": "2023-02-18T12:00:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -10,7 +10,7 @@
 	{
 		"id": 1,
 		"sessionDate": 20230219,
-		"dateString": "2023-02-19T12:00:000Z",
+		"dateString": "2023-02-19T12:00:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
@@ -19,7 +19,7 @@
 	{
 		"id": 2,
 		"sessionDate": 20230220,
-		"dateString": "2023-02-20T12:00:000Z",
+		"dateString": "2023-02-20T12:00:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -28,7 +28,7 @@
 	{
 		"id": 3,
 		"sessionDate": 20230221,
-		"dateString": "2023-02-21T12:00:000Z",
+		"dateString": "2023-02-21T12:00:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -37,7 +37,7 @@
 	{
 		"id": 4,
 		"sessionDate": 20230222,
-		"dateString": "2023-02-22T12:00:000Z",
+		"dateString": "2023-02-22T12:00:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Late Afternoon",
 		"lengthOfTime": 21,
@@ -46,7 +46,7 @@
 	{
 		"id": 5,
 		"sessionDate": 20230223,
-		"dateString": "2023-02-23T12:00:000Z",
+		"dateString": "2023-02-23T12:00:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
@@ -55,7 +55,7 @@
 	{
 		"id": 6,
 		"sessionDate": 20230224,
-		"dateString": "2023-02-24T12:00:000Z",
+		"dateString": "2023-02-24T12:00:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -64,7 +64,7 @@
 	{
 		"id": 7,
 		"sessionDate": 20230225,
-		"dateString": "2023-02-25T12:00:000Z",
+		"dateString": "2023-02-25T12:00:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
@@ -73,7 +73,7 @@
 	{
 		"id": 8,
 		"sessionDate": 20230225,
-		"dateString": "2023-02-25T12:00:000Z",
+		"dateString": "2023-02-25T12:00:00Z",
 		"sessionNumber": 2,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
@@ -82,7 +82,7 @@
 	{
 		"id": 9,
 		"sessionDate": 20230226,
-		"dateString": "2023-02-26T12:00:000Z",
+		"dateString": "2023-02-26T12:00:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -91,7 +91,7 @@
 	{
 		"id": 10,
 		"sessionDate": 20230226,
-		"dateString": "2023-02-26T12:00:000Z",
+		"dateString": "2023-02-26T12:00:00Z",
 		"sessionNumber": 2,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -100,7 +100,7 @@
 	{
 		"id": 11,
 		"sessionDate": 20230227,
-		"dateString": "2023-02-27T12:00:000Z",
+		"dateString": "2023-02-27T03:11:00Z",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
