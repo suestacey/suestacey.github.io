@@ -1,6 +1,6 @@
 [{
 		"id": 0,
-		"date": 20230218,
+		"sessionDate": 20230218,
 		"dateString": "2023-02-18T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
@@ -9,7 +9,7 @@
 	},
 	{
 		"id": 1,
-		"date": 20230219,
+		"sessionDate": 20230219,
 		"dateString": "2023-02-19T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
@@ -18,7 +18,7 @@
 	},
 	{
 		"id": 2,
-		"date": 20230220,
+		"sessionDate": 20230220,
 		"dateString": "2023-02-20T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
@@ -27,7 +27,7 @@
 	},
 	{
 		"id": 3,
-		"date": 20230221,
+		"sessionDate": 20230221,
 		"dateString": "2023-02-21T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
@@ -36,7 +36,7 @@
 	},
 	{
 		"id": 4,
-		"date": 20230222,
+		"sessionDate": 20230222,
 		"dateString": "2023-02-22T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Late Afternoon",
@@ -45,7 +45,7 @@
 	},
 	{
 		"id": 5,
-		"date": 20230223,
+		"sessionDate": 20230223,
 		"dateString": "2023-02-23T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Afternoon",
@@ -54,7 +54,7 @@
 	},
 	{
 		"id": 6,
-		"date": 20230224,
+		"sessionDate": 20230224,
 		"dateString": "2023-02-24T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
@@ -63,7 +63,7 @@
 	},
 	{
 		"id": 7,
-		"date": 20230225,
+		"sessionDate": 20230225,
 		"dateString": "2023-02-25T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
@@ -72,7 +72,7 @@
 	},
 	{
 		"id": 8,
-		"date": 20230225,
+		"sessionDate": 20230225,
 		"dateString": "2023-02-25T12:00:00.000Z",
 		"sessionNumber": 2,
 		"timePeriod": "Middle of the Night",
@@ -81,7 +81,7 @@
 	},
 	{
 		"id": 9,
-		"date": 20230226,
+		"sessionDate": 20230226,
 		"dateString": "2023-02-26T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
@@ -90,7 +90,7 @@
 	},
 	{
 		"id": 10,
-		"date": 20230226,
+		"sessionDate": 20230226,
 		"dateString": "2023-02-26T12:00:00.000Z",
 		"sessionNumber": 2,
 		"timePeriod": "Before Dawn",
@@ -99,7 +99,7 @@
 	},
 	{
 		"id": 11,
-		"date": 20230227,
+		"sessionDate": 20230227,
 		"dateString": "2023-02-27T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
