@@ -96,5 +96,14 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 11,
+		"date": 20230227,
+		"dateString": "2023-02-27T12:00:00.000Z",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
