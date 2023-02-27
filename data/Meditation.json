@@ -1,6 +1,6 @@
 [{
 		"id": 0,
-		"date": 02182023,
+		"date": 2182023,
 		"dateString": "2023-02-18T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
@@ -9,7 +9,7 @@
 	},
 	{
 		"id": 1,
-		"date": 02192023,
+		"date": 2192023,
 		"dateString": "2023-02-19T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
@@ -18,7 +18,7 @@
 	},
 	{
 		"id": 2,
-		"date": 02202023,
+		"date": 2202023,
 		"dateString": "2023-02-20T12:00:00.000Z",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
