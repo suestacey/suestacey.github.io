@@ -1,6 +1,6 @@
 [{
 		"id": 0,
-		"sessionDate": 02/18/2023,
+		"sessionDate": "02/18/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -8,7 +8,7 @@
 	},
 	{
 		"id": 1,
-		"sessionDate": 02/19/2023,
+		"sessionDate": "02/19/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
@@ -16,7 +16,7 @@
 	},
 	{
 		"id": 2,
-		"sessionDate": 02/20/2023,
+		"sessionDate": "02/20/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -24,7 +24,7 @@
 	},
 	{
 		"id": 3,
-		"sessionDate": 02/21/2023,
+		"sessionDate": "02/21/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -32,7 +32,7 @@
 	},
 	{
 		"id": 4,
-		"sessionDate": 02/22/2023,
+		"sessionDate": "02/22/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Late Afternoon",
 		"lengthOfTime": 21,
@@ -40,7 +40,7 @@
 	},
 	{
 		"id": 5,
-		"sessionDate": 02/23/2023,
+		"sessionDate": "02/23/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
@@ -48,7 +48,7 @@
 	},
 	{
 		"id": 6,
-		"sessionDate": 02/24/2023,
+		"sessionDate": "02/24/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -56,7 +56,7 @@
 	},
 	{
 		"id": 7,
-		"sessionDate": 02/25/2023,
+		"sessionDate": "02/25/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
@@ -64,7 +64,7 @@
 	},
 	{
 		"id": 8,
-		"sessionDate": 02/25/2023,
+		"sessionDate": "02/25/2023",
 		"sessionNumber": 2,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
@@ -72,7 +72,7 @@
 	},
 	{
 		"id": 9,
-		"sessionDate": 02/26/2023,
+		"sessionDate": "02/26/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -80,7 +80,7 @@
 	},
 	{
 		"id": 10,
-		"sessionDate": 02/26/2023,
+		"sessionDate": "02/26/2023",
 		"sessionNumber": 2,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
@@ -88,7 +88,7 @@
 	},
 	{
 		"id": 11,
-		"sessionDate": 02/27/2023,
+		"sessionDate": "02/27/2023",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
