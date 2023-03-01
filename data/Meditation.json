@@ -117,5 +117,25 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 12,
+		"sessionDate": 20230228,
+		"dateString": "2023-02-28T12:00:00Z",
+		"dateString2": "2023-02-28",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 13,
+		"sessionDate": 20230301,
+		"dateString": "2023-03-01T03:11:00Z",
+		"dateString2": "2023-03-01",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
