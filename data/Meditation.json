@@ -131,7 +131,7 @@
 	{
 		"id": 13,
 		"sessionDate": 20230301,
-		"dateString": "2023-03-01T03:11:00Z",
+		"dateString": "2023-03-01T00:00:00Z",
 		"dateString2": "2023-03-01",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
@@ -141,11 +141,22 @@
 	{
 		"id": 14,
 		"sessionDate": 20230302,
-		"dateString": "2023-03-02T03:11:00Z",
+		"dateString": "2023-03-02T00:00:00Z",
 		"dateString2": "2023-03-02",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 15,
+		"sessionDate": 20230303,
+		"dateString": "2023-03-03T00:00:00Z",
+		"dateString2": "2023-03-03",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
+
 ]
