@@ -157,6 +157,26 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 16,
+		"sessionDate": 20230304,
+		"dateString": "2023-03-04T00:00:00Z",
+		"dateString2": "2023-03-04",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 17,
+		"sessionDate": 20230305,
+		"dateString": "2023-03-05T00:00:00Z",
+		"dateString2": "2023-03-05",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 
 ]
