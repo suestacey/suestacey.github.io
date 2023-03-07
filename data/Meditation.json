@@ -174,7 +174,27 @@
 		"dateString": "2023-03-05T00:00:00Z",
 		"dateString2": "2023-03-05",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Last Thing",
+		"lengthOfTime": 21,
+		"comments": "Almost forgot"
+	},
+	{
+		"id": 18,
+		"sessionDate": 20230306,
+		"dateString": "2023-03-06T00:00:00Z",
+		"dateString2": "2023-03-06",
+		"sessionNumber": 1,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 19,
+		"sessionDate": 20230307,
+		"dateString": "2023-03-07T00:00:00Z",
+		"dateString2": "2023-03-07",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
