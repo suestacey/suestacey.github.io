@@ -294,6 +294,36 @@
 		"dateString": "2023-03-17T00:00:00Z",
 		"dateString2": "2023-03-17",
 		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 30,
+		"sessionDate": 20230318,
+		"dateString": "2023-03-18T00:00:00Z",
+		"dateString2": "2023-03-18",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 31,
+		"sessionDate": 20230319,
+		"dateString": "2023-03-19T00:00:00Z",
+		"dateString2": "2023-03-19",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": "Kinda-Like-Asleep Meditation"
+	},
+	{
+		"id": 32,
+		"sessionDate": 20230320,
+		"dateString": "2023-03-20T00:00:00Z",
+		"dateString2": "2023-03-20",
+		"sessionNumber": 1,
 		"timePeriod": "Not Yet",
 		"lengthOfTime": 21,
 		"comments": ""
