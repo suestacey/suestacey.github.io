@@ -316,13 +316,23 @@
 		"sessionNumber": 1,
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
-		"comments": "Kinda-Like-Asleep Meditation"
+		"comments": "Hypnogogic Meditation"
 	},
 	{
 		"id": 32,
 		"sessionDate": 20230320,
 		"dateString": "2023-03-20T00:00:00Z",
 		"dateString2": "2023-03-20",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 40,
+		"comments": "Hypnogogic Meditation"
+	},
+	{
+		"id": 33,
+		"sessionDate": 20230321,
+		"dateString": "2023-03-21T00:00:00Z",
+		"dateString2": "2023-03-21",
 		"sessionNumber": 1,
 		"timePeriod": "Not Yet",
 		"lengthOfTime": 21,
