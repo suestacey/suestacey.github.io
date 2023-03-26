@@ -357,5 +357,35 @@
 		"timePeriod": "Noon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 36,
+		"sessionDate": 20230324,
+		"dateString": "2023-03-24T00:00:00Z",
+		"dateString2": "2023-03-24",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 37,
+		"sessionDate": 20230325,
+		"dateString": "2023-03-25T00:00:00Z",
+		"dateString2": "2023-03-25",
+		"sessionNumber": 1,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 38,
+		"sessionDate": 20230326,
+		"dateString": "2023-03-26T00:00:00Z",
+		"dateString2": "2023-03-26",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
