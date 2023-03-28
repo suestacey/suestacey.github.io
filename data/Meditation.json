@@ -397,5 +397,15 @@
 		"timePeriod": "Late Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":40,
+		"sessionDate": 20230328,
+		"dateString": "2023-03-28T00:00:00Z",
+		"dateString2": "2023-03-28",
+		"sessionNumber": 1,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime": 21,
+		"comments": "4:30 pm has been the goto time for meditation the last 4 days"
 	}
 ]
