@@ -457,5 +457,25 @@
 		"timePeriod": "Noon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":46,
+		"sessionDate": 20230403,
+		"dateString": "2023-04-03T00:00:00Z",
+		"dateString2": "2023-04-03",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": "Interrupting the Brain"
+	},
+	{
+		"id":47,
+		"sessionDate": 20230403,
+		"dateString": "2023-04-03T00:00:00Z",
+		"dateString2": "2023-04-03",
+		"sessionNumber": 2,
+		"timePeriod": "Dawn",
+		"lengthOfTime": 22,
+		"comments": ""
 	}
 ]
