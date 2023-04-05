@@ -477,5 +477,15 @@
 		"timePeriod": "Dawn",
 		"lengthOfTime": 22,
 		"comments": ""
+	},
+	{
+		"id":48,
+		"sessionDate": 20230404,
+		"dateString": "2023-04-04T00:00:00Z",
+		"dateString2": "2023-04-04",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
