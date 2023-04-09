@@ -517,5 +517,25 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":52,
+		"sessionDate": 20230408,
+		"dateString": "2023-04-08T00:00:00Z",
+		"dateString2": "2023-04-08",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":53,
+		"sessionDate": 20230409,
+		"dateString": "2023-04-09T00:00:00Z",
+		"dateString2": "2023-04-09",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": "Interrupted 14 minutes in by hair.  Started over, mind chatter for awhile, then huge brightness and then .... WOW, I'm done, are you sure?"
 	}
 ]
