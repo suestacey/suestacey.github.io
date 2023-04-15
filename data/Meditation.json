@@ -574,6 +574,26 @@
 		"dateString": "2023-04-13T00:00:00Z",
 		"dateString2": "2023-04-13",
 		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":58,
+		"sessionDate": 20230414,
+		"dateString": "2023-04-14T00:00:00Z",
+		"dateString2": "2023-04-14",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":59,
+		"sessionDate": 20230415,
+		"dateString": "2023-04-15T00:00:00Z",
+		"dateString2": "2023-04-15",
+		"sessionNumber": 1,
 		"timePeriod": "Not Yet",
 		"lengthOfTime": 21,
 		"comments": ""
