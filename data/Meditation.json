@@ -594,7 +594,17 @@
 		"dateString": "2023-04-15T00:00:00Z",
 		"dateString2": "2023-04-15",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":60,
+		"sessionDate": 20230416,
+		"dateString": "2023-04-16T00:00:00Z",
+		"dateString2": "2023-04-16",
+		"sessionNumber": 1,
+		"timePeriod": "Noon",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
