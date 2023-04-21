@@ -637,5 +637,25 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":64,
+		"sessionDate": 20230420,
+		"dateString": "2023-04-20T00:00:00Z",
+		"dateString2": "2023-04-20",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":64,
+		"sessionDate": 20230421,
+		"dateString": "2023-04-21T00:00:00Z",
+		"dateString2": "2023-04-21",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
