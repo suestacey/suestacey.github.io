@@ -656,6 +656,76 @@
 		"sessionNumber": 1,
 		"timePeriod": "Morning",
 		"lengthOfTime": 21,
+		"comments": "I miss my light.  I miss The Light."
+	},
+	{
+		"id":66,
+		"sessionDate": 20230422,
+		"dateString": "2023-04-22T00:00:00Z",
+		"dateString2": "2023-04-22",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":67,
+		"sessionDate": 20230423,
+		"dateString": "2023-04-23T00:00:00Z",
+		"dateString2": "2023-04-23",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": "Winters CA Fairmont"
+	},
+	{
+		"id":68,
+		"sessionDate": 20230424,
+		"dateString": "2023-04-24T00:00:00Z",
+		"dateString2": "2023-04-24",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": "Winters CA Fairmont hotel"
+	},
+	{
+		"id":69,
+		"sessionDate": 20230425,
+		"dateString": "2023-04-25T00:00:00Z",
+		"dateString2": "2023-04-25",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": "Top of the Bay (Emeryville Hilton rm 1121)"
+	},
+	{
+		"id":70,
+		"sessionDate": 20230426,
+		"dateString": "2023-04-26T00:00:00Z",
+		"dateString2": "2023-04-26",
+		"sessionNumber": 1,
+		"timePeriod": "Last Thing",
+		"lengthOfTime": 21,
+		"comments": "Suisun Motel"
+	},
+	{
+		"id":71,
+		"sessionDate": 20230427,
+		"dateString": "2023-04-27T00:00:00Z",
+		"dateString2": "2023-04-27",
+		"sessionNumber": 1,
+		"timePeriod": "Night",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":72,
+		"sessionDate": 20230428,
+		"dateString": "2023-04-28T00:00:00Z",
+		"dateString2": "2023-04-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
 		"comments": ""
 	}
 ]
