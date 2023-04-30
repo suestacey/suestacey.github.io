@@ -727,5 +727,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":73,
+		"sessionDate": 20230429,
+		"dateString": "2023-04-29T00:00:00Z",
+		"dateString2": "2023-04-29",
+		"sessionNumber": 1,
+		"timePeriod": "Night",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":74,
+		"sessionDate": 20230430,
+		"dateString": "2023-04-30T00:00:00Z",
+		"dateString2": "2023-04-30",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
