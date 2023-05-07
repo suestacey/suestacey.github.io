@@ -797,5 +797,25 @@
 		"timePeriod": "Night",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":80,
+		"sessionDate": 20230506,
+		"dateString": "2023-05-06T00:00:00Z",
+		"dateString2": "2023-05-06",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":81,
+		"sessionDate": 20230507,
+		"dateString": "2023-05-07T00:00:00Z",
+		"dateString2": "2023-05-07",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
