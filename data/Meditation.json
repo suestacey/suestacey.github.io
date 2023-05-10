@@ -837,5 +837,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":84,
+		"sessionDate": 20230510,
+		"dateString": "2023-05-10T00:00:00Z",
+		"dateString2": "2023-05-10",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
