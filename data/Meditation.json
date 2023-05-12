@@ -545,7 +545,7 @@
 		"dateString2": "2023-04-10",
 		"sessionNumber": 1,
 		"timePeriod": "Late Afternoon",
-		"lengthOfTime": 43,
+		"lengthOfTime": 44,
 		"comments": ""
 	},
 	{
@@ -854,8 +854,18 @@
 		"dateString": "2023-05-11T00:00:00Z",
 		"dateString2": "2023-05-11",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Afternoon",
 		"lengthOfTime": 44,
 		"comments": "Slow Flow"
+	},
+	{
+		"id":86,
+		"sessionDate": 20230512,
+		"dateString": "2023-05-12T00:00:00Z",
+		"dateString2": "2023-05-12",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
