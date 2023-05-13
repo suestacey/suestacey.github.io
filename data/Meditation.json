@@ -325,7 +325,7 @@
 		"dateString2": "2023-03-20",
 		"sessionNumber": 1,
 		"timePeriod": "Afternoon",
-		"lengthOfTime": 40,
+		"lengthOfTime": 44,
 		"comments": "Hypnogogic Meditation"
 	},
 	{
@@ -863,6 +863,16 @@
 		"sessionDate": 20230512,
 		"dateString": "2023-05-12T00:00:00Z",
 		"dateString2": "2023-05-12",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":87,
+		"sessionDate": 20230513,
+		"dateString": "2023-05-13T00:00:00Z",
+		"dateString2": "2023-05-13",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
