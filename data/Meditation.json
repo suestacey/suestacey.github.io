@@ -927,5 +927,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":93,
+		"sessionDate": 20230519,
+		"dateString": "2023-05-19T00:00:00Z",
+		"dateString2": "2023-05-19",
+		"sessionNumber": 1,
+		"timePeriod": "Night",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
