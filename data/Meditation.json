@@ -977,5 +977,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":98,
+		"sessionDate": 2023054,
+		"dateString": "2023-05-24T00:00:00Z",
+		"dateString2": "2023-05-24",
+		"sessionNumber": 1,
+		"timePeriod": "Early Early",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
