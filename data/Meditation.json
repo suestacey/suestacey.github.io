@@ -1017,5 +1017,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":102,
+		"sessionDate": 20230528,
+		"dateString": "2023-05-28T00:00:00Z",
+		"dateString2": "2023-05-28",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
