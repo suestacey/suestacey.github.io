@@ -1059,12 +1059,22 @@
 		"comments": ""
 	},
 	{
-		"id":105,
+		"id":106,
 		"sessionDate": 20230601,
 		"dateString": "2023-06-01T00:00:00Z",
 		"dateString2": "2023-06-01",
 		"sessionNumber": 1,
 		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":107,
+		"sessionDate": 20230602,
+		"dateString": "2023-06-02T00:00:00Z",
+		"dateString2": "2023-06-02",
+		"sessionNumber":1,
+		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
