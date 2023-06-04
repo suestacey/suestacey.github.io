@@ -1077,5 +1077,16 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":108,
+		"sessionDate": 20230603,
+		"dateString": "2023-06-03T00:00:00Z",
+		"dateString2": "2023-06-03",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
+
 ]
