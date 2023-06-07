@@ -1094,7 +1094,7 @@
 		"dateString": "2023-06-04T00:00:00Z",
 		"dateString2": "2023-06-04",
 		"sessionNumber": 1,
-		"timePeriod": "Morningt",
+		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": ""
 	},
@@ -1115,6 +1115,16 @@
 		"dateString2": "2023-06-06",
 		"sessionNumber": 1,
 		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":112,
+		"sessionDate": 20230607,
+		"dateString": "2023-06-07T00:00:00Z",
+		"dateString2": "2023-06-07",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
