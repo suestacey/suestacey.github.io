@@ -1217,5 +1217,16 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":122,
+		"sessionDate": 20230617,
+		"dateString": "2023-06-17T00:00:00Z",
+		"dateString2": "2023-06-17",
+		"sessionNumber": 1,
+		"timePeriod": "Early Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
+
 ]
