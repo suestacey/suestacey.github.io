@@ -1277,6 +1277,16 @@
 		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": "Time 'moves' differently when you're 'sitting, 'in', Awareness."
+	},
+	{
+		"id":128,
+		"sessionDate": 20230623,
+		"dateString": "2023-06-23T00:00:00Z",
+		"dateString2": "2023-06-23",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 
 ]
