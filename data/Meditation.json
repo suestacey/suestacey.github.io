@@ -1297,6 +1297,26 @@
 		"timePeriod": "Early Early",
 		"lengthOfTime": 42,
 		"comments": ""
+	},
+	{
+		"id":130,
+		"sessionDate": 20230625,
+		"dateString": "2023-06-25T00:00:00Z",
+		"dateString2": "2023-06-25",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":131,
+		"sessionDate": 20230626,
+		"dateString": "2023-06-26T00:00:00Z",
+		"dateString2": "2023-06-26",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 
 ]
