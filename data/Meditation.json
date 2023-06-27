@@ -1317,5 +1317,25 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":132,
+		"sessionDate": 20230627,
+		"dateString": "2023-06-27T00:00:00Z",
+		"dateString2": "2023-06-27",
+		"sessionNumber": 1,
+		"timePeriod": "Early Early",
+		"lengthOfTime": 21,
+		"comments": "'Under the Counter'"
+	},
+	{
+		"id":133,
+		"sessionDate": 20230627,
+		"dateString": "2023-06-27T00:00:00Z",
+		"dateString2": "2023-06-27",
+		"sessionNumber": 2,
+		"timePeriod": "Early Early",
+		"lengthOfTime": 21,
+		"comments": "Bedroom"
 	}
 ]
