@@ -1337,5 +1337,15 @@
 		"timePeriod": "Early Early",
 		"lengthOfTime": 21,
 		"comments": "Bedroom"
+	},
+	{
+		"id":134,
+		"sessionDate": 20230628,
+		"dateString": "2023-06-28T00:00:00Z",
+		"dateString2": "2023-06-28",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 39,
+		"comments": "Thanks, Awareness for being with me.  Although I wasn't with you."
 	}
 ]
