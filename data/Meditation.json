@@ -1347,5 +1347,35 @@
 		"timePeriod": "Morning",
 		"lengthOfTime": 39,
 		"comments": "Thanks, Awareness for being with me.  Although I wasn't with you."
+	},
+	{
+		"id":135,
+		"sessionDate": 20230629,
+		"dateString": "2023-06-29T00:00:00Z",
+		"dateString2": "2023-06-29",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":136,
+		"sessionDate": 20230630,
+		"dateString": "2023-06-30T00:00:00Z",
+		"dateString2": "2023-06-30",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 20,
+		"comments": "Interrupted by overwhelming cigarette smoke."
+	},
+	{
+		"id":137,
+		"sessionDate": 20230630,
+		"dateString": "2023-06-30T00:00:00Z",
+		"dateString2": "2023-06-30",
+		"sessionNumber": 2,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
