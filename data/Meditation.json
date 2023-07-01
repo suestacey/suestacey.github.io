@@ -1374,7 +1374,7 @@
 		"dateString": "2023-06-30T00:00:00Z",
 		"dateString2": "2023-06-30",
 		"sessionNumber": 2,
-		"timePeriod": "First Thing",
+		"timePeriod": "Second Thing",
 		"lengthOfTime": 21,
 		"comments": ""
 	},
@@ -1385,6 +1385,16 @@
 		"dateString2": "2023-07-01",
 		"sessionNumber": 1,
 		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":139,
+		"sessionDate": 20230702,
+		"dateString": "2023-07-02T00:00:00Z",
+		"dateString2": "2023-07-02",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
 		"lengthOfTime": 21,
 		"comments": ""
 	}

@@ -1,0 +1,120 @@
+<style>
+h1 {
+	font: Arial, Helvetica, sans-serif;
+	 font-size: 60px; 
+	 color: rgb(128,0,128); 
+	 text-transform: uppercase;
+	 text-align: left; 
+	 margin: 0 0 35px 0; 
+	 text-shadow: 0px 2px 0px #f2f2f2;
+         }
+h2{
+	 
+	 font-family: Rosewood Std Regular, serif;
+	 font-size: 18px; 
+	 color: rgb(0,128,255); 
+	 text-transform: uppercase;
+	 text-align: left; 
+	 margin: 0 0 20px 0; 
+	 text-shadow: 0px 2px 0px #f2f2f2;
+}
+ 
+p.standard_bold_30  {
+  color: #FF2020;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 30px;
+}
+
+p.standard_normal {
+  color: #FF2020;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 30px;
+}
+
+p.standard_Q {
+  color: #666666;
+  font-weight: bold;
+  font: Helvetica, sans-serif;
+  font-size: 16px;
+}
+p.standard_QR {
+  color: #FF0000;
+  font-weight: bold;
+  font: Helvetica, sans-serif;
+  font-size: 16px;
+}
+p.standard_QP {
+  color: rgb(192,18,139);
+  font-weight: bold;
+  font: Helvetica, sans-serif;
+  font-size: 16px;
+}
+p.standard_MR {
+  color: #FF0000;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+p.standard_MP {
+  color: rgb(192,18,139);
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+p.standard_M {
+  color: #000080;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+p.standard_Black {
+  color: #000000;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+p.standard_MPI {
+  color: rgb(192,18,139);
+  font-weight: bold;
+  font-style: italic;
+    text-align: center;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+p.standard_MPB {
+  color: rgb(0,90,157);
+  font-weight: bold;
+  font-style: italic;
+    text-align: center;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+p.standard_MI {
+  color: #000080;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+
+p.red_highlight {
+  color: rgb(255,0,0);
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.purple_highlight {
+  color: rgb(128,0,128);
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+body {
+	background-color: #FFFFFF;
+}
+</style>		
