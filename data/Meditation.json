@@ -1346,7 +1346,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Morning",
 		"lengthOfTime": 39,
-		"comments": "Thanks, Awareness for being with me.  Although I wasn't with you."
+		"comments": "Thanks, Awareness, for being with me.  Although I wasn't with you."
 	},
 	{
 		"id":135,
@@ -1375,6 +1375,16 @@
 		"dateString2": "2023-06-30",
 		"sessionNumber": 2,
 		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":138,
+		"sessionDate": 20230701,
+		"dateString": "2023-07-01T00:00:00Z",
+		"dateString2": "2023-07-01",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
