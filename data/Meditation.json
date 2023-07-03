@@ -1394,7 +1394,17 @@
 		"dateString": "2023-07-02T00:00:00Z",
 		"dateString2": "2023-07-02",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime": 18,
+		"comments": "Interrupted by tobacco coughing fit."
+	},
+	{
+		"id":140,
+		"sessionDate": 20230702,
+		"dateString": "2023-07-02T00:00:00Z",
+		"dateString2": "2023-07-02",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
