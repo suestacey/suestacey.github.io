@@ -1440,9 +1440,29 @@
 	},
 	{
 		"id":144,
+		"sessionDate": 20230705,
+		"dateString": "2023-07-05T00:00:00Z",
+		"dateString2": "2023-07-05",
+		"sessionNumber": 2,
+		"timePeriod": "Late Night",
+		"lengthOfTime": 14,
+		"comments": ""
+	},
+	{
+		"id":145,
 		"sessionDate": 20230706,
 		"dateString": "2023-07-06T00:00:00Z",
 		"dateString2": "2023-07-06",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 33,
+		"comments": ""
+	},
+	{
+		"id":146,
+		"sessionDate": 20230707,
+		"dateString": "2023-07-07T00:00:00Z",
+		"dateString2": "2023-07-07",
 		"sessionNumber": 1,
 		"timePeriod": "Not Yet",
 		"lengthOfTime": 21,
