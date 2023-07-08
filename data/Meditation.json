@@ -1477,5 +1477,25 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":148,
+		"sessionDate": 20230708,
+		"dateString": "2023-07-08T00:00:00Z",
+		"dateString2": "2023-07-08",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": "Opened my eyes between 1 and 2, to see if the Sun was Arising.  Not yet."
+	},
+	{
+		"id":149,
+		"sessionDate": 20230708,
+		"dateString": "2023-07-08T00:00:00Z",
+		"dateString2": "2023-07-08",
+		"sessionNumber": 2,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 22,
+		"comments": ""
 	}
 ]
