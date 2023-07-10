@@ -1497,5 +1497,35 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 22,
 		"comments": ""
+	},
+	{
+		"id":150,
+		"sessionDate": 20230709,
+		"dateString": "2023-07-09T00:00:00Z",
+		"dateString2": "2023-07-09",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":151,
+		"sessionDate": 20230710,
+		"dateString": "2023-07-10T00:00:00Z",
+		"dateString2": "2023-07-10",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": "Brushed my teeth before #2.  Trying to get unextracted."
+	},
+	{
+		"id":152,
+		"sessionDate": 20230710,
+		"dateString": "2023-07-10T00:00:00Z",
+		"dateString2": "2023-07-10",
+		"sessionNumber": 2,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
