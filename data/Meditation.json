@@ -1617,5 +1617,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 22,
 		"comments": ""
+	},
+	{
+		"id":162,
+		"sessionDate": 20230717,
+		"dateString": "2023-07-17T00:00:00Z",
+		"dateString2": "2023-07-17",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": "Made my first offer on a house."
 	}
 ]
