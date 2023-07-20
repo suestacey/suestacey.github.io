@@ -1637,5 +1637,25 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":164,
+		"sessionDate": 20230719,
+		"dateString": "2023-07-19T00:00:00Z",
+		"dateString2": "2023-07-19",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":163,
+		"sessionDate": 20230720,
+		"dateString": "2023-07-20T00:00:00Z",
+		"dateString2": "2023-07-20",
+		"sessionNumber": 1,
+		"timePeriod": "Before Sleep",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
