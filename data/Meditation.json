@@ -1657,5 +1657,15 @@
 		"timePeriod": "Before Sleep",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":164,
+		"sessionDate": 20230721,
+		"dateString": "2023-07-21T00:00:00Z",
+		"dateString2": "2023-07-21",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments":"You have 23 hours and 40 minutes to think.  Meditation is my time .... said Awareness."
 	}
 ]
