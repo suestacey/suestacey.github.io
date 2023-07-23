@@ -1677,5 +1677,45 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 31,
 		"comments": "Awareness shrugged."
+	}, 
+	{
+		"id":166,
+		"sessionDate": 20230723,
+		"dateString": "2023-07-23T00:00:00Z",
+		"dateString2": "2023-07-23",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":167,
+		"sessionDate": 20230723,
+		"dateString": "2023-07-23T00:00:00Z",
+		"dateString2": "2023-07-23",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":168,
+		"sessionDate": 20230723,
+		"dateString": "2023-07-23T00:00:00Z",
+		"dateString2": "2023-07-23",
+		"sessionNumber": 3,
+		"timePeriod": "Third Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":169,
+		"sessionDate": 20230723,
+		"dateString": "2023-07-23T00:00:00Z",
+		"dateString2": "2023-07-23",
+		"sessionNumber": 4,
+		"timePeriod": "Fourth Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
