@@ -1747,5 +1747,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": ""
+	}, 
+	{
+		"id":173,
+		"sessionDate": 20230727,
+		"dateString": "2023-07-27T00:00:00Z",
+		"dateString2": "2023-07-27",
+		"sessionNumber": 1,
+		"timePeriod": "Early Morning",
+		"lengthOfTime": 21,
+		"comments": "Ever present. Awareness. Same as it Ever Was."
 	}
 ]
