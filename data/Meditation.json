@@ -1757,5 +1757,25 @@
 		"timePeriod": "Early Morning",
 		"lengthOfTime": 21,
 		"comments": "Ever present. Awareness. Same as it Ever Was."
+	}, 
+	{
+		"id":174,
+		"sessionDate": 20230728,
+		"dateString": "2023-07-28T00:00:00Z",
+		"dateString2": "2023-07-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":175,
+		"sessionDate": 20230728,
+		"dateString": "2023-07-28T00:00:00Z",
+		"dateString2": "2023-07-28",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
