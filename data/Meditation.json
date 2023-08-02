@@ -1807,5 +1807,25 @@
 		"timePeriod": "Before Sleep",
 		"lengthOfTime": 44,
 		"comments": ""
+	}, 
+	{
+		"id":179,
+		"sessionDate": 20230801,
+		"dateString": "2023-08-0100:00:00Z",
+		"dateString2": "2023-08-01",
+		"sessionNumber": 1,
+		"timePeriod": "Last Thing",
+		"lengthOfTime": 44,
+		"comments": ""
+	}, 
+	{
+		"id":180,
+		"sessionDate": 20230802,
+		"dateString": "2023-08-0200:00:00Z",
+		"dateString2": "2023-08-02",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
