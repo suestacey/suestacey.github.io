@@ -1847,5 +1847,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	}, 
+	{
+		"id":183,
+		"sessionDate": 20230805,
+		"dateString": "2023-08-0500:00:00Z",
+		"dateString2": "2023-08-05",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
