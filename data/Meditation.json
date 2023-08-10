@@ -1897,5 +1897,15 @@
 		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": ""
+	}, 
+	{
+		"id":188,
+		"sessionDate": 20230810,
+		"dateString": "2023-08-1000:00:00Z",
+		"dateString2": "2023-08-10",
+		"sessionNumber": 1,
+		"timePeriod": "Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
