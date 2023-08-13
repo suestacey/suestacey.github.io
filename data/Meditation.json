@@ -1914,7 +1914,17 @@
 		"dateString": "2023-08-1100:00:00Z",
 		"dateString2": "2023-08-11",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":190,
+		"sessionDate": 20230812,
+		"dateString": "2023-08-1200:00:00Z",
+		"dateString2": "2023-08-12",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
