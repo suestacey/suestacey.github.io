@@ -1959,7 +1959,7 @@
 		"comments": ""
 	}, 
 	{
-		"id":193,
+		"id":194,
 		"sessionDate": 20230814,
 		"dateString": "2023-08-1400:00:00Z",
 		"dateString2": "2023-08-14",
@@ -1969,7 +1969,7 @@
 		"comments": ""
 	}, 
 	{
-		"id":194,
+		"id":195,
 		"sessionDate": 20230815,
 		"dateString": "2023-08-1500:00:00Z",
 		"dateString2": "2023-08-15",
@@ -1979,12 +1979,22 @@
 		"comments": ""
 	}, 
 	{
-		"id":195,
+		"id":196,
 		"sessionDate": 20230816,
 		"dateString": "2023-08-1600:00:00Z",
 		"dateString2": "2023-08-16",
 		"sessionNumber": 1,
 		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":197,
+		"sessionDate": 20230817,
+		"dateString": "2023-08-1700:00:00Z",
+		"dateString2": "2023-08-17",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
