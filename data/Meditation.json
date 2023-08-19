@@ -2004,9 +2004,9 @@
 		"dateString": "2023-08-1900:00:00Z",
 		"dateString2": "2023-08-19",
 		"sessionNumber": 1,
-		"timePeriod": "Before Dawn",
+		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
-		"comments": ""
+		"comments": "Volume too low on gong"
 	}, 
 	{
 		"id":199,
@@ -2015,7 +2015,7 @@
 		"dateString2": "2023-08-19",
 		"sessionNumber": 2,
 		"timePeriod": "Second Thing",
-		"lengthOfTime": 21,
+		"lengthOfTime": 23,
 		"comments": ""
 	}
 ]
