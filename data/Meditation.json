@@ -2037,5 +2037,25 @@
 		"timePeriod": "Early Early",
 		"lengthOfTime": 21,
 		"comments": ""
+	}, 
+	{
+		"id":202,
+		"sessionDate": 20230821,
+		"dateString": "2023-08-2100:00:00Z",
+		"dateString2": "2023-08-21",
+		"sessionNumber": 2,
+		"timePeriod": "Last Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":203,
+		"sessionDate": 20230822,
+		"dateString": "2023-08-2200:00:00Z",
+		"dateString2": "2023-08-22",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
