@@ -2177,5 +2177,36 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
-	}
+	},
+	{
+		"id":216,
+		"sessionDate": 20230903,
+		"dateString": "2023-09-0300:00:00Z",
+		"dateString2": "2023-09-03",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":217,
+		"sessionDate": 20230904,
+		"dateString": "2023-09-0400:00:00Z",
+		"dateString2": "2023-09-04",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":218,
+		"sessionDate": 20230904,
+		"dateString": "2023-09-0400:00:00Z",
+		"dateString2": "2023-09-04",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	}	
+	
 ]
