@@ -2217,6 +2217,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": "Less vastness, more mind chatter"
-	}	
-	
+	},
+	{
+		"id":220,
+		"sessionDate": 20230905,
+		"dateString": "2023-09-0500:00:00Z",
+		"dateString2": "2023-09-05",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": "Could have been first thing, but I forgot the pool was closed and went away.  "
+	}
 ]
