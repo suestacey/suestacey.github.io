@@ -2226,6 +2226,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "Morning",
 		"lengthOfTime": 21,
-		"comments": "Could have been first thing, but I forgot the pool was closed and went away.  "
+		"comments": "Could have been first thing, but I forgot the pool was closed and went away."
+	},
+	{
+		"id":221,
+		"sessionDate": 20230906,
+		"dateString": "2023-09-0600:00:00Z",
+		"dateString2": "2023-09-06",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
