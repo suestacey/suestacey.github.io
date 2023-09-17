@@ -2338,4 +2338,24 @@
 		"lengthOfTime": 21,
 		"comments": "...  there is 'nothing' that experiences this moment, but even that 'nothing' is known and experienced."
 	}
+	{
+		"id":231,
+		"sessionDate": 20230916,
+		"dateString": "2023-09-1600:00:00Z",
+		"dateString2": "2023-09-16",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":232,
+		"sessionDate": 20230917,
+		"dateString": "2023-09-1700:00:00Z",
+		"dateString2": "2023-09-17",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	}
 ]
