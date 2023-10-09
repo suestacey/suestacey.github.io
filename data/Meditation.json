@@ -2577,5 +2577,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":255,
+		"sessionDate": 20231008,
+		"dateString": "2023-10-0800:00:00Z",
+		"dateString2": "2023-10-08",
+		"sessionNumber": 1,
+		"timePeriod": "Night",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":256,
+		"sessionDate": 20231009,
+		"dateString": "2023-10-0900:00:00Z",
+		"dateString2": "2023-10-09",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
