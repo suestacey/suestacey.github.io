@@ -2624,8 +2624,18 @@
 		"dateString": "2023-10-1200:00:00Z",
 		"dateString2": "2023-10-12",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":259,
+		"sessionDate": 20231013,
+		"dateString": "2023-10-1300:00:00Z",
+		"dateString2": "2023-10-13",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": "Last Day at 5038H"
 	}
 ]
