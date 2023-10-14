@@ -2637,5 +2637,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": "Last Day at 5038H"
+	},
+	{
+		"id":260,
+		"sessionDate": 20231014,
+		"dateString": "2023-10-1400:00:00Z",
+		"dateString2": "2023-10-14",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
