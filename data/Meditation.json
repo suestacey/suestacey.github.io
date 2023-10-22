@@ -2717,5 +2717,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":268,
+		"sessionDate": 20231022,
+		"dateString": "2023-10-2200:00:00Z",
+		"dateString2": "2023-10-22",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
