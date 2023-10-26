@@ -18,6 +18,13 @@ h2{
 	 margin: 0 0 20px 0; 
 	 text-shadow: 0px 2px 0px #f2f2f2;
 }
+
+p.big_numbers {
+  color: rgb(255,0,128);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 36px;
+}
  
 p.standard_bold_30  {
   color: #FF2020;
@@ -111,8 +118,10 @@ p.purple_highlight {
   color: rgb(128,0,128);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
 }
+
+
 
 body {
 	background-color: #FFFFFF;
