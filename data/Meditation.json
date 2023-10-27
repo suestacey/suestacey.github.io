@@ -2764,7 +2764,17 @@
 		"dateString": "2023-10-2600:00:00Z",
 		"dateString2": "2023-10-26",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":273,
+		"sessionDate": 20231027,
+		"dateString": "2023-10-2700:00:00Z",
+		"dateString2": "2023-10-27",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
 	}

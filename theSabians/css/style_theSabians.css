@@ -20,11 +20,19 @@ h2{
 }
 
 p.big_numbers {
-  color: rgb(255,0,128);
+  color: rgb(128,0,128);
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 36px;
 }
+
+p.black {
+  color: rgb(255,255,255);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
  
 p.standard_bold_30  {
   color: #FF2020;
