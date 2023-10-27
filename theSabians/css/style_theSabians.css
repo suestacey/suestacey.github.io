@@ -27,14 +27,14 @@ p.big_numbers {
 }
 
 p.black16 {
-  color: rgb(255,255,255);
+  color: rgb(0,0,0);
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
 }
 
 p.black18 {
-  color: rgb(255,255,255);
+  color: rgb(0,0,0);
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
