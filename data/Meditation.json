@@ -2897,5 +2897,25 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":286,
+		"sessionDate": 20231109,
+		"dateString": "2023-11-0900:00:00Z",
+		"dateString2": "2023-11-09",
+		"sessionNumber": 1,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":287,
+		"sessionDate": 20231110,
+		"dateString": "2023-11-1000:00:00Z",
+		"dateString2": "2023-11-10",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": "Woohoo.  The 365th day in a row!"
 	}
 ]
