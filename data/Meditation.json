@@ -2924,8 +2924,18 @@
 		"dateString": "2023-11-1100:00:00Z",
 		"dateString2": "2023-11-11",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":289,
+		"sessionDate": 20231111,
+		"dateString": "2023-11-1100:00:00Z",
+		"dateString2": "2023-11-11",
+		"sessionNumber": 2,
+		"timePeriod": "Morning",
+		"lengthOfTime": 23,
+		"comments": "In celebration of the start of the 2nd year !"
 	}
 ]
