@@ -2937,5 +2937,25 @@
 		"timePeriod": "Morning",
 		"lengthOfTime": 23,
 		"comments": "In celebration of the start of the 2nd year !"
+	},
+	{
+		"id":290,
+		"sessionDate": 20231112,
+		"dateString": "2023-11-1200:00:00Z",
+		"dateString2": "2023-11-12",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":291,
+		"sessionDate": 20231113,
+		"dateString": "2023-11-1300:00:00Z",
+		"dateString2": "2023-11-13",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
