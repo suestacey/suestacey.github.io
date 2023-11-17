@@ -2987,5 +2987,15 @@
 		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":295,
+		"sessionDate": 20231117,
+		"dateString": "2023-11-1700:00:00Z",
+		"dateString2": "2023-11-17",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
