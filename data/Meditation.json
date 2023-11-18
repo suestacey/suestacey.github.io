@@ -2997,5 +2997,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":296,
+		"sessionDate": 20231118,
+		"dateString": "2023-11-1800:00:00Z",
+		"dateString2": "2023-11-18",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
