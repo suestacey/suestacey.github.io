@@ -3007,5 +3007,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":297,
+		"sessionDate": 20231118,
+		"dateString": "2023-11-1800:00:00Z",
+		"dateString2": "2023-11-18",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":298,
+		"sessionDate": 20231119,
+		"dateString": "2023-11-1900:00:00Z",
+		"dateString2": "2023-11-19",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
