@@ -3057,5 +3057,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": "... then The Nearly Impossible Hand"
+	},
+	{
+		"id":302,
+		"sessionDate": 20231123,
+		"dateString": "2023-11-2300:00:00Z",
+		"dateString2": "2023-11-23",
+		"sessionNumber": 1,
+		"timePeriod": "Noon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":303,
+		"sessionDate": 20231123,
+		"dateString": "2023-11-2300:00:00Z",
+		"dateString2": "2023-11-23",
+		"sessionNumber": 2,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
