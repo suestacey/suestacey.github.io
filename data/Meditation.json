@@ -3084,7 +3084,17 @@
 		"dateString": "2023-11-2400:00:00Z",
 		"dateString2": "2023-11-24",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":305,
+		"sessionDate": 20231125,
+		"dateString": "2023-11-2500:00:00Z",
+		"dateString2": "2023-11-25",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
