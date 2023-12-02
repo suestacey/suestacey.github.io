@@ -3167,5 +3167,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":313,
+		"sessionDate": 20231202,
+		"dateString": "2023-12-0200:00:00Z",
+		"dateString2": "2023-12-02",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
