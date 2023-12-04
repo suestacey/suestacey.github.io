@@ -1,0 +1,162 @@
+[{
+		"id": 1000,
+		"sessionDate": 202201112,
+		"dateString": "20221112T12:00:00Z",
+		"dateString2": "2022-11-12",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": "11/12/22 - 2/17/23 101 sessions"
+	},
+	{
+		"id": 1001,
+		"sessionDate": 20221113,
+		"dateString": "20221113T12:00:00Z",
+		"dateString2": "2022-11-13",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1002,
+		"sessionDate": 20221114,
+		"dateString": "20221114T12:00:00Z",
+		"dateString2": "2022-11-14",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1003,
+		"sessionDate": 20221115,
+		"dateString": "20221115T12:00:00Z",
+		"dateString2": "2022-11-15",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1004,
+		"sessionDate": 20221116,
+		"dateString": "20221116T12:00:00Z",
+		"dateString2": "2022-11-16",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1005,
+		"sessionDate": 20221117,
+		"dateString": "20221116T12:00:00Z",
+		"dateString2": "2022-11-16",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1006,
+		"sessionDate": 20221118,
+		"dateString": "20221118T12:00:00Z",
+		"dateString2": "2022-11-18",
+		"sessionNumber": 1,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1007,
+		"sessionDate": 20221119,
+		"dateString": "2022-02-19T12:00:00Z",
+		"dateString2": "2022-02-19",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 19,
+		"comments": "Interrupted"
+	},
+	{
+		"id": 1008,
+		"sessionDate": 20221119,
+		"dateString": "2022-02-19T12:00:00Z",
+		"dateString2": "2022-02-19",
+		"sessionNumber": 2,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 11,
+		"comments": "Back Pain"
+	},
+	{
+		"id": 1009,
+		"sessionDate": 20221120,
+		"dateString": "2022-02-20T12:00:00Z",
+		"dateString2": "2022-02-20",
+		"sessionNumber": 1,
+		"timePeriod": "Late Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221121,
+		"dateString": "2022-02-21T12:00:00Z",
+		"dateString2": "2022-02-21",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1011,
+		"sessionDate": 20221122,
+		"dateString": "2022-02-22T12:00:00Z",
+		"dateString2": "2022-02-22",
+		"sessionNumber": 1,
+		"timePeriod": "Late Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1012,
+		"sessionDate": 20221123,
+		"dateString": "2022-02-23T12:00:00Z",
+		"dateString2": "2022-02-23",
+		"sessionNumber": 1,
+		"timePeriod": "Late Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1013,
+		"sessionDate": 20221124,
+		"dateString": "2022-02-24T12:00:00Z",
+		"dateString2": "2022-02-24",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1014,
+		"sessionDate": 20221125,
+		"dateString": "2022-02-22T12:00:00Z",
+		"dateString2": "2022-02-22",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1015,
+		"sessionDate": 20221126,
+		"dateString": "2022-02-26T12:00:00Z",
+		"dateString2": "2022-02-26",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	}
+
+]
