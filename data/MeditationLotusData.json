@@ -317,5 +317,55 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 1032,
+		"sessionDate": 20221213,
+		"dateString": "2022-12-13T12:00:00Z",
+		"dateString2": "2022-12-13",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1033,
+		"sessionDate": 20221214,
+		"dateString": "2022-12-14T12:00:00Z",
+		"dateString2": "2022-12-14",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1034,
+		"sessionDate": 20221215,
+		"dateString": "2022-12-15T12:00:00Z",
+		"dateString2": "2022-12-15",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1035,
+		"sessionDate": 20221216,
+		"dateString": "2022-12-16T12:00:00Z",
+		"dateString2": "2022-12-16",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1036,
+		"sessionDate": 20221217,
+		"dateString": "2022-12-17T12:00:00Z",
+		"dateString2": "2022-12-17",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
