@@ -277,5 +277,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 1028,
+		"sessionDate": 20221209,
+		"dateString": "2022-12-09T12:00:00Z",
+		"dateString2": "2022-12-09",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
