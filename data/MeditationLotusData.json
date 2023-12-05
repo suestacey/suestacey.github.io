@@ -477,5 +477,35 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 1048,
+		"sessionDate": 20221229,
+		"dateString": "2022-12-29T12:00:00Z",
+		"dateString2": "2022-12-29",
+		"sessionNumber": 1,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1049,
+		"sessionDate": 20221230,
+		"dateString": "2022-12-30T12:00:00Z",
+		"dateString2": "2022-12-30",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1050,
+		"sessionDate": 20221231,
+		"dateString": "2022-12-31T12:00:00Z",
+		"dateString2": "2022-12-31",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
