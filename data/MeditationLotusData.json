@@ -284,7 +284,37 @@
 		"dateString": "2022-12-09T12:00:00Z",
 		"dateString2": "2022-12-09",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1029,
+		"sessionDate": 20221210,
+		"dateString": "2022-12-10T12:00:00Z",
+		"dateString2": "2022-12-10",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1030,
+		"sessionDate": 20221211,
+		"dateString": "2022-12-11T12:00:00Z",
+		"dateString2": "2022-12-11",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1031,
+		"sessionDate": 20221212,
+		"dateString": "2022-12-12T12:00:00Z",
+		"dateString2": "2022-12-12",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
