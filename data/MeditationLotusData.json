@@ -836,7 +836,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
-		"comments": ""
+		"comments": "I had to restart twice because I feel asleep."
 	},
 	{
 		"id": 1084,
@@ -855,6 +855,126 @@
 		"dateString2": "2023-02-04",
 		"sessionNumber": 1,
 		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1086,
+		"sessionDate": 20230205,
+		"dateString": "2023-02-05T12:00:00Z",
+		"dateString2": "2023-02-05",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1087,
+		"sessionDate": 20230206,
+		"dateString": "2023-02-06T12:00:00Z",
+		"dateString2": "2023-02-06",
+		"sessionNumber": 1,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1088,
+		"sessionDate": 20230207,
+		"dateString": "2023-02-07T12:00:00Z",
+		"dateString2": "2023-02-07",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1089,
+		"sessionDate": 20230208,
+		"dateString": "2023-02-08T12:00:00Z",
+		"dateString2": "2023-02-08",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1090,
+		"sessionDate": 20230209,
+		"dateString": "2023-02-09T12:00:00Z",
+		"dateString2": "2023-02-09",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1091,
+		"sessionDate": 20230210,
+		"dateString": "2023-02-10T12:00:00Z",
+		"dateString2": "2023-02-10",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1092,
+		"sessionDate": 20230211,
+		"dateString": "2023-02-11T12:00:00Z",
+		"dateString2": "2023-02-11",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1093,
+		"sessionDate": 20230212,
+		"dateString": "2023-02-12T12:00:00Z",
+		"dateString2": "2023-02-12",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1094,
+		"sessionDate": 20230213,
+		"dateString": "2023-02-13T12:00:00Z",
+		"dateString2": "2023-02-13",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1095,
+		"sessionDate": 20230213,
+		"dateString": "2023-02-13T12:00:00Z",
+		"dateString2": "2023-02-13",
+		"sessionNumber": 2,
+		"timePeriod": "Last Thing",
+		"lengthOfTime": 21,
+		"comments": "Started about 11:40 pm.  Kept going with another session, which is tagged for tomorrow."
+	},
+	{
+		"id": 1096,
+		"sessionDate": 20230214,
+		"dateString": "2023-02-14T12:00:00Z",
+		"dateString2": "2023-02-14",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": "Started right after yesterday's 2nd session, approximately 12:20 am."
+	},
+	{
+		"id": 1097,
+		"sessionDate": 20230214,
+		"dateString": "2023-02-14T12:00:00Z",
+		"dateString2": "2023-02-14",
+		"sessionNumber": 2,
+		"timePeriod": "",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
