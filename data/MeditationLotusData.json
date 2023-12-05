@@ -1007,45 +1007,5 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
-	},
-	{
-		"id": 1101,
-		"sessionDate": 20230218,
-		"dateString": "2023-02-18T12:00:00Z",
-		"dateString2": "2023-02-18",
-		"sessionNumber": 1,
-		"timePeriod": "Before Dawn",
-		"lengthOfTime": 21,
-		"comments": ""
-	},
-	{
-		"id": 1102,
-		"sessionDate": 20230219,
-		"dateString": "2023-02-19T12:00:00Z",
-		"dateString2": "2023-02-19",
-		"sessionNumber": 1,
-		"timePeriod": "Middle of the Night",
-		"lengthOfTime": 21,
-		"comments": ""
-	},
-	{
-		"id": 1103,
-		"sessionDate": 20230220,
-		"dateString": "2023-02-20T12:00:00Z",
-		"dateString2": "2023-02-20",
-		"sessionNumber": 1,
-		"timePeriod": "Before Dawn",
-		"lengthOfTime": 21,
-		"comments": ""
-	},
-	{
-		"id": 1104,
-		"sessionDate": 20230221,
-		"dateString": "2023-02-21T12:00:00Z",
-		"dateString2": "2023-02-21",
-		"sessionNumber": 1,
-		"timePeriod": "",
-		"lengthOfTime": 21,
-		"comments": ""
 	}
 ]
