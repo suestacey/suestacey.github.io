@@ -417,5 +417,65 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 1042,
+		"sessionDate": 20221223,
+		"dateString": "2022-12-23T12:00:00Z",
+		"dateString2": "2022-12-23",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1043,
+		"sessionDate": 20221224,
+		"dateString": "2022-12-24T12:00:00Z",
+		"dateString2": "2022-12-24",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1044,
+		"sessionDate": 20221225,
+		"dateString": "2022-12-25T12:00:00Z",
+		"dateString2": "2022-12-25",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1045,
+		"sessionDate": 20221226,
+		"dateString": "2022-12-26T12:00:00Z",
+		"dateString2": "2022-12-26",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1046,
+		"sessionDate": 20221227,
+		"dateString": "2022-12-27T12:00:00Z",
+		"dateString2": "2022-12-27",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1047,
+		"sessionDate": 20221228,
+		"dateString": "2022-12-28T12:00:00Z",
+		"dateString2": "2022-12-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
