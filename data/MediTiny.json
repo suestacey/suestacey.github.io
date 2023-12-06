@@ -107,5 +107,137 @@
 		"timePeriod": "Before Sleep",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1010,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1019,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "Early Morning",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1020,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "Early Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1021,
+		"sessionDate": 20221120,
+		"date":20221120,
+		"dateString": "2022-11-20T03:11:00Z",
+		"dateString2": "2022-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
