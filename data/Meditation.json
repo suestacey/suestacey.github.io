@@ -4247,5 +4247,15 @@
 		"timePeriod": "Late Morning",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1425,
+		"sessionDate": 20231207,
+		"dateString": "2023-12-0700:00:00Z",
+		"dateString2": "2023-12-07",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
