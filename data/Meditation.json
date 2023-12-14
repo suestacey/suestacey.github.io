@@ -4327,5 +4327,15 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1433,
+		"sessionDate": 20231214,
+		"dateString": "2023-12-1400:00:00Z",
+		"dateString2": "2023-12-14",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
