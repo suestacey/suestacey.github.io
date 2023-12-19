@@ -4377,5 +4377,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": "New RAV4 day"
+	},
+	{
+		"id":1438,
+		"sessionDate": 20231219,
+		"dateString": "2023-12-1900:00:00Z",
+		"dateString2": "2023-12-19",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
