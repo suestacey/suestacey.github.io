@@ -47,6 +47,14 @@ golds {
   font-size: 24px;
 }
 
+p.bigGolds {
+  color: rgb(207,181,59);
+  font-weight: bold;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 36px;
+}
+
+
 p.black16 {
   color: rgb(0,0,0);
   font-weight: bold;
