@@ -4477,5 +4477,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1448,
+		"sessionDate": 20231229,
+		"dateString": "2023-12-2900:00:00Z",
+		"dateString2": "2023-12-29",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": "Mary S Young dogpark"
 	}
 ]
