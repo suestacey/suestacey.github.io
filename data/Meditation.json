@@ -4527,5 +4527,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1453,
+		"sessionDate": 20240103,
+		"dateString": "2024-01-0300:00:00Z",
+		"dateString2": "2024-01-03",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
