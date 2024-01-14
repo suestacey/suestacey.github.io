@@ -1,0 +1,314 @@
+<style>
+h1 {
+	font: Arial, Helvetica, sans-serif;
+	 font-size: 60px; 
+	 color: rgb(128,0,128); 
+	 text-transform: uppercase;
+	 text-align: left; 
+	 margin: 0 0 35px 0; 
+	 text-shadow: 0px 2px 0px #f2f2f2;
+         }
+h2{
+	 
+	 font-family: Comic Sans MS, Comic Sans, sans-serif;
+	 font-size: 24px; 
+	 color: rgb(0,128,255); 
+	 text-align: left; 
+	 margin: 0 0px 0px 0; 
+	 text-shadow: 0px 2px 0px #f2f2f2;
+}
+h3{
+	 
+	 font-family: Rosewood Std Regular, serif;
+	 font-size: 40px; 
+	 color: rgb(0,128,255); 
+	 text-transform: uppercase;
+	 text-align: left; 
+	 margin: 0 0 35px 0; 
+	 text-shadow: 0px 2px 0px #f2f2f2;
+}
+
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+a:link {
+color: transparent;
+background-color: transparent;
+text-decoration: none:
+}
+
+a:visited {
+  color: transparent;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: transparent;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: transparent;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+ 
+p.standard_bold_30  {
+  color: #FF2020;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 30px;
+}
+
+p.standard_normal_30 {
+  color: #FF2020;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 30px;
+}
+
+p.standard_blue_bold_30  {
+  color: #333399;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 30px;
+}
+
+p.standard_blue_normal_30 {
+  color: #333399;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 30px;
+}
+
+p.standard_green_bold_28  {
+  color: #228b22;
+  margin: 1;
+  padding: 0;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 28px;
+}
+
+p.standard_green_normal_28 {
+  color: #228b22;
+  margin: 2;
+  padding: 0;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 28px;
+}
+
+p.standard_navyblue_normal_14 {
+  color: #000080;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_navyblue_bold_14 {
+  color: #000080;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.comic_navyblue_normal_24 {
+  color: #000080;
+  margin: 2;
+  padding: 0;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 24;
+}
+
+p.comic_navyblue_bold_24 {
+  color: #000080;
+  margin: 1;
+  padding: 0;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 24px;
+}
+
+p.comic_purple_normal_24 {
+  color: #663399;
+  margin: 2;
+  padding: 0;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 24;
+}
+
+p.comic_purple_bold_24 {
+  color: #663399;
+  margin: 1;
+  padding: 0;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 24px;
+}
+p.comic_purple_bold_14 {
+  color: #663399;
+  margin: 1;
+  padding: 0;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 16px;
+}
+
+p.comic_navyblue_normal_18 {
+  color: #000080;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 18px;
+}
+
+p.comic_navyblue_bold_18 {
+  color: #000080;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 18px;
+}
+
+p.standard_blue_normal_14 {
+  color: #000080;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_blue_bold_14 {
+  color: #000080;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_red_normal_14 {
+  color: #FF2020;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_red_bold_14 {
+  color: #FF2020;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_normal_14 {
+  color: #0000000;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_purple_normal_14 {
+  color:#8000FF;
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_purple_bold_14 {
+	color:#8000FF;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_green_normal_14 {
+  color:#008040
+  font-weight: normal;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_green_bold_14 {
+	color:#008040;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.standard_bold_14 {
+  color: #000000;
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 14px;
+}
+
+p.red_highlight {
+  color: rgb(255,0,0);
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 18px;
+}
+
+p.purple_highlight {
+  color: rgb(102,51,103);
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 18px;
+}
+
+p.green_highlight {
+  color: rgb(91,194,54);
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 18px;
+}
+
+#gallery {
+line-height: 0;
+-webkit-column-count:5;
+-webkit-column-gap:5px;
+-moz-column-count:5;
+-moz-column-gap:5px;
+column-count:5;
+column-gap:5x;	
+}
+
+@media (max-width: 1200px) {
+	#gallery {
+	-webkit-column-count:4;
+	-moz-column-count:4;
+	column-count:4;
+	}
+}
+
+@media (max-width: 1000px) {
+	#gallery {
+	-webkit-column-count:3;
+	-moz-column-count:3;
+	column-count:3;
+	}
+}
+
+@media (max-width: 800px) {
+	#gallery {
+	-webkit-column-count:1;
+	-moz-column-count:1;
+	column-count:1;
+	}
+}
+
+p.gallery img {
+	width: 120;
+	height: 160;
+}
+
+body {
+	background-color: #E0E0E0;
+}
+</style>		
