@@ -30,32 +30,12 @@ h3{
 	 text-shadow: 0px 2px 0px #f2f2f2;
 }
 
-
-
-a:link {
-color: transparent;
-background-color: transparent;
-text-decoration: none:
+p.big_numbers {
+  color: rgb(0,0,0);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
 }
-
-a:visited {
-  color: transparent;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: pink;
-  background-color: pink;
-  text-decoration: none;
-}
-
-a:active {
-  color: transparent;
-  background-color: transparent;
-  text-decoration: none;
-}
-
 
 p.prussianBlue_18 {
   color: rgb(3,57,108);
@@ -119,5 +99,3 @@ body {
 	background-color: #E0E0E0;
 }
 </style>		
-
-	
