@@ -4647,5 +4647,45 @@
 		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": ""
-	}
+	},
+	{
+		"id":1465,
+		"sessionDate": 20240115,
+		"dateString": "2024-01-1500:00:00Z",
+		"dateString2": "2024-01-15",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":1466,
+		"sessionDate": 20240116,
+		"dateString": "2023-01-16T00:00:00Z",
+		"dateString2": "2023-01-16",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 22,
+		"comments": ""
+	}, 
+	{
+		"id":1467,
+		"sessionDate": 20240116,
+		"dateString": "2023-01-16T00:00:00Z",
+		"dateString2": "2023-01-16",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 23,
+		"comments": ""
+	}, 
+	{
+		"id":1468,
+		"sessionDate": 20240116,
+		"dateString": "2023-01-16T00:00:00Z",
+		"dateString2": "2023-01-16",
+		"sessionNumber": 3,
+		"timePeriod": "Third Thing",
+		"lengthOfTime": 24,
+		"comments": ""
+	} 
 ]
