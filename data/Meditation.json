@@ -4687,5 +4687,15 @@
 		"timePeriod": "Third Thing",
 		"lengthOfTime": 24,
 		"comments": ""
+	} , 
+	{
+		"id":1469,
+		"sessionDate": 20240117,
+		"dateString": "2023-01-17T00:00:00Z",
+		"dateString2": "2023-01-17",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": ""
 	} 
 ]
