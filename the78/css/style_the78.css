@@ -116,12 +116,27 @@ p.standard_MBrown {
   font-size: 18px;
 }
 
+p.standard_MGray {
+  color: #A5A5A5;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+
+p.standard_MGray2 {
+  color: #090909;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 18px;
+}
+
 p.standard_MP {
   color: rgb(192,18,139);
   font-weight: bold;
   font: Verdana, Arial, sans-serif;
   font-size: 18px;
 }
+
 p.standard_M {
   color: #000080;
   font-weight: bold;
@@ -153,12 +168,7 @@ p.standard_M_24 {
   font: Verdana, Arial, sans-serif;
   font-size: 24px;
 }
-p.blah {
-  color: rgb(255,0,0);
-  font-weight: bold;
-  font: Verdana, Arial, sans-serif;
-  font-size: 24px;
-}
+
 p.standard_Black_24 {
   color: #000000;
   font-weight: bold;
