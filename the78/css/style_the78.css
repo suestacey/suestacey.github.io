@@ -103,17 +103,19 @@ p.standard_QP {
   font-size: 16px;
 }
 p.standard_MR {
-  color: #AF0000;
+  color: #A50000;
   font-weight: bold;
   font: Verdana, Arial, sans-serif;
   font-size: 18px;
 }
-p.standard_MR2 {
-  color: #800000;
+
+p.standard_MBrown {
+  color: #A52A2A;
   font-weight: bold;
   font: Verdana, Arial, sans-serif;
   font-size: 18px;
 }
+
 p.standard_MP {
   color: rgb(192,18,139);
   font-weight: bold;
