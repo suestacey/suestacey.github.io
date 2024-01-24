@@ -190,21 +190,12 @@ p.standard_MI {
   font-size: 18px;
 }
 
-p.red_highlight {
-  color: rgb(255,0,0);
-  font-weight: bold;
-  font-family: Comic Sans MS, Comic Sans, sans-serif;
-  font-size: 14px;
-}
-
 p.purple_highlight {
   color: rgb(128,0,128);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 16px;
 }
-
-
 
 body {
 	background-color: #FFFFFF;
