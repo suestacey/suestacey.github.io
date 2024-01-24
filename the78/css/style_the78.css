@@ -116,15 +116,15 @@ p.standard_MBrown {
   font-size: 18px;
 }
 
-p.standard_MGray {
-  color: #A0A0A0;
+p.standard_MGrayHead {
+  color: #606060;
   font-weight: bold;
   font: Verdana, Arial, sans-serif;
   font-size: 18px;
 }
 
-p.standard_MGray2 {
-  color: #090909;
+p.standard_MGrayBlurb {
+  color: #A0A0A0;
   font-weight: bold;
   font: Verdana, Arial, sans-serif;
   font-size: 18px;
