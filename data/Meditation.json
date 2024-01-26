@@ -4777,5 +4777,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	}, 
+	{
+		"id":1478,
+		"sessionDate": 20240125,
+		"dateString": "2023-01-25T00:00:00Z",
+		"dateString2": "2023-01-25",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":1479,
+		"sessionDate": 20240126,
+		"dateString": "2023-01-26T00:00:00Z",
+		"dateString2": "2023-01-26",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
