@@ -4867,5 +4867,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	}, 
+	{
+		"id":1487,
+		"sessionDate": 20240202,
+		"dateString": "2024-02-02T00:00:00Z",
+		"dateString2": "2024-02-02",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
