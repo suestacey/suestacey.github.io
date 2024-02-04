@@ -1,12 +1,33 @@
 [{
-		"id": 0,
+		"id": 1000,
 		"sessionDate": 20230302,
 		"date":20230302,
 		"dateString": "2023-03-02T03:11:00Z",
 		"dateString2": "2023-03-02",
 		"sessionNumber": 1,
-		"timePeriod": "Middle of the Night",
+		"timePeriod": "Midnight",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1001,
+		"sessionDate": 20231120,
+		"dateString": "20231120T12:00:00Z",
+		"dateString2": "2023-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "Third Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id": 1002,
+		"sessionDate": 20240101,
+		"dateString": "20240101T12:00:00Z",
+		"dateString2": "2024-01-01",
+		"sessionNumber": 1,
+		"timePeriod": "Noon",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
+
 ]
