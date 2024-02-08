@@ -4934,6 +4934,16 @@
 		"dateString": "2024-02-07T00:00:00Z",
 		"dateString2": "2024-02-07",
 		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":1494,
+		"sessionDate": 20240208,
+		"dateString": "2024-02-08T00:00:00Z",
+		"dateString2": "2024-02-08",
+		"sessionNumber": 1,
 		"timePeriod": "Not Yet",
 		"lengthOfTime": 21,
 		"comments": ""
