@@ -4965,8 +4965,8 @@
 		"dateString2": "2024-02-10",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
-		"lengthOfTime": 21,
-		"comments": "Sherrii's son-Bastion-born today"
+		"lengthOfTime": 22,
+		"comments": "Sherrii's son, Bastion, born today"
 	}, 
 	{
 		"id":1497,
@@ -4976,6 +4976,16 @@
 		"sessionNumber": 2,
 		"timePeriod": "Second Thing",
 		"lengthOfTime": 23,
+		"comments": ""
+	}, 
+	{
+		"id":1498,
+		"sessionDate": 20240211,
+		"dateString": "2024-02-11T00:00:00Z",
+		"dateString2": "2024-02-11",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
 		"comments": ""
 	}
 ]
