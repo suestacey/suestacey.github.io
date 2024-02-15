@@ -5027,5 +5027,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	}, 
+	{
+		"id":1503,
+		"sessionDate": 20240215,
+		"dateString": "2024-02-15T00:00:00Z",
+		"dateString2": "2024-02-15",
+		"sessionNumber": 1,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 21,
+		"comments": "First thing:  Spy mission"
 	}
 ]
