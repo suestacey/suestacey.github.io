@@ -5037,5 +5037,25 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime": 21,
 		"comments": "First thing:  Spy mission"
+	}, 
+	{
+		"id":1504,
+		"sessionDate": 20240216,
+		"dateString": "2024-02-16T00:00:00Z",
+		"dateString2": "2024-02-16",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":1505,
+		"sessionDate": 20240216,
+		"dateString": "2024-02-16T00:00:00Z",
+		"dateString2": "2024-02-16",
+		"sessionNumber": 2,
+		"timePeriod": "Noon",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
