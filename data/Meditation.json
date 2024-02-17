@@ -5057,5 +5057,25 @@
 		"timePeriod": "Noon",
 		"lengthOfTime": 21,
 		"comments": ""
+	}, 
+	{
+		"id":1506,
+		"sessionDate": 20240217,
+		"dateString": "2024-02-17T00:00:00Z",
+		"dateString2": "2024-02-17",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 22,
+		"comments": ""
+	}, 
+	{
+		"id":1507,
+		"sessionDate": 20240217,
+		"dateString": "2024-02-17T00:00:00Z",
+		"dateString2": "2024-02-17",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 23,
+		"comments": ""
 	}
 ]
