@@ -5077,5 +5077,25 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime": 23,
 		"comments": ""
+	}, 
+	{
+		"id":1508,
+		"sessionDate": 20240218,
+		"dateString": "2024-02-18T00:00:00Z",
+		"dateString2": "2024-02-18",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	}, 
+	{
+		"id":1509,
+		"sessionDate": 20240219,
+		"dateString": "2024-02-19T00:00:00Z",
+		"dateString2": "2024-02-19",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
