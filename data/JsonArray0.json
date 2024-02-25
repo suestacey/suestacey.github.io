@@ -10,15 +10,15 @@
 		"micaela"
 	],
   	 "imageURL": [
-		"https://suestacey.github.io/imageGallery/img/purpleeyes60.png",
-		"https://suestacey.github.io/imageGallery/img/bucks120.png",
 		"https://suestacey.github.io/imageGallery/img/bam1.png",
+		"https://suestacey.github.io/imageGallery/img/bucks120.png",
+		"https://suestacey.github.io/imageGallery/img/purpleeyes60.png",
 		"https://suestacey.github.io/imageGallery/img/micaela.png"
 	],
 	"imageName":[
-		"Purple Eyes",
-		"Bucks",
 		"1 Bam",
+		"Bucks",
+		"Purple Eyes",
 		"Micaela"
 	],
   "tags": "Group 1"
