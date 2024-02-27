@@ -5148,7 +5148,7 @@
 		"lengthOfTime": 21,
 		"comments": ""
 	},
-{
+	{
 		"id":1515,
 		"sessionDate": 20240225,
 		"dateString": "2024-02-25T00:00:00Z",
@@ -5164,7 +5164,7 @@
 		"dateString": "2024-02-26T00:00:00Z",
 		"dateString2": "2024-02-26",
 		"sessionNumber": 1,
-		"timePeriod": "Morning",
+		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
 	}, 
@@ -5177,5 +5177,15 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": "Mary S Young dogpark"
+	},  
+	{
+		"id":1518,
+		"sessionDate": 20240227,
+		"dateString": "2024-02-27T00:00:00Z",
+		"dateString2": "2024-02-27",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
