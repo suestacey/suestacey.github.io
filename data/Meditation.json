@@ -5187,5 +5187,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},  
+	{
+		"id":1519,
+		"sessionDate": 20240228,
+		"dateString": "2024-02-28T00:00:00Z",
+		"dateString2": "2024-02-28",
+		"sessionNumber": 1,
+		"timePeriod": "Late Morning",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
