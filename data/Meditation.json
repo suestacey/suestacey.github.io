@@ -5197,5 +5197,15 @@
 		"timePeriod": "Late Morning",
 		"lengthOfTime": 21,
 		"comments": ""
+	},  
+	{
+		"id":1520,
+		"sessionDate": 20240229,
+		"dateString": "2024-02-29T00:00:00Z",
+		"dateString2": "2024-02-29",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
