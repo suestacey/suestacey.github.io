@@ -5234,7 +5234,7 @@
 		"dateString": "2024-03-03T00:00:00Z",
 		"dateString2": "2024-03-03",
 		"sessionNumber": 1,
-		"timePeriod": "BDTimeMorning",
+		"timePeriod": "BDTime",
 		"lengthOfTime": 21,
 		"comments": ""
 	}
