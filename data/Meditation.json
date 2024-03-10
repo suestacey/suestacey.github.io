@@ -5307,5 +5307,35 @@
 		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": ""
+	},  
+	{
+		"id":1531,
+		"sessionDate": 20240309,
+		"dateString": "2024-03-09T00:00:00Z",
+		"dateString2": "2024-03-09",
+		"sessionNumber": 2,
+		"timePeriod": "Before Midnight",
+		"lengthOfTime": 33,
+		"comments": "Blackout session 1"
+	},  
+	{
+		"id":1532,
+		"sessionDate": 20240310,
+		"dateString": "2024-03-10T00:00:00Z",
+		"dateString2": "2024-03-10",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 18,
+		"comments": "Blackout session 2"
+	},  
+	{
+		"id":1533,
+		"sessionDate": 20240310,
+		"dateString": "2024-03-10T00:00:00Z",
+		"dateString2": "2024-03-10",
+		"sessionNumber": 2,
+		"timePeriod": "After Midnight",
+		"lengthOfTime": 21,
+		"comments": "Blackout session 3"
 	}
 ]
