@@ -5316,7 +5316,7 @@
 		"sessionNumber": 2,
 		"timePeriod": "Before Midnight",
 		"lengthOfTime": 33,
-		"comments": "Blackout session 1"
+		"comments": "PGE Blackout session 1"
 	},  
 	{
 		"id":1532,
@@ -5326,7 +5326,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Midnight",
 		"lengthOfTime": 18,
-		"comments": "Blackout session 2"
+		"comments": "Blackout session 2.  Meditation ended when blackout ended."
 	},  
 	{
 		"id":1533,
@@ -5336,6 +5336,6 @@
 		"sessionNumber": 2,
 		"timePeriod": "After Midnight",
 		"lengthOfTime": 21,
-		"comments": "Blackout session 3"
+		"comments": "Blackout session 3. Decided to meditate one more time."
 	}
 ]
