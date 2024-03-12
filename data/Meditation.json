@@ -5347,5 +5347,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	},  
+	{
+		"id":1535,
+		"sessionDate": 20240312,
+		"dateString": "2024-03-12T00:00:00Z",
+		"dateString2": "2024-03-12",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
