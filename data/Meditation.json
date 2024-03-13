@@ -5357,5 +5357,45 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	},  
+	{
+		"id":1536,
+		"sessionDate": 20240313,
+		"dateString": "2024-03-13T00:00:00Z",
+		"dateString2": "2024-03-13",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": ""
+	},  
+	{
+		"id":1537,
+		"sessionDate": 20240313,
+		"dateString": "2024-03-13T00:00:00Z",
+		"dateString2": "2024-03-13",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},  
+	{
+		"id":1538,
+		"sessionDate": 20240313,
+		"dateString": "2024-03-13T00:00:00Z",
+		"dateString2": "2024-03-13",
+		"sessionNumber": 3,
+		"timePeriod": "Third Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},  
+	{
+		"id":1539,
+		"sessionDate": 20240313,
+		"dateString": "2024-03-13T00:00:00Z",
+		"dateString2": "2024-03-13",
+		"sessionNumber": 4,
+		"timePeriod": "Fourth Thing",
+		"lengthOfTime": 23,
+		"comments": "It took me this long before I could get out of my head."
 	}
 ]
