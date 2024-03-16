@@ -5364,82 +5364,22 @@
 		"dateString": "2024-03-13T00:00:00Z",
 		"dateString2": "2024-03-13",
 		"sessionNumber": 1,
-		"timePeriod": "Middle of the Night",
-		"lengthOfTime": 21,
-		"comments": ""
-	},  
-	{
-		"id":1537,
-		"sessionDate": 20240313,
-		"dateString": "2024-03-13T00:00:00Z",
-		"dateString2": "2024-03-13",
-		"sessionNumber": 2,
-		"timePeriod": "Second Thing",
-		"lengthOfTime": 21,
-		"comments": ""
-	},  
-	{
-		"id":1538,
-		"sessionDate": 20240313,
-		"dateString": "2024-03-13T00:00:00Z",
-		"dateString2": "2024-03-13",
-		"sessionNumber": 3,
-		"timePeriod": "Third Thing",
-		"lengthOfTime": 21,
-		"comments": ""
-	},  
-	{
-		"id":1539,
-		"sessionDate": 20240313,
-		"dateString": "2024-03-13T00:00:00Z",
-		"dateString2": "2024-03-13",
-		"sessionNumber": 4,
-		"timePeriod": "Fourth Thing",
-		"lengthOfTime": 23,
+		"timePeriod": "MotN90",
+		"lengthOfTime": 90,
 		"comments": "It took me this long before I could get out of my head."
 	},  
 	{
-		"id":1540,
+		"id":1537,
 		"sessionDate": 20240314,
 		"dateString": "2024-03-14T00:00:00Z",
 		"dateString2": "2024-03-14",
 		"sessionNumber": 1,
-		"timePeriod": "Morning",
-		"lengthOfTime": 21,
+		"timePeriod": "Morning90",
+		"lengthOfTime": 90,
 		"comments": ""
-	},  
+	},    
 	{
-		"id":1541,
-		"sessionDate": 20240314,
-		"dateString": "2024-03-14T00:00:00Z",
-		"dateString2": "2024-03-14",
-		"sessionNumber": 2,
-		"timePeriod": "Second Thing",
-		"lengthOfTime": 22,
-		"comments": ""
-	},  
-	{
-		"id":1542,
-		"sessionDate": 20240314,
-		"dateString": "2024-03-14T00:00:00Z",
-		"dateString2": "2024-03-14",
-		"sessionNumber": 3,
-		"timePeriod": "Third Thing",
-		"lengthOfTime": 23,
-		"comments": ""
-	},  
-	{
-		"id":1543,
-		"sessionDate": 20240314,
-		"dateString": "2024-03-14T00:00:00Z",
-		"dateString2": "2024-03-14",
-		"sessionNumber": 4,
-		"timePeriod": "Fourth Thing",
-		"lengthOfTime": 24,
-		"comments": ""
-	},  
-	{
-		"id":1544,
+		"id":1538,
 		"sessionDate": 20240315,
 		"dateString": "2024-03-15T00:00:00Z",
 		"dateString2": "2024-03-15",
@@ -5449,7 +5389,7 @@
 		"comments": ""
 	},  
 	{
-		"id":1545,
+		"id":1539,
 		"sessionDate": 20240315,
 		"dateString": "2024-03-15T00:00:00Z",
 		"dateString2": "2024-03-15",
@@ -5457,5 +5397,25 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime": 22,
 		"comments": ""
+	},  
+	{
+		"id":1540,
+		"sessionDate": 20240315,
+		"dateString": "2024-03-15T00:00:00Z",
+		"dateString2": "2024-03-15",
+		"sessionNumber": 3,
+		"timePeriod": "Night",
+		"lengthOfTime": 21,
+		"comments": ""
+	},  
+	{
+		"id":1541,
+		"sessionDate": 20240316,
+		"dateString": "2024-03-16T00:00:00Z",
+		"dateString2": "2024-03-16",
+		"sessionNumber": 1,
+		"timePeriod": "Morning90",
+		"lengthOfTime": 90,
+		"comments": "Time moves differently between sessions 2, 3 and 4.  It seemed like a looong time 2, then 3 went like That! and 4 was still much shorter than being the longest would imply."
 	}
 ]
