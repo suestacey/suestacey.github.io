@@ -5437,5 +5437,15 @@
 		"timePeriod": "Midnight",
 		"lengthOfTime": 21,
 		"comments": ""
+	},  
+	{
+		"id":1544,
+		"sessionDate": 20240319,
+		"dateString": "2024-03-19T00:00:00Z",
+		"dateString2": "2024-03-19",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight of the Night",
+		"lengthOfTime": 66,
+		"comments": "3 sessions"
 	}
 ]
