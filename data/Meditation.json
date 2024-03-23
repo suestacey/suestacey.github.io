@@ -5487,5 +5487,35 @@
 		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": "Time, sometimes, moves more quickly in meditation. Today was one such day."
+	},  
+	{
+		"id":1549,
+		"sessionDate": 20240322,
+		"dateString": "2024-03-22T00:00:00Z",
+		"dateString2": "2024-03-22",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},  
+	{
+		"id":1550,
+		"sessionDate": 20240323,
+		"dateString": "2024-03-23T00:00:00Z",
+		"dateString2": "2024-03-23",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},  
+	{
+		"id":1551,
+		"sessionDate": 20240323,
+		"dateString": "2024-03-23T00:00:00Z",
+		"dateString2": "2024-03-23",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 23,
+		"comments": ""
 	}
 ]
