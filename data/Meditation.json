@@ -5517,5 +5517,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 66,
 		"comments": "3 sessions"
+	},  
+	{
+		"id":1552,
+		"sessionDate": 20240325,
+		"dateString": "2024-03-25T00:00:00Z",
+		"dateString2": "2024-03-25",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 34,
+		"comments": "Didn't hear the gong. Stepped out with 8 minutes to go. Was obsessed about The Abyss (see iChing app)."
 	}
 ]
