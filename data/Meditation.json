@@ -5497,7 +5497,7 @@
 		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": ""
-	},  
+	},
 	{
 		"id":1550,
 		"sessionDate": 20240323,
@@ -5507,7 +5507,7 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 43,
 		"comments": "2 sessions"
-	},  
+	},
 	{
 		"id":1551,
 		"sessionDate": 20240324,
@@ -5517,7 +5517,7 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 66,
 		"comments": "3 sessions"
-	},  
+	},
 	{
 		"id":1552,
 		"sessionDate": 20240325,
@@ -5527,7 +5527,7 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 35,
 		"comments": "Didn't hear the gong. Stepped out with 8 minutes to go. Was obsessed about The Abyss (see iChing app)."
-	},  
+	},
 	{
 		"id":1553,
 		"sessionDate": 20240325,
@@ -5536,6 +5536,16 @@
 		"sessionNumber": 2,
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":1554,
+		"sessionDate": 20240326,
+		"dateString": "2024-03-26T00:00:00Z",
+		"dateString2": "2024-03-2",
+		"sessionNumber": 1,
+		"timePeriod": "MiddleNight90",
+		"lengthOfTime": 90,
 		"comments": ""
 	}
 ]
