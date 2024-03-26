@@ -5527,5 +5527,16 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 35,
 		"comments": "Didn't hear the gong. Stepped out with 8 minutes to go. Was obsessed about The Abyss (see iChing app)."
+	},  
+	{
+		"id":1553,
+		"sessionDate": 20240325,
+		"dateString": "2024-03-25T00:00:00Z",
+		"dateString2": "2024-03-25",
+		"sessionNumber": 2,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
+]
 ]
