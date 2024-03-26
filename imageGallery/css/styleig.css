@@ -71,6 +71,12 @@ p.prussianBlue_24 {
   font-size: 24px;
 }
 
+p.prussianBlue_36 {
+  color: rgb(3,57,108);
+  font-weight: bold;
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+  font-size: 36px;
+}
 
 p.sapphireBlue_18 {
   color: rgb(1,31,75);
