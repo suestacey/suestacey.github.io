@@ -5542,10 +5542,20 @@
 		"id":1554,
 		"sessionDate": 20240326,
 		"dateString": "2024-03-26T00:00:00Z",
-		"dateString2": "2024-03-2",
+		"dateString2": "2024-03-26",
 		"sessionNumber": 1,
 		"timePeriod": "MiddleNight90",
 		"lengthOfTime": 90,
 		"comments": ""
+	},
+	{
+		"id":1555,
+		"sessionDate": 20240327,
+		"dateString": "2024-03-27T00:00:00Z",
+		"dateString2": "2024-03-27",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 43,
+		"comments": "2 sessions"
 	}
 ]
