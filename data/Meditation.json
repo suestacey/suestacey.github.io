@@ -5653,7 +5653,7 @@
 		"sessionDate": 20240406,
 		"dateString": "2024-04-06T00:00:00Z",
 		"dateString2": "2024-04-06",
-		"sessionNumber": 1,
+		"sessionNumber": 0,
 		"timePeriod": "too sick",
 		"lengthOfTime": 0,
 		"comments": "New York Day 11"
@@ -5673,7 +5673,7 @@
 		"sessionDate": 20240408,
 		"dateString": "2024-04-08T00:00:00Z",
 		"dateString2": "2024-04-08",
-		"sessionNumber": 1,
+		"sessionNumber": 0,
 		"timePeriod": "too sick",
 		"lengthOfTime": 0,
 		"comments": "Fly home from NY"
