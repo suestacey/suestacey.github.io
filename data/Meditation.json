@@ -5677,5 +5677,25 @@
 		"timePeriod": "too sick",
 		"lengthOfTime": 0,
 		"comments": "Fly home from NY"
+	},
+	{
+		"id":1568,
+		"sessionDate": 20240409,
+		"dateString": "2024-04-09T00:00:00Z",
+		"dateString2": "2024-04-09",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":1569,
+		"sessionDate": 20240410,
+		"dateString": "2024-04-10T00:00:00Z",
+		"dateString2": "2024-04-10",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
