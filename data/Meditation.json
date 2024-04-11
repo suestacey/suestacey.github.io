@@ -5697,5 +5697,15 @@
 		"timePeriod": "Night",
 		"lengthOfTime": 21,
 		"comments": "The vapers moved out!"
+	},
+	{
+		"id":1570,
+		"sessionDate": 20240411,
+		"dateString": "2024-04-11T00:00:00Z",
+		"dateString2": "2024-04-11",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
