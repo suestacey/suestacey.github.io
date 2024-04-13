@@ -5717,5 +5717,15 @@
 		"timePeriod": "Morning90",
 		"lengthOfTime": 90,
 		"comments": ""
+	},
+	{
+		"id":1572,
+		"sessionDate": 20240413,
+		"dateString": "2024-04-13T00:00:00Z",
+		"dateString2": "2024-04-13",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
