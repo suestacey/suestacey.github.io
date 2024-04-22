@@ -5817,5 +5817,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1582,
+		"sessionDate": 20240422,
+		"dateString": "2023-04-2200:00:00Z",
+		"dateString2": "2024-04-22",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
