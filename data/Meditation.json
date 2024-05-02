@@ -5927,5 +5927,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": "Drove back from Oakland."
+	},
+	{
+		"id":1593,
+		"sessionDate": 20240502,
+		"dateString": "2024-04-02T00:00:00Z",
+		"dateString2": "2024-05-02",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 43,
+		"comments": ""
 	}
 ]
