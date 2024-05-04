@@ -5446,7 +5446,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 66,
-		"comments": "3 sessions"
+		"comments": ""
 	},  
 	{
 		"id":1545,
@@ -5506,7 +5506,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 43,
-		"comments": "2 sessions"
+		"comments": ""
 	},
 	{
 		"id":1551,
@@ -5516,7 +5516,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 66,
-		"comments": "3 sessions"
+		"comments": ""
 	},
 	{
 		"id":1552,
@@ -5736,7 +5736,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 43,
-		"comments": "2 sessions"
+		"comments": ""
 	},
 	{
 		"id":1574,
@@ -5756,7 +5756,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 66,
-		"comments": "3 sessions"
+		"comments": ""
 	},
 	{
 		"id":1576,
@@ -5836,7 +5836,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 66,
-		"comments": "3 sessions"
+		"comments": ""
 	},
 	{
 		"id":1584,
@@ -5866,7 +5866,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 66,
-		"comments": "3 sessions"
+		"comments": ""
 	},
 	{
 		"id":1587,
@@ -5876,7 +5876,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 43,
-		"comments": "2 sessions"
+		"comments": ""
 	},
 	{
 		"id":1588,
@@ -5957,5 +5957,15 @@
 		"timePeriod": "Third Thing",
 		"lengthOfTime": 21,
 		"comments": "Interruption between 2 and 3 by cigarette smoke. Couldn't start 3rd session on app, so did a 21 minute."
+	},
+	{
+		"id":1596,
+		"sessionDate": 20240504,
+		"dateString": "2024-04-04T00:00:00Z",
+		"dateString2": "2024-05-04",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 43,
+		"comments": ""
 	}
 ]
