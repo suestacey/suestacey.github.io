@@ -5977,5 +5977,15 @@
 		"timePeriod": "Last Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1598,
+		"sessionDate": 20240505,
+		"dateString": "2024-04-05T00:00:00Z",
+		"dateString2": "2024-05-05",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
