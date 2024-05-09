@@ -6017,5 +6017,25 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1602,
+		"sessionDate": 20240509,
+		"dateString": "2024-05-09T00:00:00Z",
+		"dateString2": "2024-05-09",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": "Interrupted by cigarette smoke"
+	},
+	{
+		"id":1603,
+		"sessionDate": 20240509,
+		"dateString": "2024-05-09T00:00:00Z",
+		"dateString2": "2024-05-09",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
