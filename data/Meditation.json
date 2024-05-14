@@ -6076,6 +6076,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 66,
+		"comments": "The Lost 3rd Session thing"
+	},
+	{
+		"id":1607,
+		"sessionDate": 20240514,
+		"dateString": "2024-05-14T00:00:00Z",
+		"dateString2": "2024-05-14",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 66,
 		"comments": ""
 	}
 ]
