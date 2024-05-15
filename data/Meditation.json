@@ -6076,7 +6076,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 66,
-		"comments": "The Lost 3rd Session thing"
+		"comments": "The Time Changes Speed 3rd Session thing"
 	},
 	{
 		"id":1607,
@@ -6086,6 +6086,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 66,
+		"comments": ""
+	},
+	{
+		"id":1608,
+		"sessionDate": 20240515,
+		"dateString": "2024-05-15T00:00:00Z",
+		"dateString2": "2024-05-15",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 43,
 		"comments": ""
 	}
 ]
