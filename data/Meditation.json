@@ -6107,5 +6107,15 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 50,
 		"comments": "A special session in honor of 3 Helixes Day"
+	},
+	{
+		"id":1610,
+		"sessionDate": 20240516,
+		"dateString": "2024-05-16T00:00:00Z",
+		"dateString2": "2024-05-16",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
