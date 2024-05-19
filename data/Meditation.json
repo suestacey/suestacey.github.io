@@ -6157,5 +6157,15 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime": 21,
 		"comments": "Adjusting the airflow"
+	},
+	{
+		"id":1617,
+		"sessionDate": 20240519,
+		"dateString": "2024-05-19T00:00:00Z",
+		"dateString2": "2024-05-19",
+		"sessionNumber": 1,
+		"timePeriod": "Dawn",
+		"lengthOfTime": 66,
+		"comments": ""
 	}
 ]
