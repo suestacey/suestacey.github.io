@@ -6187,5 +6187,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 66,
 		"comments": "Have to get to the 3rd session to get beyond the mind."
+	},
+	{
+		"id":1620,
+		"sessionDate": 20240522,
+		"dateString": "2024-05-22T00:00:00Z",
+		"dateString2": "2024-05-22",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 43,
+		"comments": ""
 	}
 ]
