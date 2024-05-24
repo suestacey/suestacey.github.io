@@ -100,8 +100,9 @@ p.standard_MI {
   font-size: 18px;
 }
 
+
 p.red_highlight {
-  color: rgb(255,0,0);
+  color: rgb(0,0,255);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 14px;
