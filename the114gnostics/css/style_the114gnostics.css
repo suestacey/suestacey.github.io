@@ -115,7 +115,7 @@ p.red_highlight {
 }
 
 p.green_highlight {
-  color: rgb(0,255,0);
+  color: rgb(0,180,80);
   font-weight: bold;
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-size: 14px;
