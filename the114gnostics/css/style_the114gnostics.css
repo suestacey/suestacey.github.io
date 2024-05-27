@@ -10,9 +10,10 @@ h1 {
          }
 h2{
 	 
-	 font-family: Rosewood Std Regular, serif;
-	 font-size: 18px; 
-	 color: rgb(0,128,255); 
+	 font-family: Comic Sans MS, Comic Sans, sans-serif;
+	 font-size: 36px; 
+	/* gold     color: rgb(212,175,55); */
+	color: rgb(102,192,122);
 	 text-transform: uppercase;
 	 text-align: left; 
 	 margin: 0 0 20px 0; 
