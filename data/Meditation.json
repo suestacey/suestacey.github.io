@@ -6247,5 +6247,15 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 34,
 		"comments": ""
+	},
+	{
+		"id":1626,
+		"sessionDate": 20240528,
+		"dateString": "2024-05-28T00:00:00Z",
+		"dateString2": "2024-05-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 66,
+		"comments": "The Time Changes Speed 3rd Session thing"
 	}
 ]
