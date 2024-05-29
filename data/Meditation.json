@@ -3596,7 +3596,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Night",
 		"lengthOfTime": 21,
-		"comments": "First one in 5202A"
+		"comments": "First one in 5020A"
 	},
 	{
 		"id":1360,
@@ -6257,5 +6257,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 66,
 		"comments": "The Time Changes Speed 3rd Session thing"
+	},
+	{
+		"id":1627,
+		"sessionDate": 20240529,
+		"dateString": "2024-05-29T00:00:00Z",
+		"dateString2": "2024-05-29",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
