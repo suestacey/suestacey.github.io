@@ -6277,5 +6277,55 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 66,
 		"comments": "Another before Petite-a-Terre"
+	},
+	{
+		"id":1629,
+		"sessionDate": 20240530,
+		"dateString": "2024-05-30T00:00:00Z",
+		"dateString2": "2024-05-30",
+		"sessionNumber": 1,
+		"timePeriod": "Night",
+		"lengthOfTime": 21,
+		"comments": "First in Petite-a-Terre"
+	},
+	{
+		"id":1630,
+		"sessionDate": 20240531,
+		"dateString": "2024-05-31T00:00:00Z",
+		"dateString2": "2024-05-31",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 66,
+		"comments": ""
+	},
+	{
+		"id":1631,
+		"sessionDate": 20240601,
+		"dateString": "2024-06-01T00:00:00Z",
+		"dateString2": "2024-06-01",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 43,
+		"comments": "I could feel myself falling asleep so I did not do my precious 3rd session."
+	},
+	{
+		"id":1632,
+		"sessionDate": 20240602,
+		"dateString": "2024-06-02T00:00:00Z",
+		"dateString2": "2024-06-02",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":1633,
+		"sessionDate": 20240603,
+		"dateString": "2024-06-03T00:00:00Z",
+		"dateString2": "2024-06-03",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 66,
+		"comments": ""
 	}
 ]
