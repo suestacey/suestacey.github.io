@@ -6377,5 +6377,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1639,
+		"sessionDate": 20240609,
+		"dateString": "2024-06-09T00:00:00Z",
+		"dateString2": "2024-06-09",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 66,
+		"comments": ""
 	}
 ]
