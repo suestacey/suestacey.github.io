@@ -6407,5 +6407,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 43,
 		"comments": "Today it was session 2, when I went into timelessness."
+	},
+	{
+		"id":1642,
+		"sessionDate": 20240611,
+		"dateString": "2024-06-11T00:00:00Z",
+		"dateString2": "2024-06-11",
+		"sessionNumber": 2,
+		"timePeriod": "Last Thing",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":1643,
+		"sessionDate": 20240612,
+		"dateString": "2024-06-12T00:00:00Z",
+		"dateString2": "2024-06-12",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 43,
+		"comments": "Looong. Completely lost in time."
 	}
 ]
