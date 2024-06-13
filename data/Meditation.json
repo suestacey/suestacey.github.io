@@ -6427,5 +6427,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 43,
 		"comments": "Looong. Completely lost in time."
+	},
+	{
+		"id":1644,
+		"sessionDate": 20240613,
+		"dateString": "2024-06-13T00:00:00Z",
+		"dateString2": "2024-06-13",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 90,
+		"comments": "Too many time indicators (Dreo, sprinklers, fan). Wow, it’s really bright in here."
 	}
 ]
