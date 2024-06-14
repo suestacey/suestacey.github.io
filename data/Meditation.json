@@ -6437,5 +6437,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 90,
 		"comments": "Too many time indicators (Dreo, sprinklers, fan). Wow, it’s really bright in here."
+	},
+	{
+		"id":1645,
+		"sessionDate": 20240614,
+		"dateString": "2024-06-14T00:00:00Z",
+		"dateString2": "2024-06-14",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 43,
+		"comments": "Could feel myself falling asleep so I stopped at 2."
 	}
 ]
