@@ -6487,5 +6487,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 64,
 		"comments": "2 minutes short.  The park tensed up, mostly in the arm."
+	},
+	{
+		"id":1650,
+		"sessionDate": 20240619,
+		"dateString": "2024-06-19T00:00:00Z",
+		"dateString2": "2024-06-19",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
