@@ -6477,5 +6477,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 66,
 		"comments": "Almost entirely about thought."
+	},
+	{
+		"id":1649,
+		"sessionDate": 20240618,
+		"dateString": "2024-06-18T00:00:00Z",
+		"dateString2": "2024-06-18",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 64,
+		"comments": "2 minutes short.  The park tensed up, mostly in the arm."
 	}
 ]
