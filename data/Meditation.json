@@ -6716,6 +6716,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 25,
+		"comments": "poisonous air stopped the process"
+	},
+	{
+		"id":1672,
+		"sessionDate": 20240705,
+		"dateString": "2024-07-05T00:00:00Z",
+		"dateString2": "2024-07-05",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 43,
 		"comments": ""
 	}
 ]
