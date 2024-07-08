@@ -6747,5 +6747,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1675,
+		"sessionDate": 20240707,
+		"dateString": "2024-07-07T00:00:00Z",
+		"dateString2": "2024-07-07",
+		"sessionNumber": 2,
+		"timePeriod": "Before Midnight",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":1676,
+		"sessionDate": 20240708,
+		"dateString": "2024-07-08T00:00:00Z",
+		"dateString2": "2024-07-08",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 22,
+		"comments": "Session 2"
 	}
 ]
