@@ -6767,5 +6767,15 @@
 		"timePeriod": "Midnight",
 		"lengthOfTime": 22,
 		"comments": "Session 2"
+	},
+	{
+		"id":1677,
+		"sessionDate": 20240708,
+		"dateString": "2024-07-08T00:00:00Z",
+		"dateString2": "2024-07-08",
+		"sessionNumber": 2,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 66,
+		"comments": "root canal day"
 	}
 ]
