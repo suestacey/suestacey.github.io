@@ -6777,5 +6777,25 @@
 		"timePeriod": "Morning",
 		"lengthOfTime": 21,
 		"comments": " "
+	},
+	{
+		"id":1678,
+		"sessionDate": 20240710,
+		"dateString": "2024-07-10T00:00:00Z",
+		"dateString2": "2024-07-10",
+		"sessionNumber": 2,
+		"timePeriod": "Before Midnight",
+		"lengthOfTime": 21,
+		"comments": " "
+	},
+	{
+		"id":1679,
+		"sessionDate": 20240711,
+		"dateString": "2024-07-11T00:00:00Z",
+		"dateString2": "2024-07-11",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 22,
+		"comments": " "
 	}
 ]
