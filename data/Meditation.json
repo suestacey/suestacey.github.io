@@ -6947,5 +6947,15 @@
 		"timePeriod": "Night",
 		"lengthOfTime": 21,
 		"comments": "OR"
+	},
+	{
+		"id":1695,
+		"sessionDate": 20240727,
+		"dateString": "2024-07-27T00:00:00Z",
+		"dateString2": "2024-07-27",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 43,
+		"comments": ""
 	}
 ]
