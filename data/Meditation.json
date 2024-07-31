@@ -6987,5 +6987,15 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": "First Tai Chi"
+	},
+	{
+		"id":1699,
+		"sessionDate": 20240731,
+		"dateString": "2024-07-31T00:00:00Z",
+		"dateString2": "2024-07-31",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 66,
+		"comments": ""
 	}
 ]
