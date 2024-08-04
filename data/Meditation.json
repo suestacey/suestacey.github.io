@@ -7036,6 +7036,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 90,
-		"comments": "I darn you to do a 4th session.  (I did.  Three is still the 'shortest'.)"
+		"comments": "I dare you to do a 4th session.  (I did.  Three is still the 'shortest'.)"
+	},
+	{
+		"id":1704,
+		"sessionDate": 20240804,
+		"dateString": "2024-08-04T00:00:00Z",
+		"dateString2": "2024-08-04",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
