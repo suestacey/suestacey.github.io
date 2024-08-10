@@ -7097,5 +7097,25 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1710,
+		"sessionDate": 20240809,
+		"dateString": "2024-08-09T00:00:00Z",
+		"dateString2": "2024-08-09",
+		"sessionNumber": 2,
+		"timePeriod": "Before Midnight",
+		"lengthOfTime": 21,
+		"comments": ""
+	},
+	{
+		"id":1711,
+		"sessionDate": 20240810,
+		"dateString": "2024-08-10T00:00:00Z",
+		"dateString2": "2024-08-10",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 23,
+		"comments": ""
 	}
 ]
