@@ -7166,7 +7166,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 43,
-		"comments": ""
+		"comments": "Day 365 Tao book"
 	},
 	{
 		"id":1717,
@@ -7174,9 +7174,9 @@
 		"dateString": "2024-08-15T00:00:00Z",
 		"dateString2": "2024-08-16",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
-		"lengthOfTime": 21,
-		"comments": "Day 365 Tao book"
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 66,
+		"comments": "Day 1 Tao book"
 	},
 	{
 		"id":1718,
@@ -7186,6 +7186,6 @@
 		"sessionNumber": 1,
 		"timePeriod": "Not Yet",
 		"lengthOfTime": 21,
-		"comments": "Day 1 Tao book"
+		"comments": ""
 	}
 ]
