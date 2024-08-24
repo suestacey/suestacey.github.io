@@ -7166,7 +7166,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 43,
-		"comments": "Day 365 Tao book"
+		"comments": ""
 	},
 	{
 		"id":1717,
@@ -7176,17 +7176,17 @@
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 66,
-		"comments": "Day 1 Tao book"
+		"comments": "Day 365 Tao book"
 	},
 	{
 		"id":1718,
 		"sessionDate": 20240817,
 		"dateString": "2024-08-17T00:00:00Z",
-		"dateString2": "2024-08-15",
+		"dateString2": "2024-08-17",
 		"sessionNumber": 1,
 		"timePeriod": "Evening",
 		"lengthOfTime": 43,
-		"comments": "OA (last 10 minutes was sleep)"
+		"comments": "OA and Day 1 Tao book"
 	},
 	{
 		"id":1719,
@@ -7256,6 +7256,6 @@
 		"sessionNumber": 1,
 		"timePeriod": "Not Yet",
 		"lengthOfTime": 21,
-		"comments": ""
+		"comments": "OR"
 	}
 ]
