@@ -7254,8 +7254,18 @@
 		"dateString": "2024-08-24T00:00:00Z",
 		"dateString2": "2024-08-24",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Evening",
 		"lengthOfTime": 21,
 		"comments": "OR"
+	},
+	{
+		"id":1726,
+		"sessionDate": 20240825,
+		"dateString": "2024-08-25T00:00:00Z",
+		"dateString2": "2024-08-25",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
