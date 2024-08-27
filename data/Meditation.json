@@ -7277,5 +7277,15 @@
 		"timePeriod": "After Midnight",
 		"lengthOfTime": 66,
 		"comments": "Spider bite yet no fright"
+	},
+	{
+		"id":1728,
+		"sessionDate": 20240827,
+		"dateString": "2024-08-27T00:00:00Z",
+		"dateString2": "2024-08-27",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 43,
+		"comments": ""
 	}
 ]
