@@ -7297,5 +7297,15 @@
 		"timePeriod": "Early Evening",
 		"lengthOfTime": 21,
 		"comments": ""
+	},
+	{
+		"id":1730,
+		"sessionDate": 20240829,
+		"dateString": "2024-08-29T00:00:00Z",
+		"dateString2": "2024-08-29",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 43,
+		"comments": ""
 	}
 ]
