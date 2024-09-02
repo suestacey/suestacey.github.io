@@ -7337,5 +7337,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":66,
 		"comments": "Worst 3rd session ever. The air was putrid. I was 'screaming' in my head. "
+	},
+	{
+		"id":1734,
+		"sessionDate": 20240901,
+		"dateString": "2024-09-01T00:00:00Z",
+		"dateString2": "2024-09-01",
+		"sessionNumber": 1,
+		"timePeriod": "Before Sleep",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
