@@ -7437,5 +7437,15 @@
 		"timePeriod": "Dawn",
 		"lengthOfTime": 43,
 		"comments": ""
+	},
+	{
+		"id":1744,
+		"sessionDate": 20240910,
+		"dateString": "2024-09-10T00:00:00Z",
+		"dateString2": "2024-09-10",
+		"sessionNumber": 1,
+		"timePeriod": "Before Sleep",
+		"lengthOfTime": 21,
+		"comments": ""
 	}
 ]
