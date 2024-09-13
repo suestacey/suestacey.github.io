@@ -7477,5 +7477,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 90,
 		"comments": ""
+	},
+	{
+		"id":1748,
+		"sessionDate": 20240913,
+		"dateString": "2024-09-13T00:00:00Z",
+		"dateString2": "2024-09-13",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 47,
+		"comments": "Reversed session time periods. First is now longest at 24, last is now shortest at 21."
 	}
 ]
