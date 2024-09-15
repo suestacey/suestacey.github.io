@@ -7507,5 +7507,25 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime": 24,
 		"comments": "Too much like sleep.  Not enough like meditation."
+	},
+	{
+		"id":1751,
+		"sessionDate": 20240915,
+		"dateString": "2024-09-15T00:00:00Z",
+		"dateString2": "2024-09-15",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 24,
+		"comments": "Too much like sleep.  Not enough like meditation."
+	},
+	{
+		"id":1752,
+		"sessionDate": 20240915,
+		"dateString": "2024-09-15T00:00:00Z",
+		"dateString2": "2024-09-15",
+		"sessionNumber": 2,
+		"timePeriod": "Late Morning",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
