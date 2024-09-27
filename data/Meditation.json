@@ -7567,5 +7567,75 @@
 		"timePeriod": "Morning90",
 		"lengthOfTime": 90,
 		"comments": ""
+	},
+	{
+		"id":1757,
+		"sessionDate": 20240920,
+		"dateString": "2024-09-20T00:00:00Z",
+		"dateString2": "2024-09-20",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 24,
+		"comments": "OA"
+	},
+	{
+		"id":1758,
+		"sessionDate": 20240921,
+		"dateString": "2024-09-21T00:00:00Z",
+		"dateString2": "2024-09-21",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 56,
+		"comments": ""
+	},
+	{
+		"id":1759,
+		"sessionDate": 20240922,
+		"dateString": "2024-09-22T00:00:00Z",
+		"dateString2": "2024-09-22",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 55,
+		"comments": ""
+	},
+	{
+		"id":1760,
+		"sessionDate": 20240923,
+		"dateString": "2024-09-23T00:00:00Z",
+		"dateString2": "2024-09-23",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 47,
+		"comments": ""
+	},
+	{
+		"id":1761,
+		"sessionDate": 20240923,
+		"dateString": "2024-09-23T00:00:00Z",
+		"dateString2": "2024-09-23",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1762,
+		"sessionDate": 20240924,
+		"dateString": "2024-09-24T00:00:00Z",
+		"dateString2": "2024-09-24",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 69,
+		"comments": ""
+	},
+	{
+		"id":1763,
+		"sessionDate": 20240925,
+		"dateString": "2024-09-25T00:00:00Z",
+		"dateString2": "2024-09-25",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
