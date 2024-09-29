@@ -7667,5 +7667,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 69,
 		"comments": "With about 10 minutes to go, I believe I fell asleep."
+	},
+	{
+		"id":1767,
+		"sessionDate": 20240929,
+		"dateString": "2024-09-29T00:00:00Z",
+		"dateString2": "2024-09-29",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 47,
+		"comments": ""
 	}
 ]
