@@ -7767,5 +7767,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 47,
 		"comments": ""
+	},
+	{
+		"id":1777,
+		"sessionDate": 20241009,
+		"dateString": "2024-10-09T00:00:00Z",
+		"dateString2": "2024-10-09",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
