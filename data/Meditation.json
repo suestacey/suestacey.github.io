@@ -7777,5 +7777,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 24,
 		"comments": ""
+	},
+	{
+		"id":1778,
+		"sessionDate": 20241010,
+		"dateString": "2024-10-10T00:00:00Z",
+		"dateString2": "2024-10-10",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime": 47,
+		"comments": ""
 	}
 ]
