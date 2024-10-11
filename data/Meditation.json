@@ -7787,5 +7787,25 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime": 47,
 		"comments": "Panic from not being able to remember. Left Half was 'dark'."
+	},
+	{
+		"id":1779,
+		"sessionDate": 20241011,
+		"dateString": "2024-10-11T00:00:00Z",
+		"dateString2": "2024-10-11",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1780,
+		"sessionDate": 20241011,
+		"dateString": "2024-10-11T00:00:00Z",
+		"dateString2": "2024-10-11",
+		"sessionNumber": 2,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
