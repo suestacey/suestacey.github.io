@@ -7827,5 +7827,25 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime": 47,
 		"comments": ""
+	},
+	{
+		"id":1783,
+		"sessionDate": 20241014,
+		"dateString": "2024-10-14T00:00:00Z",
+		"dateString2": "2024-10-14",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1784,
+		"sessionDate": 20241014,
+		"dateString": "2024-10-14T00:00:00Z",
+		"dateString2": "2024-10-14",
+		"sessionNumber": 2,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
