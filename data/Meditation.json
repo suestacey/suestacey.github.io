@@ -7867,5 +7867,105 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 24,
 		"comments": ""
+	},
+	{
+		"id":1787,
+		"sessionDate": 20241017,
+		"dateString": "2024-10-17T00:00:00Z",
+		"dateString2": "2024-10-17",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 24,
+		"comments": "OA"
+	},
+	{
+		"id":1788,
+		"sessionDate": 20241017,
+		"dateString": "2024-10-17T00:00:00Z",
+		"dateString2": "2024-10-17",
+		"sessionNumber": 2,
+		"timePeriod": "Before Midnight",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1789,
+		"sessionDate": 20241018,
+		"dateString": "2024-10-18T00:00:00Z",
+		"dateString2": "2024-10-18",
+		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime": 24,
+		"comments": "unbearable vape"
+	},
+	{
+		"id":1790,
+		"sessionDate": 20241019,
+		"dateString": "2024-10-19T00:00:00Z",
+		"dateString2": "2024-10-19",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 47,
+		"comments": ""
+	},
+	{
+		"id":1792,
+		"sessionDate": 20241019,
+		"dateString": "2024-10-19T00:00:00Z",
+		"dateString2": "2024-10-19",
+		"sessionNumber": 2,
+		"timePeriod": "Before Midnight",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1793,
+		"sessionDate": 20241020,
+		"dateString": "2024-10-20T00:00:00Z",
+		"dateString2": "2024-10-20",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 23,
+		"comments": ""
+	},
+	{
+		"id":1794,
+		"sessionDate": 20241020,
+		"dateString": "2024-10-20T00:00:00Z",
+		"dateString2": "2024-10-20",
+		"sessionNumber": 2,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1795,
+		"sessionDate": 20241021,
+		"dateString": "2024-10-21T00:00:00Z",
+		"dateString2": "2024-10-21",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 47,
+		"comments": ""
+	},
+	{
+		"id":1796,
+		"sessionDate": 20241022,
+		"dateString": "2024-10-22T00:00:00Z",
+		"dateString2": "2024-10-22",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 90,
+		"comments": ""
+	},
+	{
+		"id":1797,
+		"sessionDate": 20241023,
+		"dateString": "2024-10-23T00:00:00Z",
+		"dateString2": "2024-10-23",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 24,
+		"comments": "OR"
 	}
 ]
