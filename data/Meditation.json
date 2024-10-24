@@ -7967,5 +7967,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime": 24,
 		"comments": "OR"
+	},
+	{
+		"id":1798,
+		"sessionDate": 20241024,
+		"dateString": "2024-10-24T00:00:00Z",
+		"dateString2": "2024-10-24",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 69,
+		"comments": ""
 	}
 ]
