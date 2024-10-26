@@ -7987,5 +7987,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime": 69,
 		"comments": ""
+	},
+	{
+		"id":1799,
+		"sessionDate": 20241026,
+		"dateString": "2024-10-26T00:00:00Z",
+		"dateString2": "2024-10-26",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 47,
+		"comments": ""
 	}
 ]
