@@ -8054,7 +8054,7 @@
 		"dateString": "2024-10-31T00:00:00Z",
 		"dateString2": "2024-10-31",
 		"sessionNumber": 2,
-		"timePeriod": "2nd Thing",
+		"timePeriod": "Second Thing",
 		"lengthOfTime": 24,
 		"comments": "Modified the air."
 	},
@@ -8064,7 +8064,7 @@
 		"dateString": "2024-10-31T00:00:00Z",
 		"dateString2": "2024-10-31",
 		"sessionNumber": 1,
-		"timePeriod": "3rd Thing",
+		"timePeriod": "Third Thing",
 		"lengthOfTime": 24,
 		"comments": "Modified the air again."
 	}
