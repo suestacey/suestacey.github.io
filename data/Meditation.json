@@ -8037,5 +8037,35 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 69,
 		"comments": ""
+	},
+	{
+		"id":1804,
+		"sessionDate": 20241031,
+		"dateString": "2024-10-31T00:00:00Z",
+		"dateString2": "2024-10-31",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime": 47,
+		"comments": ""
+	},
+	{
+		"id":1805,
+		"sessionDate": 20241031,
+		"dateString": "2024-10-31T00:00:00Z",
+		"dateString2": "2024-10-31",
+		"sessionNumber": 2,
+		"timePeriod": "2nd Thing",
+		"lengthOfTime": 24,
+		"comments": "Modified the air."
+	},
+	{
+		"id":1806,
+		"sessionDate": 20241031,
+		"dateString": "2024-10-31T00:00:00Z",
+		"dateString2": "2024-10-31",
+		"sessionNumber": 1,
+		"timePeriod": "3rd Thing",
+		"lengthOfTime": 24,
+		"comments": "Modified the air again."
 	}
 ]
