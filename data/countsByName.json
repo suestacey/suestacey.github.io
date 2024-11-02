@@ -460,7 +460,7 @@
         "patternid": "2126"
     },
     {
-        "count": 214240,
+        "count": 239904,
         "nameExtension": "Little Robert (MJPC)",
         "patternid": "1020"
     },
@@ -626,12 +626,12 @@
     },
     {
         "count": 6,
-        "nameExtension": "Scotch-Hopper (WP)",
+        "nameExtension": "ScotchHopper (WP)",
         "patternid": "2139"
     },
     {
         "count": 168,
-        "nameExtension": "Scotch-hopping (WP)",
+        "nameExtension": "ScotchHopping (WP)",
         "patternid": "2045"
     },
     {
@@ -640,7 +640,7 @@
         "patternid": "1131"
     },
     {
-        "count": 1553,
+        "count": 1554,
         "nameExtension": "Shamrock (WP)",
         "patternid": "2006"
     },
@@ -716,7 +716,7 @@
     },
     {
         "count": 378,
-        "nameExtension": "Tri-Numbers (WP)",
+        "nameExtension": "TriNumbers (WP)",
         "patternid": "2038"
     },
     {
@@ -735,7 +735,7 @@
         "patternid": "1122"
     },
     {
-        "count": 1553,
+        "count": 1554,
         "nameExtension": "Valentine (WP)",
         "patternid": "2005"
     },
