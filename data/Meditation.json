@@ -8097,5 +8097,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 69,
 		"comments": ""
+	},
+	{
+		"id":1810,
+		"sessionDate": 20241104,
+		"dateString": "2024-1104T00:00:00Z",
+		"dateString2": "2024-11-04",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
