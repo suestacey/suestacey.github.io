@@ -8187,5 +8187,25 @@
 		"timePeriod": "Late Evening",
 		"lengthOfTime": 24,
 		"comments": ""
+	},
+	{
+		"id":1819,
+		"sessionDate": 20241112,
+		"dateString": "2024-1112T00:00:00Z",
+		"dateString2": "2024-11-12",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 24,
+		"comments": "Starting the 3rd year in a row"
+	},
+	{
+		"id":1820,
+		"sessionDate": 20241112,
+		"dateString": "2024-1112T00:00:00Z",
+		"dateString2": "2024-11-12",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime": 24,
+		"comments": "Had to rearrange for better air"
 	}
 ]
