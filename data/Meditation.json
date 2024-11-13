@@ -8207,5 +8207,15 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime": 24,
 		"comments": "Had to rearrange for better air"
+	},
+	{
+		"id":1820,
+		"sessionDate": 20241113,
+		"dateString": "2024-1113T00:00:00Z",
+		"dateString2": "2024-11-13",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
