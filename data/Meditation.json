@@ -8217,5 +8217,25 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime": 24,
 		"comments": ""
+	},
+	{
+		"id":1821,
+		"sessionDate": 20241113,
+		"dateString": "2024-1113T00:00:00Z",
+		"dateString2": "2024-11-13",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1822,
+		"sessionDate": 20241114,
+		"dateString": "2024-1114T00:00:00Z",
+		"dateString2": "2024-11-14",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime": 69,
+		"comments": ""
 	}
 ]
