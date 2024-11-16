@@ -8247,5 +8247,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 69,
 		"comments": ""
+	},
+	{
+		"id":1824,
+		"sessionDate": 20241116,
+		"dateString": "2024-1116T00:00:00Z",
+		"dateString2": "2024-11-16",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
