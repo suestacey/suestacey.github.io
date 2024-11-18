@@ -8209,7 +8209,7 @@
 		"comments": "Had to rearrange for better air"
 	},
 	{
-		"id":1820,
+		"id":1821,
 		"sessionDate": 20241113,
 		"dateString": "2024-1113T00:00:00Z",
 		"dateString2": "2024-11-13",
@@ -8219,7 +8219,7 @@
 		"comments": ""
 	},
 	{
-		"id":1821,
+		"id":1822,
 		"sessionDate": 20241113,
 		"dateString": "2024-1113T00:00:00Z",
 		"dateString2": "2024-11-13",
@@ -8229,7 +8229,7 @@
 		"comments": ""
 	},
 	{
-		"id":1822,
+		"id":1823,
 		"sessionDate": 20241114,
 		"dateString": "2024-1114T00:00:00Z",
 		"dateString2": "2024-11-14",
@@ -8239,7 +8239,7 @@
 		"comments": ""
 	},
 	{
-		"id":1823,
+		"id":1824,
 		"sessionDate": 20241115,
 		"dateString": "2024-1115T00:00:00Z",
 		"dateString2": "2024-11-15",
@@ -8249,7 +8249,7 @@
 		"comments": ""
 	},
 	{
-		"id":1824,
+		"id":1825,
 		"sessionDate": 20241116,
 		"dateString": "2024-1116T00:00:00Z",
 		"dateString2": "2024-11-16",
@@ -8259,7 +8259,7 @@
 		"comments": ""
 	},
 	{
-		"id":1825,
+		"id":1826,
 		"sessionDate": 20241116,
 		"dateString": "2024-1116T00:00:00Z",
 		"dateString2": "2024-11-16",
@@ -8269,7 +8269,7 @@
 		"comments": ""
 	},
 	{
-		"id":1826,
+		"id":1827,
 		"sessionDate": 20241117,
 		"dateString": "2024-1117T00:00:00Z",
 		"dateString2": "2024-11-17",
@@ -8277,5 +8277,16 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime": 47,
 		"comments": ""
+	},
+	{
+		"id":1828,
+		"sessionDate": 20241118,
+		"dateString": "2024-1118T00:00:00Z",
+		"dateString2": "2024-11-18",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 47,
+		"comments": ""
 	}
+]
 ]
