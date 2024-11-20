@@ -8297,5 +8297,15 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime": 69,
 		"comments": ""
+	},
+	{
+		"id":1830,
+		"sessionDate": 20241120,
+		"dateString": "2024-1120T00:00:00Z",
+		"dateString2": "2024-11-20",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 69,
+		"comments": ""
 	}
 ]
