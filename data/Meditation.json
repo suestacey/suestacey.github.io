@@ -8307,5 +8307,115 @@
 		"timePeriod": "Midnight",
 		"lengthOfTime": 69,
 		"comments": "Happy 69th"
+	},
+	{
+		"id":1831,
+		"sessionDate": 20241121,
+		"dateString": "2024-1121T00:00:00Z",
+		"dateString2": "2024-11-21",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime": 24,
+		"comments": "OA"
+	},
+	{
+		"id":1832,
+		"sessionDate": 20241122,
+		"dateString": "2024-1122T00:00:00Z",
+		"dateString2": "2024-11-22",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime": 52,
+		"comments": "Interrupted by alarm."
+	},
+	{
+		"id":1833,
+		"sessionDate": 20241123,
+		"dateString": "2024-1123T00:00:00Z",
+		"dateString2": "2024-11-23",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime": 47,
+		"comments": ""
+	},
+	{
+		"id":1834,
+		"sessionDate": 20241124,
+		"dateString": "2024-1124T00:00:00Z",
+		"dateString2": "2024-11-24",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime": 90,
+		"comments": ""
+	},
+	{
+		"id":1835,
+		"sessionDate": 20241125,
+		"dateString": "2024-1125T00:00:00Z",
+		"dateString2": "2024-11-25",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 24,
+		"comments": "...exactly"
+	},
+	{
+		"id":1836,
+		"sessionDate": 20241126,
+		"dateString": "2024-1126T00:00:00Z",
+		"dateString2": "2024-11-26",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 47,
+		"comments": ""
+	},
+	{
+		"id":1837,
+		"sessionDate": 20241126,
+		"dateString": "2024-1126T00:00:00Z",
+		"dateString2": "2024-11-26",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1838,
+		"sessionDate": 20241127,
+		"dateString": "2024-1127T00:00:00Z",
+		"dateString2": "2024-11-27",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1839,
+		"sessionDate": 20241128,
+		"dateString": "2024-1128T00:00:00Z",
+		"dateString2": "2024-11-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 47,
+		"comments": ""
+	},
+	{
+		"id":1840,
+		"sessionDate": 20241129,
+		"dateString": "2024-1129T00:00:00Z",
+		"dateString2": "2024-11-29",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime": 24,
+		"comments": ""
+	},
+	{
+		"id":1841,
+		"sessionDate": 20241130,
+		"dateString": "2024-1130T00:00:00Z",
+		"dateString2": "2024-11-30",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime": 24,
+		"comments": ""
 	}
 ]
