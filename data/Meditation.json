@@ -8534,7 +8534,17 @@
 		"dateString": "2024-1212T00:00:00Z",
 		"dateString2": "2024-12-12",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Evening",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":1853,
+		"sessionDate": 20241213,
+		"dateString": "2024-1213T00:00:00Z",
+		"dateString2": "2024-12-13",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
 		"lengthOfTime":24,
 		"comments": ""
 	}
