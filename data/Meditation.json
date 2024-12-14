@@ -8547,5 +8547,25 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":1854,
+		"sessionDate": 20241214,
+		"dateString": "2024-1214T00:00:00Z",
+		"dateString2": "2024-12-14",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":69,
+		"comments": ""
+	},
+	{
+		"id":1855,
+		"sessionDate": 20241214,
+		"dateString": "2024-1214T00:00:00Z",
+		"dateString2": "2024-12-14",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
