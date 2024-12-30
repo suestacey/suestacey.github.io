@@ -8624,8 +8624,158 @@
 		"dateString": "2024-1220T00:00:00Z",
 		"dateString2": "2024-12-20",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
-		"lengthOfTime":24,
+		"timePeriod": "Evening",
+		"lengthOfTime":40,
 		"comments": "OA"
+	},
+	{
+		"id":1863,
+		"sessionDate": 20241221,
+		"dateString": "2024-1221T00:00:00Z",
+		"dateString2": "2024-12-21",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":69,
+		"comments": "had to turn off the heat between session 2 and 3"
+	},
+	{
+		"id":1864,
+		"sessionDate": 20241222,
+		"dateString": "2024-1222T00:00:00Z",
+		"dateString2": "2024-12-22",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": "the first of 3 sessions, trying to deal with the smoke issue"
+	},
+	{
+		"id":1865,
+		"sessionDate": 20241222,
+		"dateString": "2024-1222T00:00:00Z",
+		"dateString2": "2024-12-22",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1866,
+		"sessionDate": 20241222,
+		"dateString": "2024-1222T00:00:00Z",
+		"dateString2": "2024-12-22",
+		"sessionNumber": 3,
+		"timePeriod": "Third Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1867,
+		"sessionDate": 20241223,
+		"dateString": "2024-1223T00:00:00Z",
+		"dateString2": "2024-12-23",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "Festivus"
+	},
+	{
+		"id":1868,
+		"sessionDate": 20241224,
+		"dateString": "2024-1224T00:00:00Z",
+		"dateString2": "2024-12-24",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":1869,
+		"sessionDate": 20241225,
+		"dateString": "2024-1225T00:00:00Z",
+		"dateString2": "2024-12-25",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1870,
+		"sessionDate": 20241225,
+		"dateString": "2024-1225T00:00:00Z",
+		"dateString2": "2024-12-25",
+		"sessionNumber": 2,
+		"timePeriod": "Afternoon",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1871,
+		"sessionDate": 20241226,
+		"dateString": "2024-1226T00:00:00Z",
+		"dateString2": "2024-12-26",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1872,
+		"sessionDate": 20241226,
+		"dateString": "2024-1226T00:00:00Z",
+		"dateString2": "2024-12-26",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": "too similar to sleep"
+	},
+	{
+		"id":1873,
+		"sessionDate": 20241227,
+		"dateString": "2024-1227T00:00:00Z",
+		"dateString2": "2024-12-27",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1874,
+		"sessionDate": 20241227,
+		"dateString": "2024-1227T00:00:00Z",
+		"dateString2": "2024-12-27",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": "definitely not like sleep"
+	},
+	{
+		"id":1875,
+		"sessionDate": 20241228,
+		"dateString": "2024-1228T00:00:00Z",
+		"dateString2": "2024-12-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "brief pause between 1 and 2 for incense to combat cigarette smoke"
+	},
+	{
+		"id":1876,
+		"sessionDate": 20241229,
+		"dateString": "2024-1229T00:00:00Z",
+		"dateString2": "2024-12-29",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":1877,
+		"sessionDate": 20241229,
+		"dateString": "2024-1229T00:00:00Z",
+		"dateString2": "2024-12-29",
+		"sessionNumber": 2,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
