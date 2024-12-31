@@ -8777,5 +8777,15 @@
 		"timePeriod": "Late Afternoon",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":1878,
+		"sessionDate": 20241230,
+		"dateString": "2024-1230T00:00:00Z",
+		"dateString2": "2024-12-30",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime":39,
+		"comments": "OR"
 	}
 ]
