@@ -8787,5 +8787,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime":39,
 		"comments": "OR"
+	},
+	{
+		"id":1879,
+		"sessionDate": 20241231,
+		"dateString": "2024-1231T00:00:00Z",
+		"dateString2": "2024-12-31",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":90,
+		"comments": ""
 	}
 ]
