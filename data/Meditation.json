@@ -8827,5 +8827,35 @@
 		"timePeriod": "Early Afternoon",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":1883,
+		"sessionDate": 20250103,
+		"dateString": "2025-0103T00:00:00Z",
+		"dateString2": "2025-01-03",
+		"sessionNumber": 2,
+		"timePeriod": "Before Midnight",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1884,
+		"sessionDate": 20250104,
+		"dateString": "2025-0104T00:00:00Z",
+		"dateString2": "2025-01-04",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":23,
+		"comments": "2nd session"
+	},
+	{
+		"id":1885,
+		"sessionDate": 20250104,
+		"dateString": "2025-0104T00:00:00Z",
+		"dateString2": "2025-01-04",
+		"sessionNumber": 2,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
