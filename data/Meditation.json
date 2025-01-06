@@ -8877,5 +8877,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime":24,
 		"comments": "interrupted by smoking"
+	},
+	{
+		"id":1888,
+		"sessionDate": 20250106,
+		"dateString": "2025-0106T00:00:00Z",
+		"dateString2": "2025-01-06",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
