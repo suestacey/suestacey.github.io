@@ -8826,7 +8826,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Early Afternoon",
 		"lengthOfTime":24,
-		"comments": ""
+		"comments": "Bronchitis"
 	},
 	{
 		"id":1883,
@@ -8867,5 +8867,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":39,
 		"comments": ""
+	},
+	{
+		"id":1887,
+		"sessionDate": 20250105,
+		"dateString": "2025-0105T00:00:00Z",
+		"dateString2": "2025-01-05",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": "interrupted by smoking"
 	}
 ]
