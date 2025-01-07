@@ -8887,5 +8887,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":1889,
+		"sessionDate": 20250107,
+		"dateString": "2025-0107T00:00:00Z",
+		"dateString2": "2025-01-07",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":69,
+		"comments": "Life is a stunning event. The Time Elapses In On Itself thing"
 	}
 ]
