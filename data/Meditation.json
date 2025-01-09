@@ -8907,5 +8907,25 @@
 		"timePeriod": "Morning",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":1891,
+		"sessionDate": 20250108,
+		"dateString": "2025-0108T00:00:00Z",
+		"dateString2": "2025-01-08",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1892,
+		"sessionDate": 20250109,
+		"dateString": "2025-0109T00:00:00Z",
+		"dateString2": "2025-01-09",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
