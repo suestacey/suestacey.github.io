@@ -16,5 +16,23 @@
     "count": 1512,
     "patternid": "1003",
     "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "Green Jade (MJPC)",
+    "count": 504,
+    "patternid": "1004",
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "All Honors (MJPC)",
+    "count": 6435,
+    "patternid": "1006",
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "All Pair Jade (MJPC)",
+    "count": 96,
+    "patternid": "1007",
+    "systemName": "MJPC"
   }
 ]
