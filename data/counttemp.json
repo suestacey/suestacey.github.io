@@ -2,961 +2,961 @@
   {
     "nameExtension": "Three Philosophers (MJPC)",
     "count": 339570,
-    "patternid": 1001,
+    "patternid": "1001",
     "systemName": "MJPC"
   },
   {
-    "nameExtension": "A Run",
-    "count": "A Pung & A Pair (MJPC)",
-    "patternid": 216,
-    "systemName": 1002
+    "nameExtension": "A Run, A Pung & A Pair (MJPC)",
+    "count": 216,
+    "patternid": "1002",
+    "systemName": "MJPC"
   },
   {
     "nameExtension": "Big Robert (MJPC)",
     "count": 1512,
-    "patternid": 1003,
+    "patternid": "1003",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Green Jade (MJPC)",
     "count": 504,
-    "patternid": 1004,
+    "patternid": "1004",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "All Honors (MJPC)",
     "count": 6435,
-    "patternid": 1006,
+    "patternid": "1006",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "All Pair Jade (MJPC)",
     "count": 96,
-    "patternid": 1007,
+    "patternid": "1007,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "All Pair Ruby Jade (MJPC)",
     "count": 815,
-    "patternid": 1008,
+    "patternid": "1008",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "All Winds & Dragons (MJPC)",
     "count": 105,
-    "patternid": 1009,
+    "patternid": "1009",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Apple Blossom (MJPC)",
     "count": 10738,
-    "patternid": 1010,
+    "patternid": "1010",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Blue Mountains (MJPC)",
     "count": 60,
-    "patternid": 1011,
+    "patternid": "1011",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Chow Chow (MJPC)",
     "count": 4149,
-    "patternid": 1012,
+    "patternid": "1012,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Dragonette (MJPC)",
     "count": 1617,
-    "patternid": 1013,
+    "patternid": "1013",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Dragonfly (MJPC)",
     "count": 17496,
-    "patternid": 1014,
+    "patternid": "1014,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Driven Snow (MJPC)",
     "count": 20,
-    "patternid": 1015,
+    "patternid": "1015",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Heads and Tails (MJPC)",
     "count": 30,
-    "patternid": 1016,
+    "patternid": "1016",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Hovering Angel (MJPC)",
     "count": 4116,
-    "patternid": 1017,
+    "patternid": "1017,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Dragon's Breath (MJPC)",
     "count": 7938,
-    "patternid": 1018,
+    "patternid": "1018",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Little Brother (MJPC)",
     "count": 16464,
-    "patternid": 1019,
+    "patternid": "1019",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Little Robert (MJPC)",
     "count": 239904,
-    "patternid": 1020,
+    "patternid": "1020",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Moon At The Bottom Of The Well (MJPC)",
     "count": 1383,
-    "patternid": 1021,
+    "patternid": "1021",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Red Coral (MJPC)",
     "count": 504,
-    "patternid": 1022,
+    "patternid": "1022,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "The Professors (MJPC)",
     "count": 42952,
-    "patternid": 1023,
+    "patternid": "1023",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Triple Knitting (MJPC)",
     "count": 13338,
-    "patternid": 1024,
+    "patternid": "1024,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "White Opal (MJPC)",
     "count": 504,
-    "patternid": 1025,
+    "patternid": "1025",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Knitting (MJPC)",
     "count": 18090,
-    "patternid": 1026,
+    "patternid": "1026",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "LillyPilly (MJPC)",
     "count": 252,
-    "patternid": 1027,
+    "patternid": "1027,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Lily Of the Valley (MJPC)",
     "count": 30,
-    "patternid": 1028,
+    "patternid": "1028",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Numbers Doubled (MJPC)",
-    "count": 441,
-    "patternid": 1029,
+    "count": 441",
+    "patternid": "1029",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Ruby Jade (MJPC)",
     "count": 140,
-    "patternid": 1030,
+    "patternid": "1030",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Imperial Jade (MJPC)",
     "count": 20,
-    "patternid": 1031,
+    "patternid": "1031",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Numbers in Parallel (MJPC)",
     "count": 294,
-    "patternid": 1032,
+    "patternid": "1032,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Red Waratah (MJPC)",
     "count": 324,
-    "patternid": 1033,
+    "patternid": "1033",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Robin (MJPC)",
     "count": 74088,
-    "patternid": 1034,
+    "patternid": "1034,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Sunrise (MJPC)",
     "count": 343,
-    "patternid": 1035,
+    "patternid": "1035",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Sunset (MJPC)",
     "count": 343,
-    "patternid": 1036,
+    "patternid": "1036",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Windfall (MJPC)",
     "count": 2646,
-    "patternid": 1037,
+    "patternid": "1037,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Windvane (MJPC)",
     "count": 2916,
-    "patternid": 1038,
+    "patternid": "1038",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Windy Chow (MJPC)",
     "count": 1346,
-    "patternid": 1039,
+    "patternid": "1039",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Heavenly Twins (MJPC)",
     "count": 6912,
-    "patternid": 1040,
+    "patternid": "1040",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Gates of Heaven (MJPC)",
-    "count": 21,
-    "patternid": 1100,
+    "count": 21",
+    "patternid": "1100",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Confused Gates (MJPC)",
     "count": 42,
-    "patternid": 1101,
+    "patternid": "1101",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Golden Gates (MJPC)",
     "count": 6,
-    "patternid": 1102,
+    "patternid": "1102,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Wriggly Snake (MJPC)",
     "count": 39,
-    "patternid": 1103,
+    "patternid": "1103",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Hachi Ban (MJPC)",
     "count": 30,
-    "patternid": 1104,
+    "patternid": "1104,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Guardian Winds (MJPC)",
     "count": 36,
-    "patternid": 1105,
+    "patternid": "1105",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Guardian Dragons (MJPC)",
     "count": 18,
-    "patternid": 1106,
+    "patternid": "1106",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Five Odd Honors (MJPC)",
     "count": 60,
-    "patternid": 1107,
+    "patternid": "1107,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Wriggly Dragon (MJPC)",
     "count": 9,
-    "patternid": 1108,
+    "patternid": "1108",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Dragon's Gates (MJPC)",
     "count": 42,
-    "patternid": 1109,
+    "patternid": "1109",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Dragon's Run (MJPC)",
     "count": 12,
-    "patternid": 1110,
+    "patternid": "1110",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Dragon's Scales (MJPC)",
     "count": 4,
-    "patternid": 1111,
+    "patternid": "1111",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Dragon's Tail (MJPC)",
     "count": 72,
-    "patternid": 1112,
+    "patternid": "1112,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Dragon's Teeth (MJPC)",
     "count": 28,
-    "patternid": 1113,
+    "patternid": "1113",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Greta's Garden (MJPC)",
     "count": 3,
-    "patternid": 1114,
+    "patternid": "1114,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Greta's Dragon (MJPC)",
     "count": 9,
-    "patternid": 1115,
+    "patternid": "1115",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Red Lattern (MJPC)",
     "count": 84,
-    "patternid": 1116,
+    "patternid": "1116",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Gertie's Garter (MJPC)",
     "count": 3,
-    "patternid": 1117,
+    "patternid": "1117,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Yin Yang (MJPC)",
     "count": 6,
-    "patternid": 1118,
+    "patternid": "1118",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Chinese Odds (MJPC)",
     "count": 15,
-    "patternid": 1119,
+    "patternid": "1119",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Civil War (MJPC)",
     "count": 6,
-    "patternid": 1120,
+    "patternid": "1120",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Four Blessings (MJPC)",
     "count": 30,
-    "patternid": 1121,
+    "patternid": "1121",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Up You Go (MJPC)",
     "count": 3,
-    "patternid": 1122,
+    "patternid": "1122,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Down You Go (MJPC)",
     "count": 3,
-    "patternid": 1123,
+    "patternid": "1123",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Unique Wonder (MJPC)",
     "count": 13,
-    "patternid": 1124,
+    "patternid": "1124,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "White Elephant (MJPC)",
     "count": 4,
-    "patternid": 1125,
+    "patternid": "1125",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Windy Ones (MJPC)",
     "count": 4,
-    "patternid": 1126,
+    "patternid": "1126",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Windy Nines (MJPC)",
     "count": 4,
-    "patternid": 1127,
+    "patternid": "1127,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Windy Dragons (MJPC)",
     "count": 3,
-    "patternid": 1128,
+    "patternid": "1128",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Odds & Evens (MJPC)",
     "count": 3,
-    "patternid": 1129,
+    "patternid": "1129",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Royal Ruby (MJPC)",
     "count": 4,
-    "patternid": 1130,
+    "patternid": "1130",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Seven Brothers (MJPC)",
     "count": 4,
-    "patternid": 1131,
+    "patternid": "1131",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Three Sisters (MJPC)",
     "count": 4,
-    "patternid": 1132,
+    "patternid": "1132,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Sparrow's Sanctuary (MJPC)",
-    "count": 1,
-    "patternid": 1133,
+    "count": 1",
+    "patternid": "1133",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Red Lily (MJPC)",
     "count": 12,
-    "patternid": 1134,
+    "patternid": "1134,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Grand Sequence (MJPC)",
     "count": 756,
-    "patternid": 1135,
+    "patternid": "1135",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Chop Suey (MJPC)",
     "count": 4,
-    "patternid": 1136,
+    "patternid": "1136",
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Chow Mein (MJPC)",
     "count": 4,
-    "patternid": 1137,
+    "patternid": "1137,
     "systemName": "MJPC"
   },
   {
     "nameExtension": "Little 1-5-7-9 (WP)",
     "count": 297,
-    "patternid": 2001,
+    "patternid": "2001",
     "systemName": "WP"
   },
   {
     "nameExtension": "Little 2-4-6-8 (WP)",
     "count": 324,
-    "patternid": 2002,
+    "patternid": "2002,
     "systemName": "WP"
   },
   {
     "nameExtension": "Doublets (WP)",
     "count": 6912,
-    "patternid": 2003,
+    "patternid": "2003",
     "systemName": "WP"
   },
   {
     "nameExtension": "Snowflake (WP)",
     "count": 1554,
-    "patternid": 2004,
+    "patternid": "2004,
     "systemName": "WP"
   },
   {
     "nameExtension": "Valentine (WP)",
     "count": 1554,
-    "patternid": 2005,
+    "patternid": "2005",
     "systemName": "WP"
   },
   {
     "nameExtension": "Shamrock (WP)",
     "count": 1554,
-    "patternid": 2006,
+    "patternid": "2006",
     "systemName": "WP"
   },
   {
     "nameExtension": "Razzle (WP)",
     "count": 2646,
-    "patternid": 2007,
+    "patternid": "2007,
     "systemName": "WP"
   },
   {
     "nameExtension": "Betty (WP)",
     "count": 1617,
-    "patternid": 2008,
+    "patternid": "2008",
     "systemName": "WP"
   },
   {
     "nameExtension": "Double Numbers (WP)",
-    "count": 441,
-    "patternid": 2009,
+    "count": 441",
+    "patternid": "2009",
     "systemName": "WP"
   },
   {
     "nameExtension": "Firecrackers (WP)",
     "count": 1512,
-    "patternid": 2010,
+    "patternid": "2010",
     "systemName": "WP"
   },
   {
     "nameExtension": "Asian Hash (WP)",
     "count": 12096,
-    "patternid": 2011,
+    "patternid": "2011",
     "systemName": "WP"
   },
   {
     "nameExtension": "Wally (WP)",
     "count": 504,
-    "patternid": 2012,
+    "patternid": "2012,
     "systemName": "WP"
   },
   {
     "nameExtension": "Susie Q (WP)",
     "count": 504,
-    "patternid": 2013,
+    "patternid": "2013",
     "systemName": "WP"
   },
   {
     "nameExtension": "Eleanor (WP)",
     "count": 504,
-    "patternid": 2014,
+    "patternid": "2014,
     "systemName": "WP"
   },
   {
     "nameExtension": "Neutrality (WP)",
     "count": 448,
-    "patternid": 2015,
+    "patternid": "2015",
     "systemName": "WP"
   },
   {
     "nameExtension": "Jade (WP)",
     "count": 102,
-    "patternid": 2016,
+    "patternid": "2016",
     "systemName": "WP"
   },
   {
     "nameExtension": "Pearl (WP)",
     "count": 102,
-    "patternid": 2017,
+    "patternid": "2017,
     "systemName": "WP"
   },
   {
     "nameExtension": "Ruby (WP)",
     "count": 102,
-    "patternid": 2018,
+    "patternid": "2018",
     "systemName": "WP"
   },
   {
     "nameExtension": "Emerald (WP)",
     "count": 102,
-    "patternid": 2019,
+    "patternid": "2019",
     "systemName": "WP"
   },
   {
     "nameExtension": "Opal (WP)",
     "count": 102,
-    "patternid": 2020,
+    "patternid": "2020",
     "systemName": "WP"
   },
   {
     "nameExtension": "Garnet (WP)",
     "count": 102,
-    "patternid": 2021,
+    "patternid": "2021",
     "systemName": "WP"
   },
   {
     "nameExtension": "Dazzle (WP)",
     "count": 7938,
-    "patternid": 2022,
+    "patternid": "2022,
     "systemName": "WP"
   },
   {
     "nameExtension": "Big 1-5-7-9 (WP)",
     "count": 144,
-    "patternid": 2025,
+    "patternid": "2025",
     "systemName": "WP"
   },
   {
     "nameExtension": "Big 2-4-6-8 (WP)",
     "count": 144,
-    "patternid": 2026,
+    "patternid": "2026",
     "systemName": "WP"
   },
   {
     "nameExtension": "Chopsticks (WP)",
     "count": 630,
-    "patternid": 2027,
+    "patternid": "2027,
     "systemName": "WP"
   },
   {
     "nameExtension": "Christmas Tree (WP)",
     "count": 90,
-    "patternid": 2028,
+    "patternid": "2028",
     "systemName": "WP"
   },
   {
     "nameExtension": "Confused Chows (WP)",
     "count": 144,
-    "patternid": 2029,
+    "patternid": "2029",
     "systemName": "WP"
   },
   {
     "nameExtension": "Dragongale (WP)",
     "count": 105,
-    "patternid": 2030,
+    "patternid": "2030",
     "systemName": "WP"
   },
   {
     "nameExtension": "Honorable Twins (WP)",
     "count": 393,
-    "patternid": 2032,
+    "patternid": "2032,
     "systemName": "WP"
   },
   {
     "nameExtension": "Grand Terminals (WP)",
     "count": 30,
-    "patternid": 2033,
+    "patternid": "2033",
     "systemName": "WP"
   },
   {
     "nameExtension": "Windy Pairs (WP)",
     "count": 18648,
-    "patternid": 2036,
+    "patternid": "2036",
     "systemName": "WP"
   },
   {
     "nameExtension": "Heavenly Hash (WP)",
     "count": 6435,
-    "patternid": 2037,
+    "patternid": "2037,
     "systemName": "WP"
   },
   {
     "nameExtension": "Tri-Numbers (WP)",
     "count": 378,
-    "patternid": 2038,
+    "patternid": "2038",
     "systemName": "WP"
   },
   {
     "nameExtension": "TradeWinds (WP)",
     "count": 210,
-    "patternid": 2039,
+    "patternid": "2039",
     "systemName": "WP"
   },
   {
     "nameExtension": "Hi-Jacks (WP)",
     "count": 1890,
-    "patternid": 2040,
+    "patternid": "2040",
     "systemName": "WP"
   },
   {
     "nameExtension": "Honorable Hash (WP)",
-    "count": 161,
-    "patternid": 2041,
+    "count": 161",
+    "patternid": "2041",
     "systemName": "WP"
   },
   {
     "nameExtension": "Honorettes (WP)",
     "count": 5005,
-    "patternid": 2042,
+    "patternid": "2042,
     "systemName": "WP"
   },
   {
     "nameExtension": "Kong-Pung (WP)",
     "count": 126,
-    "patternid": 2043,
+    "patternid": "2043",
     "systemName": "WP"
   },
   {
     "nameExtension": "Piano Keys (WP)",
     "count": 1260,
-    "patternid": 2044,
+    "patternid": "2044,
     "systemName": "WP"
   },
   {
     "nameExtension": "Scotch-Hopping (WP)",
     "count": 168,
-    "patternid": 2045,
+    "patternid": "2045",
     "systemName": "WP"
   },
   {
     "nameExtension": "Termadrags (WP)",
     "count": 378,
-    "patternid": 2046,
+    "patternid": "2046",
     "systemName": "WP"
   },
   {
     "nameExtension": "Terminews (WP)",
     "count": 80,
-    "patternid": 2047,
+    "patternid": "2047,
     "systemName": "WP"
   },
   {
     "nameExtension": "Termination (WP)",
     "count": 105,
-    "patternid": 2048,
+    "patternid": "2048",
     "systemName": "WP"
   },
   {
     "nameExtension": "Terms of Honors (WP)",
     "count": 350,
-    "patternid": 2049,
+    "patternid": "2049",
     "systemName": "WP"
   },
   {
     "nameExtension": "Pung Chow (WP)",
     "count": 39777,
-    "patternid": 2050,
+    "patternid": "2050",
     "systemName": "WP"
   },
   {
     "nameExtension": "Newsy Pungs (WP)",
     "count": 2016,
-    "patternid": 2051,
+    "patternid": "2051",
     "systemName": "WP"
   },
   {
     "nameExtension": "Pungy News (WP)",
     "count": 1008,
-    "patternid": 2052,
+    "patternid": "2052,
     "systemName": "WP"
   },
   {
     "nameExtension": "Poppers (WP)",
     "count": 1008,
-    "patternid": 2053,
+    "patternid": "2053",
     "systemName": "WP"
   },
   {
     "nameExtension": "Idiots (WP)",
     "count": 882,
-    "patternid": 2060,
+    "patternid": "2060",
     "systemName": "WP"
   },
   {
     "nameExtension": "4th of July (WP)",
-    "count": 1,
-    "patternid": 2110,
+    "count": 1",
+    "patternid": "2110",
     "systemName": "WP"
   },
   {
     "nameExtension": "Angels (WP)",
     "count": 13,
-    "patternid": 2111,
+    "patternid": "2111",
     "systemName": "WP"
   },
   {
     "nameExtension": "Big Chows (WP)",
     "count": 18,
-    "patternid": 2112,
+    "patternid": "2112,
     "systemName": "WP"
   },
   {
     "nameExtension": "Chinese New Year (WP)",
     "count": 3,
-    "patternid": 2113,
+    "patternid": "2113",
     "systemName": "WP"
   },
   {
     "nameExtension": "Confused Gates (WP)",
     "count": 42,
-    "patternid": 2114,
+    "patternid": "2114,
     "systemName": "WP"
   },
   {
     "nameExtension": "Dragons Breath (WP)",
-    "count": 1,
-    "patternid": 2115,
+    "count": 1",
+    "patternid": "2115",
     "systemName": "WP"
   },
   {
     "nameExtension": "Dragon Gates (WP)",
     "count": 42,
-    "patternid": 2116,
+    "patternid": "2116",
     "systemName": "WP"
   },
   {
     "nameExtension": "Dragon Line-up (WP)",
     "count": 63,
-    "patternid": 2117,
+    "patternid": "2117,
     "systemName": "WP"
   },
   {
     "nameExtension": "Dragon Snooze (WP)",
     "count": 4,
-    "patternid": 2118,
+    "patternid": "2118",
     "systemName": "WP"
   },
   {
     "nameExtension": "Dragonwyck (WP)",
     "count": 12,
-    "patternid": 2119,
+    "patternid": "2119",
     "systemName": "WP"
   },
   {
     "nameExtension": "Heavenly Gates (WP)",
-    "count": 21,
-    "patternid": 2120,
+    "count": 21",
+    "patternid": "2120",
     "systemName": "WP"
   },
   {
     "nameExtension": "Heavenly Hopscotch (WP)",
     "count": 3,
-    "patternid": 2121,
+    "patternid": "2121",
     "systemName": "WP"
   },
   {
     "nameExtension": "Hopscotch (WP)",
     "count": 42,
-    "patternid": 2122,
+    "patternid": "2122,
     "systemName": "WP"
   },
   {
     "nameExtension": "Independence (WP)",
     "count": 3,
-    "patternid": 2123,
+    "patternid": "2123",
     "systemName": "WP"
   },
   {
     "nameExtension": "Lewis and Clark (WP)",
     "count": 12,
-    "patternid": 2124,
+    "patternid": "2124,
     "systemName": "WP"
   },
   {
     "nameExtension": "Little Chows (WP)",
     "count": 18,
-    "patternid": 2125,
+    "patternid": "2125",
     "systemName": "WP"
   },
   {
     "nameExtension": "Little Gates (WP)",
-    "count": 21,
-    "patternid": 2126,
+    "count": 21",
+    "patternid": "2126",
     "systemName": "WP"
   },
   {
     "nameExtension": "Mars Pathfinder Landing (WP)",
     "count": 3,
-    "patternid": 2127,
+    "patternid": "2127,
     "systemName": "WP"
   },
   {
     "nameExtension": "May The Fours Be With You (WP)",
     "count": 7,
-    "patternid": 2128,
+    "patternid": "2128",
     "systemName": "WP"
   },
   {
     "nameExtension": "Middle Chows (WP)",
     "count": 18,
-    "patternid": 2129,
+    "patternid": "2129",
     "systemName": "WP"
   },
   {
     "nameExtension": "News Line-Up (WP)",
     "count": 12,
-    "patternid": 2130,
+    "patternid": "2130",
     "systemName": "WP"
   },
   {
     "nameExtension": "Newsy Terminals (WP)",
     "count": 1,
-    "patternid": 2131,
+    "patternid": "2131,
     "systemName": "WP"
   },
   {
     "nameExtension": "Ohio Snow Suit (WP)",
     "count": 21,
-    "patternid": 2132,
+    "patternid": "2132",
     "systemName": "WP"
   },
   {
     "nameExtension": "Open Gates (WP)",
     "count": 6,
-    "patternid": 2133,
+    "patternid": "2133",
     "systemName": "WP"
   },
   {
     "nameExtension": "Picket Fence (WP)",
     "count": 24,
-    "patternid": 2134,
+    "patternid": "2133",
     "systemName": "WP"
   },
   {
     "nameExtension": "Raindrops (WP)",
     "count": 1,
-    "patternid": 2135,
+    "patternid": "2135",
     "systemName": "WP"
   },
   {
     "nameExtension": "Repression (WP)",
     "count": 30,
-    "patternid": 2136,
+    "patternid": "2136",
     "systemName": "WP"
   },
   {
     "nameExtension": "Royal Wedding (WP)",
     "count": 3,
-    "patternid": 2137,
+    "patternid": "2137,
     "systemName": "WP"
   },
   {
     "nameExtension": "Scotch-Hopper (WP)",
     "count": 6,
-    "patternid": 2138,
+    "patternid": "2138",
     "systemName": "WP"
   },
   {
     "nameExtension": "Windy Gates (WP)",
     "count": 24,
-    "patternid": 2139,
+    "patternid": "2139",
     "systemName": "WP"
   },
   {
     "nameExtension": "Wright-Patt Wind Tunnel (WP)",
     "count": 36,
-    "patternid": 2140,
+    "patternid": "2140",
     "systemName": "WP"
   },
   {
     "nameExtension": "Chop Suey (WP)",
     "count": 4,
-    "patternid": 2141,
+    "patternid": "2141",
     "systemName": "WP"
   },
   {
     "nameExtension": "Sukiyaki (WP)",
     "count": 4,
-    "patternid": 2142,
+    "patternid": "2142,
     "systemName": "WP"
   },
   {
     "nameExtension": "Chow Mein (WP)",
     "count": 4,
-    "patternid": 2143,
+    "patternid": "2143",
     "systemName": "WP"
   }
 ]
