@@ -1,0 +1,20 @@
+[
+  {
+    "nameExtension": "Three Philosophers (MJPC)",
+    "count": 339570,
+    "patternid": "1001",
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "A Run",
+    "count": "A Pung & A Pair (MJPC)",
+    "patternid": "1002",
+    "systemName": 1002
+  },
+  {
+    "nameExtension": "Big Robert (MJPC)",
+    "count": 1512,
+    "patternid": "1003",
+    "systemName": "MJPC"
+  }
+]
