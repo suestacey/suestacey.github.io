@@ -6,7 +6,7 @@
     "systemName": "MJPC"
   },
   {
-    "nameExtension": "A Pung & A Pair (MJPC)",
+    "nameExtension": "A Run, A Pung & A Pair (MJPC)",
     "count": 216,
     "patternid": "1002",
     "systemName": "MJPC"
@@ -32,7 +32,55 @@
   {
     "nameExtension": "All Pair Jade (MJPC)",
     "count": 96,
-    "patternid": "1007",
+    "patternid": "1007,
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "All Pair Ruby Jade (MJPC)",
+    "count": 815,
+    "patternid": "1008",
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "All Winds & Dragons (MJPC)",
+    "count": 105,
+    "patternid": "1009",
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "Apple Blossom (MJPC)",
+    "count": 10738,
+    "patternid": "1010",
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "Blue Mountains (MJPC)",
+    "count": 60,
+    "patternid": "1011",
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "Chow Chow (MJPC)",
+    "count": 4149,
+    "patternid": "1012,
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "Dragonette (MJPC)",
+    "count": 1617,
+    "patternid": "1013",
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "Dragonfly (MJPC)",
+    "count": 17496,
+    "patternid": "1014,
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "Driven Snow (MJPC)",
+    "count": 20,
+    "patternid": "1015",
     "systemName": "MJPC"
   }
 ]
