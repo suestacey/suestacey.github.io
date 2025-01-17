@@ -1,5 +1,11 @@
 [
     {
+        "count": 0,
+        "nameExtension": "For Pretty Data",
+        "patternid": "JSONPrimer7",
+       "systemName": "Both"
+    },
+    {
         "count": 1,
         "nameExtension": "4th of July (WP)",
         "patternid": "2110",
