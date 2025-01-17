@@ -1,11 +1,10 @@
 [
-    {
-	"nameExtension": "For Pretty Data",
-        "count": 943157,
-        
-        "patternid": "JSONPrimer6",
-	"systemName":"Both"
-    },
+  {
+    "nameExtension": "For Pretty Data",
+    "count": 943157,
+    "patternid": "JSONPrimer6",
+    "systemName": "Both"
+  },
   {
     "nameExtension": "Three Philosophers (MJPC)",
     "count": 339570,
