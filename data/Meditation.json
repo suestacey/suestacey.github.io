@@ -9024,6 +9024,16 @@
 		"dateString": "2025-0118T00:00:00Z",
 		"dateString2": "2025-01-18",
 		"sessionNumber": 1,
+		"timePeriod": "Night",
+		"lengthOfTime":51,
+		"comments": ""
+	},
+	{
+		"id":1903,
+		"sessionDate": 20250119,
+		"dateString": "2025-0119T00:00:00Z",
+		"dateString2": "2025-01-19",
+		"sessionNumber": 1,
 		"timePeriod": "Not Yet",
 		"lengthOfTime":24,
 		"comments": ""
