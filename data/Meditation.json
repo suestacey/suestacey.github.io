@@ -9084,6 +9084,16 @@
 		"dateString": "2025-0123T00:00:00Z",
 		"dateString2": "2025-01-23",
 		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1909,
+		"sessionDate": 20250124,
+		"dateString": "2025-0124T00:00:00Z",
+		"dateString2": "2025-01-24",
+		"sessionNumber": 1,
 		"timePeriod": "Evening",
 		"lengthOfTime":24,
 		"comments": "OA evening?"
