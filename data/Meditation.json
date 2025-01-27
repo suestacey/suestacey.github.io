@@ -9130,6 +9130,16 @@
 	},
 	{
 		"id":1913,
+		"sessionDate": 20250126,
+		"dateString": "2025-0126T00:00:00Z",
+		"dateString2": "2025-01-26",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1914,
 		"sessionDate": 20250127,
 		"dateString": "2025-0127T00:00:00Z",
 		"dateString2": "2025-01-27",
