@@ -9256,6 +9256,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
-		"comments": "OR"
+		"comments": "OR: 12 plus hours to get back"
+	},
+	{
+		"id":1926,
+		"sessionDate": 2025206,
+		"dateString": "2025-0206T00:00:00Z",
+		"dateString2": "2025-02-06",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":90,
+		"comments": ""
 	}
 ]
