@@ -9277,5 +9277,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":1928,
+		"sessionDate": 2025208,
+		"dateString": "2025-0208T00:00:00Z",
+		"dateString2": "2025-02-08",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
