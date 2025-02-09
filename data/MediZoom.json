@@ -21,13 +21,13 @@
 	},
 	{
 		"id": 1002,
-		"sessionDate": 20240101,
-		"dateString": "20240101T12:00:00Z",
-		"dateString2": "2024-01-01",
+		"sessionDate": 20250209,
+		"dateString": "20250209T12:00:00Z",
+		"dateString2": "2025-02-09",
 		"sessionNumber": 1,
 		"timePeriod": "Noon",
 		"lengthOfTime": 21,
-		"comments": "It will be ...."
+		"comments": "this is todays date"
 	},
 	{
 		"id": 1003,
