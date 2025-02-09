@@ -110,26 +110,6 @@
 		"comments": ""
 	},
 	{
-		"id":1920,
-		"sessionDate": 20241103,
-		"dateString": "2024-1103T00:00:00Z",
-		"dateString2": "2024-11-03",
-		"sessionNumber": 1,
-		"timePeriod": "Before Dawn",
-		"lengthOfTime": 69,
-		"comments": ""
-	},
-	{
-		"id":1930,
-		"sessionDate": 20241104,
-		"dateString": "2024-1104T00:00:00Z",
-		"dateString2": "2024-11-04",
-		"sessionNumber": 1,
-		"timePeriod": "First Thing",
-		"lengthOfTime": 24,
-		"comments": ""
-	},
-	{
 		"id":1907,
 		"sessionDate": 20250122,
 		"dateString": "2025-0122T00:00:00Z",
