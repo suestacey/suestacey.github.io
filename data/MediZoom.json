@@ -7,7 +7,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Midnight",
 		"lengthOfTime": 21,
-		"comments": "This should be ...."
+		"comments": "comments1"
 	},
 	{
 		"id": 1001,
@@ -17,7 +17,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Third Thing",
 		"lengthOfTime": 21,
-		"comments": "... a very happy month for you  ...."
+		"comments": "comments2"
 	},
 	{
 		"id": 1002,
@@ -27,7 +27,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Noon",
 		"lengthOfTime": 21,
-		"comments": "3 diff dates for testing"
+		"comments": "appear for 2025 range"
 	},
 	{
 		"id": 1003,
@@ -37,7 +37,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "MiddleNight90",
 		"lengthOfTime": 90,
-		"comments": "forwards and back"
+		"comments": ""
 	},
 	{
 		"id":1803,
@@ -67,7 +67,7 @@
 		"sessionNumber": 2,
 		"timePeriod": "Second Thing",
 		"lengthOfTime": 24,
-		"comments": "Modified the air."
+		"comments": ""
 	},
 	{
 		"id":1806,
@@ -77,7 +77,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Third Thing",
 		"lengthOfTime": 24,
-		"comments": "Modified the air again."
+		"comments": ""
 	},
 	{
 		"id":1807,
@@ -117,7 +117,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
-		"comments": ""
+		"comments": "appear for 2025 range"
 	},
 	{
 		"id":1908,
@@ -127,6 +127,6 @@
 		"sessionNumber": 1,
 		"timePeriod": "Evening",
 		"lengthOfTime":24,
-		"comments": ""
+		"comments": "appear for 2025 range"
 	}
 ]
