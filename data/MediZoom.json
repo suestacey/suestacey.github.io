@@ -22,12 +22,12 @@
 	{
 		"id": 1002,
 		"sessionDate": 20250209,
-		"dateString": "20250209T12:00:00Z",
-		"dateString2": "2025-02-09",
+		"dateString": "19760908T12:00:00Z",
+		"dateString2": "2025-01-11",
 		"sessionNumber": 1,
 		"timePeriod": "Noon",
 		"lengthOfTime": 21,
-		"comments": "this is todays date"
+		"comments": "3 diff dates for testing"
 	},
 	{
 		"id": 1003,
