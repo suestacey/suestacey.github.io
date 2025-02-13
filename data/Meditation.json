@@ -9327,5 +9327,16 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":69,
 		"comments": ""
+	},
+	{
+		"id":1933,
+		"sessionDate": 2025213,
+		"dateString": "2025-0213T00:00:00Z",
+		"dateString2": "2025-02-13",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
+]
 ]
