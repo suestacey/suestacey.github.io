@@ -9367,5 +9367,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":1937,
+		"sessionDate": 2025217,
+		"dateString": "2025-0217T00:00:00Z",
+		"dateString2": "2025-02-17",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":42,
+		"comments": "the smoking fumes became too much"
+	},
+	{
+		"id":1938,
+		"sessionDate": 2025217,
+		"dateString": "2025-0217T00:00:00Z",
+		"dateString2": "2025-02-17",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":24,
+		"comments": "moved the chair by the window and started over"
 	}
 ]
