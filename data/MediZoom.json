@@ -27,7 +27,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Noon",
 		"lengthOfTime": 21,
-		"comments": "appear for 2025 range"
+		"comments": "appear for Feb 2025 range"
 	},
 	{
 		"id": 1003,
@@ -126,6 +126,26 @@
 		"dateString2": "2025-01-23",
 		"sessionNumber": 1,
 		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": "appear for 2025 range"
+	},
+	{
+		"id":1977,
+		"sessionDate": 20250201,
+		"dateString": "2025-0122T00:00:00Z",
+		"dateString2": "2025-02-01",
+		"sessionNumber": 1,
+		"timePeriod": "Dawn",
+		"lengthOfTime":47,
+		"comments": "appear for 2025 range"
+	},
+	{
+		"id":1984,
+		"sessionDate": 20250211,
+		"dateString": "2025-0211T00:00:00Z",
+		"dateString2": "2025-02-11",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
 		"lengthOfTime":24,
 		"comments": "appear for 2025 range"
 	}
