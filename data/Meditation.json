@@ -9387,5 +9387,15 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime":24,
 		"comments": "moved the chair by the window and started over"
+	},
+	{
+		"id":1939,
+		"sessionDate": 2025218,
+		"dateString": "2025-0218T00:00:00Z",
+		"dateString2": "2025-02-18",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
