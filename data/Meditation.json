@@ -9416,6 +9416,16 @@
 		"sessionNumber": 2,
 		"timePeriod": "Night",
 		"lengthOfTime":47,
-		"comments": "remembered when my brother hit my mother"
+		"comments": "Weepy meditation. I remembered when my brother hit my mother."
+	},
+	{
+		"id":1942,
+		"sessionDate": 2025221,
+		"dateString": "2025-0221T00:00:00Z",
+		"dateString2": "2025-02-21",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
