@@ -9424,7 +9424,7 @@
 		"dateString": "2025-0221T00:00:00Z",
 		"dateString2": "2025-02-21",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "BDDTime",
 		"lengthOfTime":24,
 		"comments": ""
 	}
