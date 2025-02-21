@@ -9427,5 +9427,15 @@
 		"timePeriod": "BDDTime",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":1943,
+		"sessionDate": 2025221,
+		"dateString": "2025-0221T00:00:00Z",
+		"dateString2": "2025-02-21",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
