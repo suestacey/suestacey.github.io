@@ -9437,5 +9437,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":1944,
+		"sessionDate": 2025222,
+		"dateString": "2025-0222T00:00:00Z",
+		"dateString2": "2025-02-22",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "Memory failure fear"
 	}
 ]
