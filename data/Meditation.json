@@ -9447,5 +9447,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": "Memory failure fear"
+	},
+	{
+		"id":1945,
+		"sessionDate": 20250223,
+		"dateString": "2025-0223T00:00:00Z",
+		"dateString2": "2025-02-23",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
