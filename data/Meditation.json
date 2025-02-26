@@ -9477,5 +9477,25 @@
 		"timePeriod": "Midnight",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":1948,
+		"sessionDate": 20250225,
+		"dateString": "2025-0225T00:00:00Z",
+		"dateString2": "2025-02-25",
+		"sessionNumber": 2,
+		"timePeriod": "Before Midnight",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1949,
+		"sessionDate": 20250226,
+		"dateString": "2025-0226T00:00:00Z",
+		"dateString2": "2025-02-26",
+		"sessionNumber": 1,
+		"timePeriod": "Before Sleep",
+		"lengthOfTime":23,
+		"comments": "actually 2nd session"
 	}
 ]
