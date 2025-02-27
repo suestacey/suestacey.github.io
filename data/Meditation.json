@@ -9497,5 +9497,35 @@
 		"timePeriod": "Before Sleep",
 		"lengthOfTime":23,
 		"comments": "actually 2nd session"
+	},
+	{
+		"id":1950,
+		"sessionDate": 20250226,
+		"dateString": "2025-0226T00:00:00Z",
+		"dateString2": "2025-02-26",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1951,
+		"sessionDate": 20250226,
+		"dateString": "2025-0226T00:00:00Z",
+		"dateString2": "2025-02-26",
+		"sessionNumber": 3,
+		"timePeriod": "Evening",
+		"lengthOfTime":23,
+		"comments": ""
+	},
+	{
+		"id":1952,
+		"sessionDate": 20250227,
+		"dateString": "2025-0227T00:00:00Z",
+		"dateString2": "2025-02-27",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
