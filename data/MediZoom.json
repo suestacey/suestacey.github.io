@@ -150,26 +150,6 @@
 		"comments": "appear for 2025 range"
 	},
 	{
-		"id":1943,
-		"sessionDate": 20250221,
-		"dateString": "2025-0221T00:00:00Z",
-		"dateString2": "2025-02-21",
-		"sessionNumber": 1,
-		"timePeriod": "Middle of the Night",
-		"lengthOfTime":24,
-		"comments": ""
-	},
-	{
-		"id":1946,
-		"sessionDate": 20250226,
-		"dateString": "2025-0226T00:00:00Z",
-		"dateString2": "2025-02-26",
-		"sessionNumber": 1,
-		"timePeriod": "Noon",
-		"lengthOfTime":24,
-		"comments": "This is today"
-	},
-	{
 		"id":1947,
 		"sessionDate": 20250225,
 		"dateString": "2025-0225T00:00:00Z",
@@ -194,6 +174,16 @@
 		"sessionDate": 20250227,
 		"dateString": "2025-0227T00:00:00Z",
 		"dateString2": "2025-02-27",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1953,
+		"sessionDate": 20250228,
+		"dateString": "2025-0228T00:00:00Z",
+		"dateString2": "2025-02-28",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
