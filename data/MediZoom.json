@@ -160,26 +160,6 @@
 		"comments": ""
 	},
 	{
-		"id":1951,
-		"sessionDate": 20250226,
-		"dateString": "2025-0226T00:00:00Z",
-		"dateString2": "2025-02-26",
-		"sessionNumber": 3,
-		"timePeriod": "Evening",
-		"lengthOfTime":23,
-		"comments": ""
-	},
-	{
-		"id":1952,
-		"sessionDate": 20250227,
-		"dateString": "2025-0227T00:00:00Z",
-		"dateString2": "2025-02-27",
-		"sessionNumber": 1,
-		"timePeriod": "First Thing",
-		"lengthOfTime":24,
-		"comments": ""
-	},
-	{
 		"id":1953,
 		"sessionDate": 20250228,
 		"dateString": "2025-0228T00:00:00Z",
@@ -196,6 +176,16 @@
 		"dateString2": "2025-03-01",
 		"sessionNumber": 1,
 		"timePeriod": "Midnight",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":1956,
+		"sessionDate": 20250302,
+		"dateString": "2025-0302T00:00:00Z",
+		"dateString2": "2025-03-02",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
 		"comments": ""
 	}
