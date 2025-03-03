@@ -161,13 +161,13 @@
 	},
 	{
 		"id":1953,
-		"sessionDate": 20250228,
-		"dateString": "2025-0228T00:00:00Z",
-		"dateString2": "2025-02-28",
+		"sessionDate": 20250303,
+		"dateString": "2025-0303T00:00:00Z",
+		"dateString2": "2025-03-03",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
-		"comments": ""
+		"comments": "The Date Changer"
 	},
 	{
 		"id":1954,
