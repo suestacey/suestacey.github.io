@@ -9587,5 +9587,25 @@
 		"timePeriod": "Late Afternoon",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":1959,
+		"sessionDate": 20250304,
+		"dateString": "2025-0304T00:00:00Z",
+		"dateString2": "2025-03-04",
+		"sessionNumber": 2,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1960,
+		"sessionDate": 20250305,
+		"dateString": "2025-0305T00:00:00Z",
+		"dateString2": "2025-03-05",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":90,
+		"comments": ""
 	}
 ]
