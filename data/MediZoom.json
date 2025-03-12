@@ -190,17 +190,6 @@
 		"comments": ""
 	},
 	{
-		"id":1957,
-		"sessionDate": 20250303,
-		"dateString": "2025-0303T00:00:00Z",
-		"dateString2": "2025-03-03",
-		"sessionNumber": 1,
-		"timePeriod": "First Thing",
-		"lengthOfTime":47,
-		"comments": "You must stay hyrdated, or you're not going to survive old age."
-	},
-
-	{
 		"id":1965,
 		"sessionDate": 20250310,
 		"dateString": "2025-0310T00:00:00Z",
@@ -218,6 +207,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "Fourth Thing",
 		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1967,
+		"sessionDate": 20250312,
+		"dateString": "2025-0312T00:00:00Z",
+		"dateString2": "2025-03-12",
+		"sessionNumber": 1,
+		"timePeriod": "BDNTime",
+		"lengthOfTime":47,
 		"comments": ""
 	}
 ]
