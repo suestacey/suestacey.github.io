@@ -1,5 +1,5 @@
 [{
-	"id": 1000,
+	"id": 1,
 	"position": "1",
 	"theater": "Fairfield Regal IMAX",
 	"timePeriod": "10:30am-1:30pm",
@@ -8,12 +8,20 @@
 	"date": "11/22/24"
 	},
 	{
-	"id": 2000,
+	"id": 2,
 	"position": "2",
 	"theater": "Emeryville IMAX",
 	"timePeriod": "11:30am-2:30pm",
 	"notes1": "",
 	"notes2": "",
 	"date": "11/26/24"
+	},
+	"id": 3,
+	"position":"3",
+	"theater":"Emeryville IMAX",
+	"timePeriod":"10:15am-1:00pm",
+	"notes1":"2nd day in a row",
+	"notes2":"",
+	"date":"11/27/24"
 	}
 ]
