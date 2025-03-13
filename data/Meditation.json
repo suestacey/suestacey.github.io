@@ -9677,5 +9677,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":1968,
+		"sessionDate": 20250313,
+		"dateString": "2025-0313T00:00:00Z",
+		"dateString2": "2025-03-13",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1968,
+		"sessionDate": 20250313,
+		"dateString": "2025-0313T00:00:00Z",
+		"dateString2": "2025-03-13",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
