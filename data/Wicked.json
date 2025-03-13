@@ -1,10 +1,19 @@
 [{
 	"id": 1000,
-	"position":"1",
-	"theater":"Fairfield Regal IMAX",
-	"timeperiod":"10:30am-1:30pm",
-	"notes1":"Opening Day",
-	"notes2":"with Karen",
-	"date":"11/22/24"
+	"position": "1",
+	"theater": "Fairfield Regal IMAX",
+	"timeperiod": "10:30am-1:30pm",
+	"notes1": "Opening Day",
+	"notes2": "with Karen",
+	"date": "11/22/24"
+	},
+	{
+	"id": 2000,
+	"position": "2",
+	"theater": "Emeryville IMAX",
+	"timeperiod": "11:30am-2:30pm",
+	"notes1": "",
+	"notes2": "",
+	"date": "11/26/24"
 	}
 ]
