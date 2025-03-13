@@ -170,16 +170,6 @@
 		"comments": "The Date Changer"
 	},
 	{
-		"id":1954,
-		"sessionDate": 20250301,
-		"dateString": "2025-0301T00:00:00Z",
-		"dateString2": "2025-03-01",
-		"sessionNumber": 1,
-		"timePeriod": "Midnight",
-		"lengthOfTime":47,
-		"comments": ""
-	},
-	{
 		"id":1956,
 		"sessionDate": 20250302,
 		"dateString": "2025-0302T00:00:00Z",
@@ -217,6 +207,26 @@
 		"sessionNumber": 1,
 		"timePeriod": "BDNTime",
 		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":1968,
+		"sessionDate": 20250313,
+		"dateString": "2025-0313T00:00:00Z",
+		"dateString2": "2025-03-13",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1969,
+		"sessionDate": 20250313,
+		"dateString": "2025-0313T00:00:00Z",
+		"dateString2": "2025-03-13",
+		"sessionNumber": 2,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
 		"comments": ""
 	}
 ]
