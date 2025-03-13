@@ -50,7 +50,7 @@
 
 {"id": 9,"position":"9","theater":"Emeryville Dolby","timePeriod":"2:50pm-5:40pm","notes1":"","notes2":"","date":"01/28/25"},
 
-{"id":10, "position":"10","theater":"Emeryville Dolby","timePeriod":"2:50pm-5:40pm","notes1":"2nd day in a row","notes2":"","date":"01/29/25"}
+{"id":10, "position":"10","theater":"Emeryville Dolby","timePeriod":"2:50pm-5:40pm","notes1":"2nd day in a row","notes2":"","date":"01/29/25"},
 
 {"id": 11, "position":"11","theater":"Bridgeport","timePeriod":"12:00pm-2:50pm","notes1":"","notes2":"","date":"02/28/25"},
 {"id": 12, "position":"12","theater":"Bagdad","timePeriod":"2:45pm-5:40pm","notes1":"","notes2":"","date":"03/05/25"}
