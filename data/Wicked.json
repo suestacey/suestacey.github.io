@@ -29,7 +29,5 @@
 
 {"id": 5,"position":"5","theater":"Emeryville Standard","timeperiod":"12:00PM-2:45pm","notes1":"","notes2":"","date":"12/23/24"},
 
-{"id": 6,"position":"6","theater":"Piedmont Theater","timeperiod":"7:00PM-9:50pm","notes1":"","notes2":"","date":"12/28/24"},
-
-{"id": 7,"position":"7","theater":"Bridgeport","timeperiod":"4:00PM-6:50pm","notes1":"Singalong","notes2":"","date":"01/02/25"}
+{"id": 6,"position":"6","theater":"Piedmont Theater","timeperiod":"7:00PM-9:50pm","notes1":"","notes2":"","date":"12/28/24"}
 ]
