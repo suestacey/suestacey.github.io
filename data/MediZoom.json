@@ -57,7 +57,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
 		"lengthOfTime": 47,
-		"comments": ""
+		"comments": "The 4"
 	},
 	{
 		"id":1805,
@@ -67,7 +67,7 @@
 		"sessionNumber": 2,
 		"timePeriod": "Second Thing",
 		"lengthOfTime": 24,
-		"comments": ""
+		"comments": "I am 4 One"
 	},
 	{
 		"id":1806,
@@ -77,7 +77,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Third Thing",
 		"lengthOfTime": 24,
-		"comments": ""
+		"comments": "They Call Me Ms. Three"
 	},
 	{
 		"id":1807,
@@ -87,7 +87,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Fourth Thing",
 		"lengthOfTime": 24,
-		"comments": ""
+		"comments": "Human Locust"
 	},
 	{
 		"id":1900,
@@ -218,15 +218,5 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": ""
-	},
-	{
-		"id":1974,
-		"sessionDate": 20250316,
-		"dateString": "2025-0316T00:00:00Z",
-		"dateString2": "2025-03-16",
-		"sessionNumber": 2,
-		"timePeriod": "Second Thing",
-		"lengthOfTime":24,
-		"comments": "5 minute break, between, to fix the air"
 	}
 ]
