@@ -9757,5 +9757,145 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":1976,
+		"sessionDate": 20250318,
+		"dateString": "2025-0318T00:00:00Z",
+		"dateString2": "2025-03-18",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": "OA"
+	},
+	{
+		"id":1977,
+		"sessionDate": 20250319,
+		"dateString": "2025-0319T00:00:00Z",
+		"dateString2": "2025-03-19",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1978,
+		"sessionDate": 20250319,
+		"dateString": "2025-0319T00:00:00Z",
+		"dateString2": "2025-03-19",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1979,
+		"sessionDate": 20250320,
+		"dateString": "2025-0320T00:00:00Z",
+		"dateString2": "2025-03-20",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":1980,
+		"sessionDate": 20250321,
+		"dateString": "2025-0321T00:00:00Z",
+		"dateString2": "2025-03-21",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1981,
+		"sessionDate": 20250321,
+		"dateString": "2025-0321T00:00:00Z",
+		"dateString2": "2025-03-21",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":24,
+		"comments": "polluted air adjustment"
+	},
+	{
+		"id":1982,
+		"sessionDate": 20250322,
+		"dateString": "2025-0322T00:00:00Z",
+		"dateString2": "2025-03-22",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1981,
+		"sessionDate": 20250323,
+		"dateString": "2025-0323T00:00:00Z",
+		"dateString2": "2025-03-23",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1982,
+		"sessionDate": 20250324,
+		"dateString": "2025-0324T00:00:00Z",
+		"dateString2": "2025-03-24",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":1983,
+		"sessionDate": 20250325,
+		"dateString": "2025-0325T00:00:00Z",
+		"dateString2": "2025-03-25",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1984,
+		"sessionDate": 20250325,
+		"dateString": "2025-0325T00:00:00Z",
+		"dateString2": "2025-03-25",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":24,
+		"comments": "air adjustment"
+	},
+	{
+		"id":1985,
+		"sessionDate": 20250325,
+		"dateString": "2025-0325T00:00:00Z",
+		"dateString2": "2025-03-25",
+		"sessionNumber": 3,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": "health battle all day"
+	},
+	{
+		"id":1986,
+		"sessionDate": 20250326,
+		"dateString": "2025-0326T00:00:00Z",
+		"dateString2": "2025-03-26",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1987,
+		"sessionDate": 20250327,
+		"dateString": "2025-0327T00:00:00Z",
+		"dateString2": "2025-03-27",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": "OR"
 	}
 ]
