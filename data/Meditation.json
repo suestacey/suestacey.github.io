@@ -9897,5 +9897,15 @@
 		"timePeriod": "Late Afternoon",
 		"lengthOfTime":24,
 		"comments": "OR"
+	},
+	
+		"id":1988,
+		"sessionDate": 20250328,
+		"dateString": "2025-0328T00:00:00Z",
+		"dateString2": "2025-03-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
