@@ -9950,12 +9950,32 @@
 	},
 	{
 		"id":1995,
-		"sessionDate": 2025040,
+		"sessionDate": 20250402,
 		"dateString": "2025-0402T00:00:00Z",
 		"dateString2": "2025-04-02",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":1996,
+		"sessionDate": 20250402,
+		"dateString": "2025-0402T00:00:00Z",
+		"dateString2": "2025-04-02",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":28,
+		"comments": ""
+	},
+	{
+		"id":1997,
+		"sessionDate": 20250403,
+		"dateString": "2025-0403T00:00:00Z",
+		"dateString2": "2025-04-03",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
 		"comments": ""
 	}
 ]
