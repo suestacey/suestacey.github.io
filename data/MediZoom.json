@@ -202,9 +202,9 @@
 	},
 	{
 		"id":2001,
-		"sessionDate": 20250406,
-		"dateString": "2025-0406T00:00:00Z",
-		"dateString2": "2025-04-06",
+		"sessionDate": 20241031,
+		"dateString": "2024-10-31T00:00:00Z",
+		"dateString2": "2024-10-31",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
