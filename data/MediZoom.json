@@ -169,16 +169,7 @@
 		"lengthOfTime":24,
 		"comments": "The Date Changer"
 	},
-	{
-		"id":1956,
-		"sessionDate": 20250302,
-		"dateString": "2025-0302T00:00:00Z",
-		"dateString2": "2025-03-02",
-		"sessionNumber": 1,
-		"timePeriod": "Before 2nd Sleep",
-		"lengthOfTime":47,
-		"comments": ""
-	},
+
 	{
 		"id":1967,
 		"sessionDate": 20250312,
@@ -190,26 +181,6 @@
 		"comments": ""
 	},
 	{
-		"id":1968,
-		"sessionDate": 20250313,
-		"dateString": "2025-0313T00:00:00Z",
-		"dateString2": "2025-03-13",
-		"sessionNumber": 1,
-		"timePeriod": "Midnight",
-		"lengthOfTime":24,
-		"comments": ""
-	},
-	{
-		"id":1969,
-		"sessionDate": 20250314,
-		"dateString": "2025-0314T00:00:00Z",
-		"dateString2": "2025-03-14",
-		"sessionNumber": 1,
-		"timePeriod": "First Thing",
-		"lengthOfTime":24,
-		"comments": ""
-	},
-	{
 		"id":1973,
 		"sessionDate": 20250316,
 		"dateString": "2025-0316T00:00:00Z",
@@ -217,6 +188,26 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2000,
+		"sessionDate": 20250405,
+		"dateString": "2025-0405T00:00:00Z",
+		"dateString2": "2025-04-05",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":24,
+		"comments": "Fix the 'air'"
+	},
+	{
+		"id":2001,
+		"sessionDate": 20250406,
+		"dateString": "2025-0406T00:00:00Z",
+		"dateString2": "2025-04-06",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
 		"comments": ""
 	}
 ]
