@@ -10017,5 +10017,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2002,
+		"sessionDate": 20250407,
+		"dateString": "2025-0407T00:00:00Z",
+		"dateString2": "2025-04-07",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2003,
+		"sessionDate": 20250407,
+		"dateString": "2025-0407T00:00:00Z",
+		"dateString2": "2025-04-07",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":35,
+		"comments": "moved under window for better air"
 	}
 ]
