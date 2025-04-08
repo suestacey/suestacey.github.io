@@ -10037,5 +10037,15 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime":35,
 		"comments": "moved under window for better air"
+	},
+	{
+		"id":2004,
+		"sessionDate": 20250408,
+		"dateString": "2025-0408T00:00:00Z",
+		"dateString2": "2025-04-08",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
