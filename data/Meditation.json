@@ -10057,5 +10057,15 @@
 		"timePeriod": "Afternoon",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2006,
+		"sessionDate": 20250410,
+		"dateString": "2025-0410T00:00:00Z",
+		"dateString2": "2025-04-10",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
