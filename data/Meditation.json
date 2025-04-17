@@ -10127,5 +10127,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2013,
+		"sessionDate": 20250417,
+		"dateString": "2025-0417T00:00:00Z",
+		"dateString2": "2025-04-17",
+		"sessionNumber": 1,
+		"timePeriod": "Before 1st Sleep",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
