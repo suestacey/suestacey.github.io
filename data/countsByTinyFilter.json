@@ -1,89 +1,104 @@
 [
     {
+"countid": 1100,
         "count": 1,
         "nameExtension": "4th of July (WP)",
         "patternid": "2110",
         "systemName": "WP"
     },
     {
+"countid": 1101,
         "count": 216,
         "nameExtension": "A Run, A Pung & A Pair (MJPC)",
         "patternid": "1002",
         "systemName": "MJPC"
     },
     {
+"countid": 1102,
         "count": 6435,
         "nameExtension": "All Honors (MJPC)",
         "patternid": "1006",
         "systemName": "MJPC"
     },
     {
+"countid": 1103,
         "count": 96,
         "nameExtension": "All Pair Jade (MJPC)",
         "patternid": "1007",
         "systemName": "MJPC"
     },
     {
+"countid": 1104,
         "count": 815,
         "nameExtension": "All Pair Ruby Jade (MJPC)",
         "patternid": "1008",
         "systemName": "MJPC"
     },
     {
+"countid": 1105,
         "count": 105,
         "nameExtension": "All Winds & Dragons (MJPC)",
         "patternid": "1009",
         "systemName": "MJPC"
     },
     {
+"countid": 1106,
         "count": 13,
         "nameExtension": "Angels (WP)",
         "patternid": "2111",
         "systemName": "WP"
     },
     {
+"countid": 1107,
         "count": 10738,
         "nameExtension": "Apple Blossom (MJPC)",
         "patternid": "1010",
         "systemName": "MJPC"
     },
     {
+"countid": 1108,
         "count": 12096,
         "nameExtension": "Asian Hash (WP)",
         "patternid": "2011",
         "systemName": "WP"
     },
     {
+"countid": 1109,
         "count": 1617,
         "nameExtension": "Betty (WP)",
         "patternid": "2008",
         "systemName": "WP"
     },
     {
+"countid": 1110,
         "count": 144,
         "nameExtension": "Big 1-5-7-9 (WP)",
         "patternid": "2025",
         "systemName": "WP"
     },
     {
+"countid": 1111,
         "count": 144,
         "nameExtension": "Big 2-4-6-8 (WP)",
         "patternid": "2026",
         "systemName": "WP"
     },
     {
+"countid": 1112,
         "count": 18,
         "nameExtension": "Big Chows (WP)",
         "patternid": "2112",
         "systemName": "WP"
     },
     {
+"countid": 1113,
         "count": 1512,
         "nameExtension": "Big Robert (MJPC)",
         "patternid": "1003",
         "systemName": "MJPC"
     },
     {
+"countid": 1114,
         "count": 60,
         "nameExtension": "Blue Mountains (MJPC)",
         "patternid": "1011",
