@@ -12,6 +12,7 @@
 	{
 		"mid": 1001,
 		"sessionDate": 20231120,
+		"date":20231120,
 		"dateString": "20231120T12:00:00Z",
 		"dateString2": "2023-11-20",
 		"sessionNumber": 1,
@@ -22,6 +23,7 @@
 	{
 		"mid": 1002,
 		"sessionDate": 20250209,
+		"date":20250209,
 		"dateString": "19760908T12:00:00Z",
 		"dateString2": "2025-01-11",
 		"sessionNumber": 1,
@@ -32,6 +34,7 @@
 	{
 		"mid":2001,
 		"sessionDate": 20241031,
+		"date":20241031,
 		"dateString": "2024-10-31T00:00:00Z",
 		"dateString2": "2024-10-31",
 		"sessionNumber": 1,
