@@ -11,11 +11,11 @@
 	},
 	{
 		"mid": 1111,
-		"sessionDate": 20241120,
-		"date":20241120,
-		"dateString": "2024-11-20T03:11:00Z",
-		"dateString2": "2024-11-20",
-		"sessionNumber": 1,
+		"sessionDate": 20231120,
+		"date":20231120,
+		"dateString": "2023-11-20T03:11:00Z",
+		"dateString2": "2023-11-20",
+		"sessionNumber": 6,
 		"timePeriod": "Night",
 		"lengthOfTime": 21,
 		"comments": ""
