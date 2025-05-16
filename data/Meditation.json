@@ -10497,5 +10497,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":32,
 		"comments": ""
+	},
+	{
+		"id":2049,
+		"sessionDate": 20250516,
+		"dateString": "2025-0516T00:00:00Z",
+		"dateString2": "2025-05-16",
+		"sessionNumber": 2,
+		"timePeriod": "Afternoon",
+		"lengthOfTime":37,
+		"comments": "Special Helix Day meditation"
 	}
 ]
