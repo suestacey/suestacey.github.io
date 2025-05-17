@@ -10517,5 +10517,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime":47,
 		"comments": "A special Helixes Day meditation"
+	},
+	{
+		"id":2051,
+		"sessionDate": 20250517,
+		"dateString": "2025-0517T00:00:00Z",
+		"dateString2": "2025-05-17",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
