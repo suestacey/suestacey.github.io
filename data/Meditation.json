@@ -10527,5 +10527,15 @@
 		"timePeriod": "Late Afternoon",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2052,
+		"sessionDate": 20250518,
+		"dateString": "2025-0518T00:00:00Z",
+		"dateString2": "2025-05-18",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":59,
+		"comments": ""
 	}
 ]
