@@ -10569,12 +10569,22 @@
 		"comments": ""
 	},
 	{
-		"id":2055,
+		"id":2056,
 		"sessionDate": 20250522,
 		"dateString": "2025-0522T00:00:00Z",
 		"dateString2": "2025-05-22",
 		"sessionNumber": 1,
 		"timePeriod": "Before Sunrise",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2057,
+		"sessionDate": 20250523,
+		"dateString": "2025-0523T00:00:00Z",
+		"dateString2": "2025-05-23",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
 		"comments": ""
 	}
