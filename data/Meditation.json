@@ -10597,5 +10597,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": "sunrise"
+	},
+	{
+		"id":2059,
+		"sessionDate": 20250525,
+		"dateString": "2025-0525T00:00:00Z",
+		"dateString2": "2025-05-25",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
