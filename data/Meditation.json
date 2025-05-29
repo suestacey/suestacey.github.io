@@ -10637,5 +10637,15 @@
 		"timePeriod": "After Midnight",
 		"lengthOfTime":47,
 		"comments": "... I finished yesterdays' Connections and then meditated."
+	},
+	{
+		"id":2063,
+		"sessionDate": 20250529,
+		"dateString": "2025-0529T00:00:00Z",
+		"dateString2": "2025-05-29",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
