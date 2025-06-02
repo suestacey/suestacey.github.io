@@ -10677,5 +10677,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2067,
+		"sessionDate": 20250601,
+		"dateString": "2025-0601T00:00:00Z",
+		"dateString2": "2025-06-01",
+		"sessionNumber": 2,
+		"timePeriod": "Last Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2068,
+		"sessionDate": 20250602,
+		"dateString": "2025-0602T00:00:00Z",
+		"dateString2": "2025-06-02",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":21,
+		"comments": ""
 	}
 ]
