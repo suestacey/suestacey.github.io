@@ -10737,5 +10737,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2073,
+		"sessionDate": 20250607,
+		"dateString": "2025-0607T00:00:00Z",
+		"dateString2": "2025-06-07",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
