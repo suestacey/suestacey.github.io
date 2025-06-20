@@ -10874,8 +10874,18 @@
 		"dateString": "2025-0619T00:00:00Z",
 		"dateString2": "2025-06-19",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Evening",
 		"lengthOfTime":24,
 		"comments": "OR"
+	},
+	{
+		"id":2087,
+		"sessionDate": 20250620,
+		"dateString": "2025-0620T00:00:00Z",
+		"dateString2": "2025-06-20",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":62,
+		"comments": ""
 	}
 ]
