@@ -10846,7 +10846,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Midnight",
 		"lengthOfTime":47,
-		"comments": "something got caught in my throat"
+		"comments": "scratched my throat on corn chip yesterday around 11:30 pm.  Thought it was stuck in my throat.  So I decided to meditate, hoping it would 'dislodge'. However, it was just a scratched throat."
 	},
 	{
 		"id":2085,
@@ -10896,6 +10896,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "Morning",
 		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2089,
+		"sessionDate": 20250622,
+		"dateString": "2025-0622T00:00:00Z",
+		"dateString2": "2025-06-22",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
 		"comments": ""
 	}
 ]
