@@ -10984,8 +10984,18 @@
 		"dateString": "2025-0630T00:00:00Z",
 		"dateString2": "2025-06-30",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
-		"lengthOfTime":24,
+		"timePeriod": "Late Evening",
+		"lengthOfTime":47,
+		"comments": "Karen Thompson died."
+	},
+	{
+		"id":2099,
+		"sessionDate": 20250701,
+		"dateString": "2025-0701T00:00:00Z",
+		"dateString2": "2025-07-01",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
 		"comments": ""
 	}
 ]
