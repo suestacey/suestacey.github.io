@@ -11067,5 +11067,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2107,
+		"sessionDate": 20250707,
+		"dateString": "2025-0707T00:00:00Z",
+		"dateString2": "2025-07-07",
+		"sessionNumber": 2,
+		"timePeriod": "Late Night",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2108,
+		"sessionDate": 20250708,
+		"dateString": "2025-0708T00:00:00Z",
+		"dateString2": "2025-07-08",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
