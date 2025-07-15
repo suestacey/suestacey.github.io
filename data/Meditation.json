@@ -11089,7 +11089,7 @@
 		"comments": ""
 	},
 	{
-		"id":2108,
+		"id":2109,
 		"sessionDate": 20250709,
 		"dateString": "2025-0709T00:00:00Z",
 		"dateString2": "2025-07-09",
@@ -11097,5 +11097,55 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2110,
+		"sessionDate": 20250710,
+		"dateString": "2025-0710T00:00:00Z",
+		"dateString2": "2025-07-10",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":24,
+		"comments": "OA"
+	},
+	{
+		"id":2111,
+		"sessionDate": 20250711,
+		"dateString": "2025-0711T00:00:00Z",
+		"dateString2": "2025-07-11",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":48,
+		"comments": "no meditation kit"
+	},
+	{
+		"id":2112,
+		"sessionDate": 20250712,
+		"dateString": "2025-0712T00:00:00Z",
+		"dateString2": "2025-07-12",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": "no meditation kit"
+	},
+	{
+		"id":2113,
+		"sessionDate": 20250713,
+		"dateString": "2025-0713T00:00:00Z",
+		"dateString2": "2025-07-13",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":45,
+		"comments": "no meditation kit"
+	},
+	{
+		"id":2114,
+		"sessionDate": 20250714,
+		"dateString": "2025-0714T00:00:00Z",
+		"dateString2": "2025-07-14",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": "OR with Hazel (no meditation kit?)"
 	}
 ]
