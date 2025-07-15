@@ -11146,6 +11146,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
-		"comments": "OR with Hazel (no meditation kit?)"
+		"comments": "OR with Hazel (no meditation kit)"
+	},
+	{
+		"id":2115,
+		"sessionDate": 20250715,
+		"dateString": "2025-0715T00:00:00Z",
+		"dateString2": "2025-07-15",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
