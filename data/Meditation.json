@@ -11174,6 +11174,26 @@
 		"dateString": "2025-0717T00:00:00Z",
 		"dateString2": "2025-07-17",
 		"sessionNumber": 1,
+		"timePeriod": "Afternoon",
+		"lengthOfTime":20,
+		"comments": "interrupted by air conditioner"
+	},
+	{
+		"id":2118,
+		"sessionDate": 20250717,
+		"dateString": "2025-0717T00:00:00Z",
+		"dateString2": "2025-07-17",
+		"sessionNumber": 2,
+		"timePeriod": "Afternoon",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2119,
+		"sessionDate": 20250718,
+		"dateString": "2025-0718T00:00:00Z",
+		"dateString2": "2025-07-18",
+		"sessionNumber": 1,
 		"timePeriod": "Not Yet",
 		"lengthOfTime":24,
 		"comments": ""
