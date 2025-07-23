@@ -11247,5 +11247,15 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":69,
 		"comments": "stroke meditation"
+	},
+	{
+		"id":2125,
+		"sessionDate": 20250723,
+		"dateString": "2025-0723T00:00:00Z",
+		"dateString2": "2025-07-23",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
