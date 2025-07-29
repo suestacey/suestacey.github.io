@@ -11317,5 +11317,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2132,
+		"sessionDate": 20250729,
+		"dateString": "2025-0729T00:00:00Z",
+		"dateString2": "2025-07-29",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":57,
+		"comments": "10 minutes in:  I remembered when I walked up to the woman at the Saturday morning resistance, thinking it was Margaret, and said Hi. Then, realizing it wasn't her. My eyes just popped open. (Started over.)"
 	}
 ]
