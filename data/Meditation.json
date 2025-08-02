@@ -11366,6 +11366,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
-		"comments": "Finally, my AH-HA moment with Swift.  JSON brings in data.  Model tells how to work with the data."
+		"comments": "Finally, my AH-HA moment with Swift.  JSON brings in data.  Model tells how to work with the data. Core data stores it."
+	},
+	{
+		"id":2137,
+		"sessionDate": 20250802,
+		"dateString": "2025-0802T00:00:00Z",
+		"dateString2": "2025-08-02",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
