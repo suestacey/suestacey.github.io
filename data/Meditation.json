@@ -11427,5 +11427,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime":69,
 		"comments": "The Animator"
+	},
+	{
+		"id":2143,
+		"sessionDate": 20250808,
+		"dateString": "2025-0808T00:00:00Z",
+		"dateString2": "2025-08-08",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":90,
+		"comments": "A  1000th Day Celebration"
 	}
 ]
