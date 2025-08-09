@@ -11447,5 +11447,45 @@
 		"timePeriod": "Morning",
 		"lengthOfTime":69,
 		"comments": "A  1000th Day Celebration"
+	},
+	{
+		"id":2144,
+		"sessionDate": 20250808,
+		"dateString": "2025-0808T00:00:00Z",
+		"dateString2": "2025-08-08",
+		"sessionNumber": 2,
+		"timePeriod": "Morning",
+		"lengthOfTime":67,
+		"comments": "A  1000th Day Celebration"
+	},
+	{
+		"id":2145,
+		"sessionDate": 20250808,
+		"dateString": "2025-0808T00:00:00Z",
+		"dateString2": "2025-08-08",
+		"sessionNumber": 3,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime":24,
+		"comments": "A  1000th Day Celebration"
+	},
+	{
+		"id":2146,
+		"sessionDate": 20250808,
+		"dateString": "2025-0808T00:00:00Z",
+		"dateString2": "2025-08-08",
+		"sessionNumber": 4,
+		"timePeriod": "Late Night",
+		"lengthOfTime":47,
+		"comments": "A  1000th Day Celebration"
+	},
+	{
+		"id":2147,
+		"sessionDate": 20250809,
+		"dateString": "2025-0809T00:00:00Z",
+		"dateString2": "2025-08-09",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
