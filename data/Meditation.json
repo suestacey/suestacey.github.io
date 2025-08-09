@@ -11445,16 +11445,6 @@
 		"dateString2": "2025-08-08",
 		"sessionNumber": 2,
 		"timePeriod": "Morning",
-		"lengthOfTime":69,
-		"comments": "A  1000th Day Celebration"
-	},
-	{
-		"id":2144,
-		"sessionDate": 20250808,
-		"dateString": "2025-0808T00:00:00Z",
-		"dateString2": "2025-08-08",
-		"sessionNumber": 2,
-		"timePeriod": "Morning",
 		"lengthOfTime":67,
 		"comments": "A  1000th Day Celebration"
 	},
@@ -11474,7 +11464,7 @@
 		"dateString": "2025-0808T00:00:00Z",
 		"dateString2": "2025-08-08",
 		"sessionNumber": 4,
-		"timePeriod": "Late Night",
+		"timePeriod": "FTC2",
 		"lengthOfTime":47,
 		"comments": "A  1000th Day Celebration"
 	},
