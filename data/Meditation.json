@@ -11434,9 +11434,9 @@
 		"dateString": "2025-0808T00:00:00Z",
 		"dateString2": "2025-08-08",
 		"sessionNumber": 1,
-		"timePeriod": "Middle of the Night FTC4",
+		"timePeriod": "FTC4 HomeRun",
 		"lengthOfTime":90,
-		"comments": "A  1000th Day Celebration"
+		"comments": "A  1000th Day Celebration (Middle of the Night)"
 	},
 	{
 		"id":2144,
@@ -11444,9 +11444,9 @@
 		"dateString": "2025-0808T00:00:00Z",
 		"dateString2": "2025-08-08",
 		"sessionNumber": 2,
-		"timePeriod": "Morning FTC3",
-		"lengthOfTime":67,
-		"comments": "A  1000th Day Celebration"
+		"timePeriod": "FTC Triple",
+		"lengthOfTime":69,
+		"comments": "A  1000th Day Celebration (Morning)"
 	},
 	{
 		"id":2145,
@@ -11454,9 +11454,9 @@
 		"dateString": "2025-0808T00:00:00Z",
 		"dateString2": "2025-08-08",
 		"sessionNumber": 3,
-		"timePeriod": "Late Afternoon FTC1",
+		"timePeriod": "FTC Single",
 		"lengthOfTime":24,
-		"comments": "A  1000th Day Celebration"
+		"comments": "A  1000th Day Celebration (Late Afternoon)"
 	},
 	{
 		"id":2146,
@@ -11464,9 +11464,9 @@
 		"dateString": "2025-0808T00:00:00Z",
 		"dateString2": "2025-08-08",
 		"sessionNumber": 4,
-		"timePeriod": "Late Night FTC2",
+		"timePeriod": "FTC Double",
 		"lengthOfTime":47,
-		"comments": "A  1000th Day Celebration"
+		"comments": "A  1000th Day Celebration (Late Night)"
 	},
 	{
 		"id":2147,
@@ -11475,6 +11475,16 @@
 		"dateString2": "2025-08-09",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2148,
+		"sessionDate": 20250810,
+		"dateString": "2025-0810T00:00:00Z",
+		"dateString2": "2025-08-10",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
 		"lengthOfTime":47,
 		"comments": ""
 	}
