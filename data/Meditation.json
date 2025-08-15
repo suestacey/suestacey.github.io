@@ -11500,36 +11500,26 @@
 	},
 	{
 		"id":2150,
-		"sessionDate": 20250811,
-		"dateString": "2025-0811T00:00:00Z",
-		"dateString2": "2025-08-11",
-		"sessionNumber": 1,
-		"timePeriod": "too sick",
-		"lengthOfTime":0,
-		"comments": "hospital 8/11/25 - 8/13/25 "
-	},
-	{
-		"id":2151,
 		"sessionDate": 20250812,
 		"dateString": "2025-0811T00:00:00Z",
 		"dateString2": "2025-08-11",
 		"sessionNumber": 1,
 		"timePeriod": "too sick",
 		"lengthOfTime":0,
-		"comments": "hospital 8/11/25 - 8/13/25 "
+		"comments": "hospital 8/12/25 - 8/13/25 (transported at midnight thus device calendars say 8/11/25) "
 	},
 	{
-		"id":2152,
+		"id":2151,
 		"sessionDate": 20250813,
 		"dateString": "2025-0811T00:00:00Z",
 		"dateString2": "2025-08-11",
 		"sessionNumber": 1,
 		"timePeriod": "too sick",
 		"lengthOfTime":0,
-		"comments": "hospital 8/11/25 - 8/13/25 "
+		"comments": "hospital 8/12/25 - 8/13/25 (transported at midnight thus device calendars say 8/11/25) "
 	},
 	{
-		"id":2153,
+		"id":2152,
 		"sessionDate": 20250814,
 		"dateString": "2025-0814T00:00:00Z",
 		"dateString2": "2025-08-14",
@@ -11539,7 +11529,7 @@
 		"comments": " "
 	},
 	{
-		"id":2154,
+		"id":2153,
 		"sessionDate": 20250815,
 		"dateString": "2025-0815T00:00:00Z",
 		"dateString2": "2025-08-15",
