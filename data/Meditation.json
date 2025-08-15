@@ -11508,7 +11508,6 @@
 		"lengthOfTime":0,
 		"comments": "hospital 8/11/25 - 8/13/25 "
 	},
-
 	{
 		"id":2151,
 		"sessionDate": 20250812,
@@ -11518,7 +11517,7 @@
 		"timePeriod": "too sick",
 		"lengthOfTime":0,
 		"comments": "hospital 8/11/25 - 8/13/25 "
-	},,
+	},
 	{
 		"id":2152,
 		"sessionDate": 20250813,
