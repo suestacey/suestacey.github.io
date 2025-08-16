@@ -11501,8 +11501,8 @@
 	{
 		"id":2150,
 		"sessionDate": 20250812,
-		"dateString": "2025-0811T00:00:00Z",
-		"dateString2": "2025-08-11",
+		"dateString": "2025-0812T00:00:00Z",
+		"dateString2": "2025-08-12",
 		"sessionNumber": 0,
 		"timePeriod": "too sick",
 		"lengthOfTime":0,
@@ -11511,8 +11511,8 @@
 	{
 		"id":2151,
 		"sessionDate": 20250813,
-		"dateString": "2025-0811T00:00:00Z",
-		"dateString2": "2025-08-11",
+		"dateString": "2025-0813T00:00:00Z",
+		"dateString2": "2025-08-13",
 		"sessionNumber": 0,
 		"timePeriod": "too sick",
 		"lengthOfTime":0,
