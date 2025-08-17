@@ -11536,6 +11536,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "Evening",
 		"lengthOfTime":24,
-		"comments": " Last Day of Tao"
+		"comments": " "
+	},
+	{
+		"id":2155,
+		"sessionDate": 20250817,
+		"dateString": "2025-0817T00:00:00Z",
+		"dateString2": "2025-08-17",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": "Last Day of Tao"
 	}
 ]
