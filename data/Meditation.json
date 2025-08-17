@@ -11529,14 +11529,24 @@
 		"comments": "I gotta say, due to the hospital stay, that I was tempted to use this excuse as a reason  to quit.  Afterall, got 1000 days in a row accomplished. For each day I will continue to do this, I'll be grateful. Until it becomes routine then I'll go back to being my regular self."
 	},
 	{
+		"id":2153,
+		"sessionDate": 20250815,
+		"dateString": "2025-0815T00:00:00Z",
+		"dateString2": "2025-08-15",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": " "
+	},
+	{
 		"id":2154,
 		"sessionDate": 20250816,
 		"dateString": "2025-0816T00:00:00Z",
 		"dateString2": "2025-08-16",
 		"sessionNumber": 1,
-		"timePeriod": "Evening",
+		"timePeriod": "Late Evening",
 		"lengthOfTime":24,
-		"comments": " "
+		"comments": "Last Day of Tao"
 	},
 	{
 		"id":2155,
@@ -11544,8 +11554,8 @@
 		"dateString": "2025-0817T00:00:00Z",
 		"dateString2": "2025-08-17",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
-		"lengthOfTime":24,
-		"comments": "Last Day of Tao"
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "Tao Day 1"
 	}
 ]
