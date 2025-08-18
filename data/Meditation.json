@@ -11557,5 +11557,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": "Tao Day 1"
+	},
+	{
+		"id":2156,
+		"sessionDate": 20250818,
+		"dateString": "2025-0818T00:00:00Z",
+		"dateString2": "2025-08-18",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
