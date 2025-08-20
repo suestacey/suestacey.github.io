@@ -11577,5 +11577,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2158,
+		"sessionDate": 20250820,
+		"dateString": "2025-0820T00:00:00Z",
+		"dateString2": "2025-08-20",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
