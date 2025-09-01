@@ -11694,8 +11694,18 @@
 		"dateString": "2025-0831T00:00:00Z",
 		"dateString2": "2025-08-31",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
-		"lengthOfTime":24,
+		"timePeriod": "Evening",
+		"lengthOfTime":32,
 		"comments": "OR"
+	},
+	{
+		"id":2170,
+		"sessionDate": 20250901,
+		"dateString": "2025-0901T00:00:00Z",
+		"dateString2": "2025-09-01",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
