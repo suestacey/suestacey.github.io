@@ -11777,5 +11777,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2178,
+		"sessionDate": 20250908,
+		"dateString": "2025-0908T00:00:00Z",
+		"dateString2": "2025-09-08",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "49 YAL"
 	}
 ]
