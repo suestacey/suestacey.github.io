@@ -11807,5 +11807,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2181,
+		"sessionDate": 20250911,
+		"dateString": "2025-0911T00:00:00Z",
+		"dateString2": "2025-09-11",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime":69,
+		"comments": ""
 	}
 ]
