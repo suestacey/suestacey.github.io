@@ -11957,5 +11957,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":69,
 		"comments": "Awareness = That Which Animates me ?!! (end time 4:58am)"
+	},
+	{
+		"id":2196,
+		"sessionDate": 20250924,
+		"dateString": "2025-0924T00:00:00Z",
+		"dateString2": "2025-09-24",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":69,
+		"comments": ""
 	}
 ]
