@@ -12034,7 +12034,17 @@
 		"dateString": "2025-1001T00:00:00Z",
 		"dateString2": "2025-10-01",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2204,
+		"sessionDate": 20251002,
+		"dateString": "2025-1002T00:00:00Z",
+		"dateString2": "2025-10-02",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": ""
 	}
