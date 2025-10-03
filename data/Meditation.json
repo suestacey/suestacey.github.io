@@ -12047,5 +12047,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2205,
+		"sessionDate": 20251003,
+		"dateString": "2025-1003T00:00:00Z",
+		"dateString2": "2025-10-03",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2206,
+		"sessionDate": 20251003,
+		"dateString": "2025-1003T00:00:00Z",
+		"dateString2": "2025-10-03",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":22,
+		"comments": ""
 	}
 ]
