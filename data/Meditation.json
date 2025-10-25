@@ -12284,8 +12284,18 @@
 		"dateString": "2025-1024T00:00:00Z",
 		"dateString2": "2025-10-24",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Morning",
 		"lengthOfTime":24,
-		"comments": ""
+		"comments": "after airport run"
+	},
+	{
+		"id":2228,
+		"sessionDate": 20251025,
+		"dateString": "2025-1025T00:00:00Z",
+		"dateString2": "2025-10-25",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":69,
+		"comments": "moved between 2nd and 3rd"
 	}
 ]
