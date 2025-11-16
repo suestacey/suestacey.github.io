@@ -12507,5 +12507,35 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2251,
+		"sessionDate": 20251115,
+		"dateString": "2025-1115T00:00:00Z",
+		"dateString2": "2025-11-15",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2252,
+		"sessionDate": 20251115,
+		"dateString": "2025-1115T00:00:00Z",
+		"dateString2": "2025-11-15",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2253,
+		"sessionDate": 20251116,
+		"dateString": "2025-1116T00:00:00Z",
+		"dateString2": "2025-11-16",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
