@@ -12603,23 +12603,13 @@
 		"sessionDate": 20251121,
 		"dateString": "2025-1121T00:00:00Z",
 		"dateString2": "2025-11-21",
-		"sessionNumber": 1,
-		"timePeriod": "Before 2nd Sleep",
-		"lengthOfTime":24,
-		"comments": ""
-	},
-	{
-		"id":2261,
-		"sessionDate": 20251121,
-		"dateString": "2025-1121T00:00:00Z",
-		"dateString2": "2025-11-21",
 		"sessionNumber": 2,
 		"timePeriod": "Last Thing",
 		"lengthOfTime":24,
 		"comments": ""
 	},
 	{
-		"id":2262,
+		"id":2261,
 		"sessionDate": 20251122,
 		"dateString": "2025-1122T00:00:00Z",
 		"dateString2": "2025-11-22",
@@ -12629,7 +12619,7 @@
 		"comments": ""
 	},
 	{
-		"id":2263,
+		"id":2262,
 		"sessionDate": 20251123,
 		"dateString": "2025-1123T00:00:00Z",
 		"dateString2": "2025-11-23",
@@ -12639,7 +12629,7 @@
 		"comments": ""
 	},
 	{
-		"id":2264,
+		"id":2263,
 		"sessionDate": 20251124,
 		"dateString": "2025-1124T00:00:00Z",
 		"dateString2": "2025-11-24",
@@ -12649,7 +12639,7 @@
 		"comments": "OR (2:00 am)"
 	},
 	{
-		"id":2265,
+		"id":2264,
 		"sessionDate": 20251125,
 		"dateString": "2025-1125T00:00:00Z",
 		"dateString2": "2025-11-25",
