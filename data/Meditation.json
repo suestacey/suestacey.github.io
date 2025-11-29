@@ -12687,5 +12687,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2269,
+		"sessionDate": 20251129,
+		"dateString": "2025-1129T00:00:00Z",
+		"dateString2": "2025-11-29",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
