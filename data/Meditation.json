@@ -12697,5 +12697,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2270,
+		"sessionDate": 20251130,
+		"dateString": "2025-1130T00:00:00Z",
+		"dateString2": "2025-11-30",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":69,
+		"comments": ""
 	}
 ]
