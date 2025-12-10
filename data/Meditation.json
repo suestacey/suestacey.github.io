@@ -12807,5 +12807,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2281,
+		"sessionDate": 20251210,
+		"dateString": "2025-1210T00:00:00Z",
+		"dateString2": "2025-12-10",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "I’m never quite right here"
 	}
 ]
