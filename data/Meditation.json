@@ -12887,5 +12887,15 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2289,
+		"sessionDate": 20251218,
+		"dateString": "2025-1218T00:00:00Z",
+		"dateString2": "2025-12-18",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": "awareness equivalent to not needing to tell every cell how to do its job"
 	}
 ]
