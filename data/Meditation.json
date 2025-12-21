@@ -12917,5 +12917,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2292,
+		"sessionDate": 20251221,
+		"dateString": "2025-1221T00:00:00Z",
+		"dateString2": "2025-12-21",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "they eat too much (and The Return of the Light)"
 	}
 ]
