@@ -12927,5 +12927,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": "they eat too much (and The Return of the Light)"
+	},
+	{
+		"id":2293,
+		"sessionDate": 20251222,
+		"dateString": "2025-1222T00:00:00Z",
+		"dateString2": "2025-12-22",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
