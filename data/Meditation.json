@@ -12937,5 +12937,15 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2294,
+		"sessionDate": 20251223,
+		"dateString": "2025-1223T00:00:00Z",
+		"dateString2": "2025-12-23",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
