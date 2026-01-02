@@ -13047,5 +13047,15 @@
 		"timePeriod": "Before Dawn",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2305,
+		"sessionDate": 20260101,
+		"dateString": "2026-0101T00:00:00Z",
+		"dateString2": "2026-01-01",
+		"sessionNumber": 2,
+		"timePeriod": "Late Evening",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
