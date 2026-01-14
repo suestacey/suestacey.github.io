@@ -13057,5 +13057,155 @@
 		"timePeriod": "Late Evening",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2306,
+		"sessionDate": 20260102,
+		"dateString": "2026-0102T00:00:00Z",
+		"dateString2": "2026-01-02",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": "OA"
+	},
+	{
+		"id":2307,
+		"sessionDate": 20260103,
+		"dateString": "2026-0103T00:00:00Z",
+		"dateString2": "2026-01-03",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":26,
+		"comments": "interrupted by alarm"
+	},
+	{
+		"id":2308,
+		"sessionDate": 20260103,
+		"dateString": "2026-0103T00:00:00Z",
+		"dateString2": "2026-01-03",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2309,
+		"sessionDate": 20260104,
+		"dateString": "2026-0104T00:00:00Z",
+		"dateString2": "2026-01-04",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2310,
+		"sessionDate": 20260105,
+		"dateString": "2026-0105T00:00:00Z",
+		"dateString2": "2026-01-05",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2311,
+		"sessionDate": 20260106,
+		"dateString": "2026-0106T00:00:00Z",
+		"dateString2": "2026-01-06",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2312,
+		"sessionDate": 20260107,
+		"dateString": "2026-0107T00:00:00Z",
+		"dateString2": "2026-01-07",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": "interrupted by smoking"
+	},
+	{
+		"id":2313,
+		"sessionDate": 20260107,
+		"dateString": "2026-0107T00:00:00Z",
+		"dateString2": "2026-01-07",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2314,
+		"sessionDate": 20260108,
+		"dateString": "2026-0108T00:00:00Z",
+		"dateString2": "2026-01-08",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2315,
+		"sessionDate": 20260109,
+		"dateString": "2026-0109T00:00:00Z",
+		"dateString2": "2026-01-09",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2316,
+		"sessionDate": 20260110,
+		"dateString": "2026-0110T00:00:00Z",
+		"dateString2": "2026-01-10",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2317,
+		"sessionDate": 20260111,
+		"dateString": "2026-0111T00:00:00Z",
+		"dateString2": "2026-01-11",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":69,
+		"comments": ""
+	},
+	{
+		"id":2318,
+		"sessionDate": 20260112,
+		"dateString": "2026-0112T00:00:00Z",
+		"dateString2": "2026-01-12",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2319,
+		"sessionDate": 20260113,
+		"dateString": "2026-0113T00:00:00Z",
+		"dateString2": "2026-01-13",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2320,
+		"sessionDate": 20260114,
+		"dateString": "2026-0114T00:00:00Z",
+		"dateString2": "2026-01-14",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime":24,
+		"comments": "OR - meditated before driving.  Didn't want to leave before 4am"
 	}
 ]
