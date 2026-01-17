@@ -13236,6 +13236,16 @@
 		"sessionNumber": 2,
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":40,
-		"comments": "Really think I might have had a stroke.  Sometimes my left half feels missing. Like right before I stopped"
+		"comments": "Sometimes my left half feels missing. Like right before I stopped"
+	},
+	{
+		"id":2323,
+		"sessionDate": 20260117,
+		"dateString": "2026-0117T00:00:00Z",
+		"dateString2": "2026-01-17",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
