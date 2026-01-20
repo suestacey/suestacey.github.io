@@ -13261,8 +13261,18 @@
 	{
 		"id":2325,
 		"sessionDate": 20260119,
-		"dateString": "2026-019T00:00:00Z",
+		"dateString": "2026-0119T00:00:00Z",
 		"dateString2": "2026-01-19",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2326,
+		"sessionDate": 20260120,
+		"dateString": "2026-0120T00:00:00Z",
+		"dateString2": "2026-01-20",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
