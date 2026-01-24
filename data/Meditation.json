@@ -13307,5 +13307,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": "time elapsed:  'no, whoa, whoa' "
+	},
+	{
+		"id":2330,
+		"sessionDate": 20260124,
+		"dateString": "2026-0124T00:00:00Z",
+		"dateString2": "2026-01-24",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
