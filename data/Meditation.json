@@ -13347,5 +13347,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2334,
+		"sessionDate": 20260128,
+		"dateString": "2026-0127800:00:00Z",
+		"dateString2": "2026-01-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": "air adjustment:  moved to under the window"
+	},
+	{
+		"id":2335,
+		"sessionDate": 20260128,
+		"dateString": "2026-0127800:00:00Z",
+		"dateString2": "2026-01-28",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
