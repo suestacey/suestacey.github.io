@@ -192,12 +192,6 @@
     "systemName": "MJPC"
   },
   {
-    "nameExtension": "Red Waratah (MJPC)",
-    "count": 324,
-    "patternid": "1033",
-    "systemName": "MJPC"
-  },
-  {
     "nameExtension": "Robin (MJPC)",
     "count": 74088,
     "patternid": "1034",
@@ -237,6 +231,12 @@
     "nameExtension": "Heavenly Twins (MJPC)",
     "count": 6912,
     "patternid": "1040",
+    "systemName": "MJPC"
+  },
+  {
+    "nameExtension": "Red Waratah (MJPC)",
+    "count": 324,
+    "patternid": "1075",
     "systemName": "MJPC"
   },
   {
