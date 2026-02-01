@@ -13407,5 +13407,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2340,
+		"sessionDate": 20260201,
+		"dateString": "2026-0020100:00:00Z",
+		"dateString2": "2026-02-01",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2341,
+		"sessionDate": 20260201,
+		"dateString": "2026-0020100:00:00Z",
+		"dateString2": "2026-02-01",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":24,
+		"comments": "cigarette smoke interrupted and had to actually go outside to chase imaginary (??) smokers"
 	}
 ]
