@@ -13219,7 +13219,7 @@
 		"comments": "During the 2nd session, I opened my hands and put them on my knees. Eventually the air space in front of my body got really big. My left arm and hand felt like it was 3 feet away from my body. It stayed that way the entire rest of the meditation."
 	},
 	{
-		"id":2321,
+		"id":2322,
 		"sessionDate": 20260116,
 		"dateString": "2026-0116T00:00:00Z",
 		"dateString2": "2026-01-16",
@@ -13229,7 +13229,7 @@
 		"comments": ""
 	},
 	{
-		"id":2322,
+		"id":2323,
 		"sessionDate": 20260116,
 		"dateString": "2026-0116T00:00:00Z",
 		"dateString2": "2026-01-16",
@@ -13239,7 +13239,7 @@
 		"comments": "Sometimes my left half feels missing. Like right before I stopped"
 	},
 	{
-		"id":2323,
+		"id":2324,
 		"sessionDate": 20260117,
 		"dateString": "2026-0117T00:00:00Z",
 		"dateString2": "2026-01-17",
@@ -13249,7 +13249,7 @@
 		"comments": ""
 	},
 	{
-		"id":2324,
+		"id":2325,
 		"sessionDate": 20260118,
 		"dateString": "2026-0118T00:00:00Z",
 		"dateString2": "2026-01-18",
@@ -13259,7 +13259,7 @@
 		"comments": ""
 	},
 	{
-		"id":2325,
+		"id":2326,
 		"sessionDate": 20260119,
 		"dateString": "2026-0119T00:00:00Z",
 		"dateString2": "2026-01-19",
@@ -13269,7 +13269,7 @@
 		"comments": ""
 	},
 	{
-		"id":2326,
+		"id":2327,
 		"sessionDate": 20260120,
 		"dateString": "2026-0120T00:00:00Z",
 		"dateString2": "2026-01-20",
@@ -13279,7 +13279,7 @@
 		"comments": ""
 	},
 	{
-		"id":2327,
+		"id":2328,
 		"sessionDate": 20260121,
 		"dateString": "2026-0121T00:00:00Z",
 		"dateString2": "2026-01-21",
@@ -13289,7 +13289,7 @@
 		"comments": ""
 	},
 	{
-		"id":2328,
+		"id":2329,
 		"sessionDate": 20260122,
 		"dateString": "2026-0122T00:00:00Z",
 		"dateString2": "2026-01-22",
@@ -13299,7 +13299,7 @@
 		"comments": ""
 	},
 	{
-		"id":2329,
+		"id":2330,
 		"sessionDate": 20260123,
 		"dateString": "2026-0123T00:00:00Z",
 		"dateString2": "2026-01-23",
@@ -13309,7 +13309,7 @@
 		"comments": "time elapsed:  'no, whoa, whoa' "
 	},
 	{
-		"id":2330,
+		"id":2331,
 		"sessionDate": 20260124,
 		"dateString": "2026-0124T00:00:00Z",
 		"dateString2": "2026-01-24",
@@ -13319,7 +13319,7 @@
 		"comments": ""
 	},
 	{
-		"id":2331,
+		"id":2332,
 		"sessionDate": 20260125,
 		"dateString": "2026-0125T00:00:00Z",
 		"dateString2": "2026-01-25",
@@ -13329,7 +13329,7 @@
 		"comments": ""
 	},
 	{
-		"id":2332,
+		"id":2333,
 		"sessionDate": 20260126,
 		"dateString": "2026-0126T00:00:00Z",
 		"dateString2": "2026-01-26",
@@ -13339,7 +13339,7 @@
 		"comments": ""
 	},
 	{
-		"id":2333,
+		"id":2334,
 		"sessionDate": 20260127,
 		"dateString": "2026-0127T00:00:00Z",
 		"dateString2": "2026-01-27",
@@ -13349,7 +13349,7 @@
 		"comments": ""
 	},
 	{
-		"id":2334,
+		"id":2335,
 		"sessionDate": 20260128,
 		"dateString": "2026-0127800:00:00Z",
 		"dateString2": "2026-01-28",
@@ -13359,7 +13359,7 @@
 		"comments": "air adjustment:  moved to under the window"
 	},
 	{
-		"id":2335,
+		"id":2336,
 		"sessionDate": 20260128,
 		"dateString": "2026-0127800:00:00Z",
 		"dateString2": "2026-01-28",
@@ -13369,20 +13369,10 @@
 		"comments": ""
 	},
 	{
-		"id":2336,
+		"id":2337,
 		"sessionDate": 20260129,
 		"dateString": "2026-0122900:00:00Z",
 		"dateString2": "2026-01-29",
-		"sessionNumber": 1,
-		"timePeriod": "First Thing",
-		"lengthOfTime":47,
-		"comments": ""
-	},
-	{
-		"id":2337,
-		"sessionDate": 20260130,
-		"dateString": "2026-0123000:00:00Z",
-		"dateString2": "2026-01-30",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
@@ -13393,13 +13383,23 @@
 		"sessionDate": 20260130,
 		"dateString": "2026-0123000:00:00Z",
 		"dateString2": "2026-01-30",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2339,
+		"sessionDate": 20260130,
+		"dateString": "2026-0123000:00:00Z",
+		"dateString2": "2026-01-30",
 		"sessionNumber": 2,
 		"timePeriod": "Early Afternoon",
 		"lengthOfTime":24,
 		"comments": "for 167 Meditation in 365 Tao book"
 	},
 	{
-		"id":2339,
+		"id":2340,
 		"sessionDate": 20260131,
 		"dateString": "2026-0123100:00:00Z",
 		"dateString2": "2026-01-31",
@@ -13409,7 +13409,7 @@
 		"comments": ""
 	},
 	{
-		"id":2340,
+		"id":2341,
 		"sessionDate": 20260201,
 		"dateString": "2026-0020100:00:00Z",
 		"dateString2": "2026-02-01",
@@ -13419,7 +13419,7 @@
 		"comments": ""
 	},
 	{
-		"id":2341,
+		"id":2342,
 		"sessionDate": 20260201,
 		"dateString": "2026-0020100:00:00Z",
 		"dateString2": "2026-02-01",
@@ -13429,7 +13429,7 @@
 		"comments": "cigarette smoke interrupted and had to actually go outside to chase imaginary (??) smokers"
 	},
 	{
-		"id":2341,
+		"id":2343,
 		"sessionDate": 20260202,
 		"dateString": "2026-0020200:00:00Z",
 		"dateString2": "2026-02-02",
@@ -13439,7 +13439,7 @@
 		"comments": "2am"
 	},
 	{
-		"id":2342,
+		"id":2344,
 		"sessionDate": 20260203,
 		"dateString": "2026-0020300:00:00Z",
 		"dateString2": "2026-02-03",
@@ -13449,7 +13449,7 @@
 		"comments": "1am"
 	},
 	{
-		"id":2343,
+		"id":2345,
 		"sessionDate": 20260204,
 		"dateString": "2026-0020400:00:00Z",
 		"dateString2": "2026-02-04",
