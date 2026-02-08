@@ -13487,5 +13487,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2349,
+		"sessionDate": 20260208,
+		"dateString": "2026-0020800:00:00Z",
+		"dateString2": "2026-02-08",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2350,
+		"sessionDate": 20260208,
+		"dateString": "2026-0020800:00:00Z",
+		"dateString2": "2026-02-08",
+		"sessionNumber": 2,
+		"timePeriod": "24Second Thing",
+		"lengthOfTime":,
+		"comments": "Between 1st and 2nd:  Sat for a minute then decided to try the relaxed eye lids, no face mask technique. "
 	}
 ]
