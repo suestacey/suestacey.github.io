@@ -13507,5 +13507,15 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime":24,
 		"comments": "Between 1st and 2nd:  Sat for a minute then decided to try the relaxed eye lids, no face mask technique. I wanted to see if I could go the full 24.  Eventually I got to just watching the thoughts flow by."
+	},
+	{
+		"id":2351,
+		"sessionDate": 20260209,
+		"dateString": "2026-0020900:00:00Z",
+		"dateString2": "2026-02-09",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
