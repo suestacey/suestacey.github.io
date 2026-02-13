@@ -13544,8 +13544,18 @@
 		"dateString": "2026-0021200:00:00Z",
 		"dateString2": "2026-02-12",
 		"sessionNumber": 1,
-		"timePeriod": "Before Dawn",
+		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2355,
+		"sessionDate": 20260213,
+		"dateString": "2026-0021300:00:00Z",
+		"dateString2": "2026-02-13",
+		"sessionNumber": 1,
+		"timePeriod": "Before Dawn",
+		"lengthOfTime":69,
 		"comments": ""
 	}
 ]
