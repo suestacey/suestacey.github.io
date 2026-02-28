@@ -13707,5 +13707,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":69,
 		"comments": ""
+	},
+	{
+		"id":2371,
+		"sessionDate": 20260228,
+		"dateString": "2026-022800:00:00Z",
+		"dateString2": "2026-02-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":50,
+		"comments": "interrupted by smoking smells"
 	}
 ]
