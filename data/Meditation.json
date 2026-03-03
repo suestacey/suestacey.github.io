@@ -13723,7 +13723,7 @@
 		"sessionDate": 20260301,
 		"dateString": "2026-030100:00:00Z",
 		"dateString2": "2026-03-01",
-		"sessionNumber": 1
+		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
 		"comments": ""
@@ -13733,7 +13733,7 @@
 		"sessionDate": 20260302,
 		"dateString": "2026-030200:00:00Z",
 		"dateString2": "2026-03-02",
-		"sessionNumber": 1
+		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
@@ -13743,7 +13743,7 @@
 		"sessionDate": 20260303,
 		"dateString": "2026-030300:00:00Z",
 		"dateString2": "2026-03-03",
-		"sessionNumber": 1
+		"sessionNumber": 1,
 		"timePeriod": "Midnight",
 		"lengthOfTime":47,
 		"comments": ""
