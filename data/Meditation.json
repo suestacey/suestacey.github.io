@@ -13351,7 +13351,7 @@
 	{
 		"id":2335,
 		"sessionDate": 20260128,
-		"dateString": "2026-012800:00:00Z",
+		"dateString": "2026-0128T00:00:00Z",
 		"dateString2": "2026-01-28",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13361,7 +13361,7 @@
 	{
 		"id":2336,
 		"sessionDate": 20260128,
-		"dateString": "2026-012800:00:00Z",
+		"dateString": "2026-0128T00:00:00Z",
 		"dateString2": "2026-01-28",
 		"sessionNumber": 2,
 		"timePeriod": "Second Thing",
@@ -13371,7 +13371,7 @@
 	{
 		"id":2337,
 		"sessionDate": 20260129,
-		"dateString": "2026-012900:00:00Z",
+		"dateString": "2026-0129T00:00:00Z",
 		"dateString2": "2026-01-29",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13381,7 +13381,7 @@
 	{
 		"id":2338,
 		"sessionDate": 20260130,
-		"dateString": "2026-013000:00:00Z",
+		"dateString": "2026-0130T00:00:00Z",
 		"dateString2": "2026-01-30",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13391,7 +13391,7 @@
 	{
 		"id":2339,
 		"sessionDate": 20260130,
-		"dateString": "2026-013000:00:00Z",
+		"dateString": "2026-0130T00:00:00Z",
 		"dateString2": "2026-01-30",
 		"sessionNumber": 2,
 		"timePeriod": "Early Afternoon",
@@ -13401,7 +13401,7 @@
 	{
 		"id":2340,
 		"sessionDate": 20260131,
-		"dateString": "2026-013100:00:00Z",
+		"dateString": "2026-0131T00:00:00Z",
 		"dateString2": "2026-01-31",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13411,7 +13411,7 @@
 	{
 		"id":2341,
 		"sessionDate": 20260201,
-		"dateString": "2026-020100:00:00Z",
+		"dateString": "2026-0201T00:00:00Z",
 		"dateString2": "2026-02-01",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13421,7 +13421,7 @@
 	{
 		"id":2342,
 		"sessionDate": 20260201,
-		"dateString": "2026-020100:00:00Z",
+		"dateString": "2026-0201T00:00:00Z",
 		"dateString2": "2026-02-01",
 		"sessionNumber": 2,
 		"timePeriod": "Second Thing",
@@ -13431,7 +13431,7 @@
 	{
 		"id":2343,
 		"sessionDate": 20260202,
-		"dateString": "2026-020200:00:00Z",
+		"dateString": "2026-0202T00:00:00Z",
 		"dateString2": "2026-02-02",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13441,7 +13441,7 @@
 	{
 		"id":2344,
 		"sessionDate": 20260203,
-		"dateString": "2026-020300:00:00Z",
+		"dateString": "2026-0203T00:00:00Z",
 		"dateString2": "2026-02-03",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13451,7 +13451,7 @@
 	{
 		"id":2345,
 		"sessionDate": 20260204,
-		"dateString": "2026-020400:00:00Z",
+		"dateString": "2026-0204T00:00:00Z",
 		"dateString2": "2026-02-04",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13461,7 +13461,7 @@
 	{
 		"id":2346,
 		"sessionDate": 20260205,
-		"dateString": "2026-020500:00:00Z",
+		"dateString": "2026-0205T00:00:00Z",
 		"dateString2": "2026-02-05",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13471,7 +13471,7 @@
 	{
 		"id":2347,
 		"sessionDate": 20260206,
-		"dateString": "2026-020600:00:00Z",
+		"dateString": "2026-0206T00:00:00Z",
 		"dateString2": "2026-02-06",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13481,7 +13481,7 @@
 	{
 		"id":2348,
 		"sessionDate": 20260207,
-		"dateString": "2026-020700:00:00Z",
+		"dateString": "2026-0207T00:00:00Z",
 		"dateString2": "2026-02-07",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13491,7 +13491,7 @@
 	{
 		"id":2349,
 		"sessionDate": 20260208,
-		"dateString": "2026-020800:00:00Z",
+		"dateString": "2026-0208T00:00:00Z",
 		"dateString2": "2026-02-08",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13501,7 +13501,7 @@
 	{
 		"id":2350,
 		"sessionDate": 20260208,
-		"dateString": "2026-020800:00:00Z",
+		"dateString": "2026-0208T00:00:00Z",
 		"dateString2": "2026-02-08",
 		"sessionNumber": 2,
 		"timePeriod": "Second Thing",
@@ -13511,7 +13511,7 @@
 	{
 		"id":2351,
 		"sessionDate": 20260209,
-		"dateString": "2026-020900:00:00Z",
+		"dateString": "2026-0209T00:00:00Z",
 		"dateString2": "2026-02-09",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13521,7 +13521,7 @@
 	{
 		"id":2352,
 		"sessionDate": 20260210,
-		"dateString": "2026-021000:00:00Z",
+		"dateString": "2026-0210T00:00:00Z",
 		"dateString2": "2026-02-10",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13531,7 +13531,7 @@
 	{
 		"id":2353,
 		"sessionDate": 20260211,
-		"dateString": "2026-021100:00:00Z",
+		"dateString": "2026-0211T00:00:00Z",
 		"dateString2": "2026-02-11",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13541,7 +13541,7 @@
 	{
 		"id":2354,
 		"sessionDate": 20260212,
-		"dateString": "2026-021200:00:00Z",
+		"dateString": "2026-0212T00:00:00Z",
 		"dateString2": "2026-02-12",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13551,7 +13551,7 @@
 	{
 		"id":2355,
 		"sessionDate": 20260213,
-		"dateString": "2026-021300:00:00Z",
+		"dateString": "2026-0213T00:00:00Z",
 		"dateString2": "2026-02-13",
 		"sessionNumber": 1,
 		"timePeriod": "Before Dawn",
@@ -13561,7 +13561,7 @@
 	{
 		"id":2356,
 		"sessionDate": 20260214,
-		"dateString": "2026-021400:00:00Z",
+		"dateString": "2026-0214T00:00:00Z",
 		"dateString2": "2026-02-14",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
@@ -13571,7 +13571,7 @@
 	{
 		"id":2357,
 		"sessionDate": 20260215,
-		"dateString": "2026-021500:00:00Z",
+		"dateString": "2026-0215T00:00:00Z",
 		"dateString2": "2026-02-15",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13581,7 +13581,7 @@
 	{
 		"id":2358,
 		"sessionDate": 20260216,
-		"dateString": "2026-021600:00:00Z",
+		"dateString": "2026-0216T00:00:00Z",
 		"dateString2": "2026-02-16",
 		"sessionNumber": 1,
 		"timePeriod": "Evening",
@@ -13591,7 +13591,7 @@
 	{
 		"id":2359,
 		"sessionDate": 20260217,
-		"dateString": "2026-021700:00:00Z",
+		"dateString": "2026-0217T00:00:00Z",
 		"dateString2": "2026-02-17",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13601,7 +13601,7 @@
 	{
 		"id":2360,
 		"sessionDate": 20260217,
-		"dateString": "2026-021700:00:00Z",
+		"dateString": "2026-0217T00:00:00Z",
 		"dateString2": "2026-02-17",
 		"sessionNumber": 2,
 		"timePeriod": "Evening",
@@ -13611,7 +13611,7 @@
 	{
 		"id":2361,
 		"sessionDate": 20260218,
-		"dateString": "2026-021800:00:00Z",
+		"dateString": "2026-0218T00:00:00Z",
 		"dateString2": "2026-02-18",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13621,7 +13621,7 @@
 	{
 		"id":2362,
 		"sessionDate": 20260219,
-		"dateString": "2026-021900:00:00Z",
+		"dateString": "2026-0219T00:00:00Z",
 		"dateString2": "2026-02-19",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13631,7 +13631,7 @@
 	{
 		"id":2363,
 		"sessionDate": 20260220,
-		"dateString": "2026-022000:00:00Z",
+		"dateString": "2026-0220T00:00:00Z",
 		"dateString2": "2026-02-20",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13641,7 +13641,7 @@
 	{
 		"id":2364,
 		"sessionDate": 20260221,
-		"dateString": "2026-022100:00:00Z",
+		"dateString": "2026-0221T00:00:00Z",
 		"dateString2": "2026-02-21",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13651,7 +13651,7 @@
 	{
 		"id":2365,
 		"sessionDate": 20260222,
-		"dateString": "2026-022200:00:00Z",
+		"dateString": "2026-0222T00:00:00Z",
 		"dateString2": "2026-02-22",
 		"sessionNumber": 1,
 		"timePeriod": "Midnight",
@@ -13661,7 +13661,7 @@
 	{
 		"id":2366,
 		"sessionDate": 20260223,
-		"dateString": "2026-022300:00:00Z",
+		"dateString": "2026-0223T00:00:00Z",
 		"dateString2": "2026-02-23",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13671,7 +13671,7 @@
 	{
 		"id":2367,
 		"sessionDate": 20260224,
-		"dateString": "2026-022400:00:00Z",
+		"dateString": "2026-0224T00:00:00Z",
 		"dateString2": "2026-02-24",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13681,7 +13681,7 @@
 	{
 		"id":2368,
 		"sessionDate": 20260225,
-		"dateString": "2026-022500:00:00Z",
+		"dateString": "2026-0225T00:00:00Z",
 		"dateString2": "2026-02-25",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13691,7 +13691,7 @@
 	{
 		"id":2369,
 		"sessionDate": 20260226,
-		"dateString": "2026-022600:00:00Z",
+		"dateString": "2026-0226T00:00:00Z",
 		"dateString2": "2026-02-26",
 		"sessionNumber": 1,
 		"timePeriod": "Evening",
@@ -13701,7 +13701,7 @@
 	{
 		"id":2370,
 		"sessionDate": 20260227,
-		"dateString": "2026-022700:00:00Z",
+		"dateString": "2026-0227T00:00:00Z",
 		"dateString2": "2026-02-27",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13711,7 +13711,7 @@
 	{
 		"id":2371,
 		"sessionDate": 20260228,
-		"dateString": "2026-022800:00:00Z",
+		"dateString": "2026-0228T00:00:00Z",
 		"dateString2": "2026-02-28",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13721,7 +13721,7 @@
 	{
 		"id":2372,
 		"sessionDate": 20260301,
-		"dateString": "2026-030100:00:00Z",
+		"dateString": "2026-0301T00:00:00Z",
 		"dateString2": "2026-03-01",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
@@ -13731,7 +13731,7 @@
 	{
 		"id":2373,
 		"sessionDate": 20260302,
-		"dateString": "2026-030200:00:00Z",
+		"dateString": "2026-0302T00:00:00Z",
 		"dateString2": "2026-03-02",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
@@ -13741,7 +13741,7 @@
 	{
 		"id":2374,
 		"sessionDate": 20260303,
-		"dateString": "2026-030300:00:00Z",
+		"dateString": "2026-0303T00:00:00Z",
 		"dateString2": "2026-03-03",
 		"sessionNumber": 1,
 		"timePeriod": "Midnight",
@@ -13751,11 +13751,131 @@
 	{
 		"id":2375,
 		"sessionDate": 20260304,
-		"dateString": "2026-030400:00:00Z",
+		"dateString": "2026-0304T00:00:00Z",
 		"dateString2": "2026-03-04",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2376,
+		"sessionDate": 20260305,
+		"dateString": "2026-0305T00:00:00Z",
+		"dateString2": "2026-03-05",
+		"sessionNumber": 1,
+		"timePeriod": "Last Thing",
+		"lengthOfTime":47,
+		"comments": "OA"
+	},
+	{
+		"id":2377,
+		"sessionDate": 20260306,
+		"dateString": "2026-0306T00:00:00Z",
+		"dateString2": "2026-03-06",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2378,
+		"sessionDate": 20260307,
+		"dateString": "2026-0307T00:00:00Z",
+		"dateString2": "2026-03-07",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2379,
+		"sessionDate": 20260308,
+		"dateString": "2026-0308T00:00:00Z",
+		"dateString2": "2026-03-08",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":90,
+		"comments": "spring ahead"
+	},
+	{
+		"id":2380,
+		"sessionDate": 20260309,
+		"dateString": "2026-0309T00:00:00Z",
+		"dateString2": "2026-03-09",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2381,
+		"sessionDate": 20260310,
+		"dateString": "2026-0310T00:00:00Z",
+		"dateString2": "2026-03-10",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2382,
+		"sessionDate": 20260311,
+		"dateString": "2026-0311T00:00:00Z",
+		"dateString2": "2026-03-11",
+		"sessionNumber": 1,
+		"timePeriod": "Late Evening",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2383,
+		"sessionDate": 20260312,
+		"dateString": "2026-0312T00:00:00Z",
+		"dateString2": "2026-03-12",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2384,
+		"sessionDate": 20260313,
+		"dateString": "2026-0313T00:00:00Z",
+		"dateString2": "2026-03-13",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2385,
+		"sessionDate": 20260314,
+		"dateString": "2026-0314T00:00:00Z",
+		"dateString2": "2026-03-14",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2386,
+		"sessionDate": 20260315,
+		"dateString": "2026-0315T00:00:00Z",
+		"dateString2": "2026-03-15",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":24,
+		"comments": "Hooded to hoodless, hood slowly drapped away"
+	},
+	{
+		"id":2387,
+		"sessionDate": 20260316,
+		"dateString": "2026-0316T00:00:00Z",
+		"dateString2": "2026-03-16",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": "OR"
 	}
 ]
