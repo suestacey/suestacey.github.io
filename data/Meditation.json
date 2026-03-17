@@ -13874,8 +13874,18 @@
 		"dateString": "2026-0316T00:00:00Z",
 		"dateString2": "2026-03-16",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Late Evening",
 		"lengthOfTime":24,
 		"comments": "OR"
+	},
+	{
+		"id":2388,
+		"sessionDate": 20260317,
+		"dateString": "2026-0317T00:00:00Z",
+		"dateString2": "2026-03-17",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
