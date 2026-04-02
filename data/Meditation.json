@@ -14037,5 +14037,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2404,
+		"sessionDate": 20260402,
+		"dateString": "2026-0402T00:00:00Z",
+		"dateString2": "2026-04-02",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":32,
+		"comments": ""
 	}
 ]
