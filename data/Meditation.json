@@ -14047,5 +14047,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":32,
 		"comments": ""
+	},
+	{
+		"id":2405,
+		"sessionDate": 20260402,
+		"dateString": "2026-0402T00:00:00Z",
+		"dateString2": "2026-04-02",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2406,
+		"sessionDate": 20260403,
+		"dateString": "2026-0403T00:00:00Z",
+		"dateString2": "2026-04-03",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
