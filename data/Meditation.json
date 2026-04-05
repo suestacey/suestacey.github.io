@@ -14077,5 +14077,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": "if this is memory loss, and not a migraine, then I need to make the most of every minute, and not the least of it"
+	},
+	{
+		"id":2408,
+		"sessionDate": 20260404,
+		"dateString": "2026-0404T00:00:00Z",
+		"dateString2": "2026-04-04",
+		"sessionNumber": 2,
+		"timePeriod": "Early Evening",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
