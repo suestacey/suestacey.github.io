@@ -14087,5 +14087,165 @@
 		"timePeriod": "Early Evening",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2409,
+		"sessionDate": 20260405,
+		"dateString": "2026-0405T00:00:00Z",
+		"dateString2": "2026-04-05",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": "OA"
+	},
+	{
+		"id":2410,
+		"sessionDate": 20260406,
+		"dateString": "2026-0406T00:00:00Z",
+		"dateString2": "2026-04-06",
+		"sessionNumber": 1,
+		"timePeriod": "Morning",
+		"lengthOfTime":47,
+		"comments": "Harriet Clarke 'People do horrible things because the noise in their heads becomes intolerable."
+	},
+	{
+		"id":2411,
+		"sessionDate": 20260407,
+		"dateString": "2026-0407T00:00:00Z",
+		"dateString2": "2026-04-07",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2412,
+		"sessionDate": 20260408,
+		"dateString": "2026-0408T00:00:00Z",
+		"dateString2": "2026-04-08",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2413,
+		"sessionDate": 20260409,
+		"dateString": "2026-0409T00:00:00Z",
+		"dateString2": "2026-04-09",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2414,
+		"sessionDate": 20260410,
+		"dateString": "2026-0410T00:00:00Z",
+		"dateString2": "2026-04-10",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2415,
+		"sessionDate": 20260410,
+		"dateString": "2026-0410T00:00:00Z",
+		"dateString2": "2026-04-10",
+		"sessionNumber": 2,
+		"timePeriod": "Night",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2416,
+		"sessionDate": 20260411,
+		"dateString": "2026-0411T00:00:00Z",
+		"dateString2": "2026-04-11",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2417,
+		"sessionDate": 20260411,
+		"dateString": "2026-0411T00:00:00Z",
+		"dateString2": "2026-04-11",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2418,
+		"sessionDate": 20260412,
+		"dateString": "2026-0412T00:00:00Z",
+		"dateString2": "2026-04-12",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2419,
+		"sessionDate": 20260413,
+		"dateString": "2026-0413T00:00:00Z",
+		"dateString2": "2026-04-13",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":24,
+		"comments": "deep"
+	},
+	{
+		"id":2420,
+		"sessionDate": 20260414,
+		"dateString": "2026-0414T00:00:00Z",
+		"dateString2": "2026-04-14",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2421,
+		"sessionDate": 20260415,
+		"dateString": "2026-0415T00:00:00Z",
+		"dateString2": "2026-04-15",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2422,
+		"sessionDate": 20260416,
+		"dateString": "2026-0416T00:00:00Z",
+		"dateString2": "2026-04-16",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2423,
+		"sessionDate": 20260416,
+		"dateString": "2026-0416T00:00:00Z",
+		"dateString2": "2026-04-16",
+		"sessionNumber": 2,
+		"timePeriod": "Afternoon",
+		"lengthOfTime":69,
+		"comments": "refocus from radiating pain"
+	},
+	{
+		"id":2424,
+		"sessionDate": 20260417,
+		"dateString": "2026-0417T00:00:00Z",
+		"dateString2": "2026-04-17",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
