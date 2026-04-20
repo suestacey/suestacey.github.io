@@ -14270,7 +14270,7 @@
 	},
 	{
 		"id":2427,
-		"sessionDate": 20260420
+		"sessionDate": 20260420,
 		"dateString": "2026-0420T00:00:00Z",
 		"dateString2": "2026-04-20",
 		"sessionNumber": 1,
@@ -14278,5 +14278,4 @@
 		"lengthOfTime":47,
 		"comments": ""
 	}
-]
 ]
