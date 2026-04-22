@@ -14287,5 +14287,15 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
 		"comments": "fear"
+	},
+	{
+		"id":2429,
+		"sessionDate": 20260422,
+		"dateString": "2026-0422T00:00:00Z",
+		"dateString2": "2026-04-22",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
