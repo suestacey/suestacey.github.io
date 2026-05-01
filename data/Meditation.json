@@ -14386,6 +14386,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "Midnight",
 		"lengthOfTime":24,
-		"comments": "last day at 1889"
+		"comments": "last day at 1889 (OR)"
+	},
+	{
+		"id":2439,
+		"sessionDate": 20260501,
+		"dateString": "2026-0501T00:00:00Z",
+		"dateString2": "2026-05-01",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
