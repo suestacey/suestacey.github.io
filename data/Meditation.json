@@ -14397,5 +14397,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2440,
+		"sessionDate": 20260502,
+		"dateString": "2026-0502T00:00:00Z",
+		"dateString2": "2026-05-02",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":52,
+		"comments": "pot at the 22nd minute screwed it up"
 	}
 ]
