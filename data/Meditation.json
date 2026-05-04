@@ -14417,5 +14417,15 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2442,
+		"sessionDate": 20260504,
+		"dateString": "2026-0504T00:00:00Z",
+		"dateString2": "2026-05-04",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
