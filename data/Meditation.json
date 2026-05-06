@@ -14437,5 +14437,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":31,
 		"comments": "bronchial attack stopped it"
+	},
+	{
+		"id":2444,
+		"sessionDate": 20260505,
+		"dateString": "2026-0505T00:00:00Z",
+		"dateString2": "2026-05-05",
+		"sessionNumber": 2,
+		"timePeriod": "Sunset",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
