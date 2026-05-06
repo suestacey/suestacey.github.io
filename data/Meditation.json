@@ -14444,8 +14444,18 @@
 		"dateString": "2026-0505T00:00:00Z",
 		"dateString2": "2026-05-05",
 		"sessionNumber": 2,
-		"timePeriod": "Sunset",
+		"timePeriod": "Early Evening",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2445,
+		"sessionDate": 20260506,
+		"dateString": "2026-0506T00:00:00Z",
+		"dateString2": "2026-05-06",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": "only 3 bronchitis hacks"
 	}
 ]
