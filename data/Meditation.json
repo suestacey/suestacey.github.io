@@ -14477,5 +14477,25 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":24,
 		"comments": "bronchitis hack ended it at 24"
+	},
+	{
+		"id":2448,
+		"sessionDate": 20260508,
+		"dateString": "2026-0508T00:00:00Z",
+		"dateString2": "2026-05-08",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":44,
+		"comments": ""
+	},
+	{
+		"id":2449,
+		"sessionDate": 20260509,
+		"dateString": "2026-0509T00:00:00Z",
+		"dateString2": "2026-05-09",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": "bronchitis hacks ended it at 24"
 	}
 ]
