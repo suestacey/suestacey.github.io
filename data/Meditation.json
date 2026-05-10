@@ -14497,5 +14497,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": "bronchitis hacks ended it at 24"
+	},
+	{
+		"id":2450,
+		"sessionDate": 20260510,
+		"dateString": "2026-0510T00:00:00Z",
+		"dateString2": "2026-05-10",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
