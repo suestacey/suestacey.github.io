@@ -14507,5 +14507,15 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2451,
+		"sessionDate": 20260511,
+		"dateString": "2026-0511T00:00:00Z",
+		"dateString2": "2026-05-11",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
+		"comments": "rageful thought ended it: TOO BAD"
 	}
 ]
