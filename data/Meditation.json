@@ -4,9 +4,9 @@
 		"dateString": "20221112T12:00:00Z",
 		"dateString2": "2022-11-12",
 		"sessionNumber": 1,
-		"timePeriod": "Evening",
+		"timePeriod": "Sunrise",
 		"lengthOfTime": 21,
-		"comments": ""
+		"comments": "Evening"
 	},
 	{
 		"id": 1001,
@@ -14517,5 +14517,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
 		"comments": "rageful thought ended it: TOO BAD"
+	},
+	{
+		"id":2452,
+		"sessionDate": 20260512,
+		"dateString": "2026-0512T00:00:00Z",
+		"dateString2": "2026-05-12",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "5:30am Sunrise"
 	}
 ]
