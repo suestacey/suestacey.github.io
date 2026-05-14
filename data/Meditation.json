@@ -14526,6 +14526,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
-		"comments": "5:30am Sunrise"
+		"comments": "Sunrise at 5:30am "
+	},
+	{
+		"id":2453,
+		"sessionDate": 20260513,
+		"dateString": "2026-0513T00:00:00Z",
+		"dateString2": "2026-05-13",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
