@@ -14547,5 +14547,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2455,
+		"sessionDate": 20260515,
+		"dateString": "2026-0515T00:00:00Z",
+		"dateString2": "2026-05-15",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":24,
+		"comments": "waking up at 1am cost me my London trip"
 	}
 ]
