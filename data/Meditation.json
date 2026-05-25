@@ -14577,5 +14577,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": "4:14 am"
+	},
+	{
+		"id":2458,
+		"sessionDate": 20260517,
+		"dateString": "2026-0517T00:00:00Z",
+		"dateString2": "2026-05-17",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":40,
+		"comments": "all the London stuff is available soon"
+	},
+	{
+		"id":3000,
+		"sessionDate": 20260525,
+		"dateString": "2026-0525T00:00:00Z",
+		"dateString2": "2026-05-25",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
+		"comments": "back in Oregon"
 	}
 ]
