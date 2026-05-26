@@ -14597,5 +14597,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
 		"comments": "back in Oregon"
+	},
+	{
+		"id":3001,
+		"sessionDate": 20260526,
+		"dateString": "2026-0526T00:00:00Z",
+		"dateString2": "2026-05-26",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
