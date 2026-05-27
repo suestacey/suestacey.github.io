@@ -14677,5 +14677,35 @@
 		"timePeriod": "Midnight",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2468,
+		"sessionDate": 20260526,
+		"dateString": "2026-0526T00:00:00Z",
+		"dateString2": "2026-05-26",
+		"sessionNumber": 2,
+		"timePeriod": "Last Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2469,
+		"sessionDate": 20260527,
+		"dateString": "2026-0527T00:00:00Z",
+		"dateString2": "2026-05-27",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":23,
+		"comments": ""
+	},
+	{
+		"id":2470,
+		"sessionDate": 20260527,
+		"dateString": "2026-0527T00:00:00Z",
+		"dateString2": "2026-05-27",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":22,
+		"comments": ""
 	}
 ]
