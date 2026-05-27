@@ -14589,6 +14589,16 @@
 		"comments": "all the London stuff is available soon"
 	},
 	{
+		"id":2459,
+		"sessionDate": 20260518,
+		"dateString": "2026-0518T00:00:00Z",
+		"dateString2": "2026-05-18",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":40,
+		"comments": ""
+	},
+	{
 		"id":3000,
 		"sessionDate": 20260525,
 		"dateString": "2026-0525T00:00:00Z",
