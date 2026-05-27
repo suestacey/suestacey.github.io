@@ -14584,9 +14584,9 @@
 		"dateString": "2026-0517T00:00:00Z",
 		"dateString2": "2026-05-17",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Late Evening",
 		"lengthOfTime":40,
-		"comments": "all the London stuff is available soon"
+		"comments": "In London ??"
 	},
 	{
 		"id":2459,
@@ -14659,17 +14659,17 @@
 		"comments": ""
 	},
 	{
-		"id":3000,
+		"id":2466,
 		"sessionDate": 20260525,
 		"dateString": "2026-0525T00:00:00Z",
 		"dateString2": "2026-05-25",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
-		"comments": "back in Oregon"
+		"comments": "Oregon"
 	},
 	{
-		"id":3001,
+		"id":2467,
 		"sessionDate": 20260526,
 		"dateString": "2026-0526T00:00:00Z",
 		"dateString2": "2026-05-26",
