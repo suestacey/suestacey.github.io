@@ -14599,6 +14599,26 @@
 		"comments": ""
 	},
 	{
+		"id":2460,
+		"sessionDate": 20260519,
+		"dateString": "2026-0519T00:00:00Z",
+		"dateString2": "2026-05-19",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2461,
+		"sessionDate": 20260520,
+		"dateString": "2026-0520T00:00:00Z",
+		"dateString2": "2026-05-20",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
 		"id":3000,
 		"sessionDate": 20260525,
 		"dateString": "2026-0525T00:00:00Z",
