@@ -14707,5 +14707,15 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime":22,
 		"comments": ""
+	},
+	{
+		"id":2471,
+		"sessionDate": 20260528,
+		"dateString": "2026-0528T00:00:00Z",
+		"dateString2": "2026-05-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":27,
+		"comments": "Andi died"
 	}
 ]
