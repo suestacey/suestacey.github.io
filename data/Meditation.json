@@ -14757,5 +14757,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2476,
+		"sessionDate": 20260602,
+		"dateString": "2026-0602T00:00:00Z",
+		"dateString2": "2026-06-02",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":41,
+		"comments": "interrupted by phone"
 	}
 ]
