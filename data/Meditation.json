@@ -14767,5 +14767,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":41,
 		"comments": "interrupted by phone"
+	},
+	{
+		"id":2477,
+		"sessionDate": 20260603,
+		"dateString": "2026-0603T00:00:00Z",
+		"dateString2": "2026-06-03",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
