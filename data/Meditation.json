@@ -14797,5 +14797,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
 		"comments": "huge zit on left eyelid"
+	},
+	{
+		"id":2480,
+		"sessionDate": 20260605,
+		"dateString": "2026-0605T00:00:00Z",
+		"dateString2": "2026-06-05",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":47,
+		"comments": "zit broke and is healing"
 	}
 ]
