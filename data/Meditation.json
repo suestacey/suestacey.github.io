@@ -14817,5 +14817,25 @@
 		"timePeriod": "Midnight",
 		"lengthOfTime":24,
 		"comments": ""
+	},
+	{
+		"id":2482,
+		"sessionDate": 20260606,
+		"dateString": "2026-0606T00:00:00Z",
+		"dateString2": "2026-06-06",
+		"sessionNumber": 2,
+		"timePeriod": "Before Midnight",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2483,
+		"sessionDate": 20260607,
+		"dateString": "2026-0607T00:00:00Z",
+		"dateString2": "2026-06-07",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
