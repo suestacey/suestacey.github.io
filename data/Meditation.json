@@ -14937,5 +14937,25 @@
 		"timePeriod": "Noon",
 		"lengthOfTime":24,
 		"comments": "AHA hypnagogic is an indication that sleep is coming.  As I just learned. Decided to stop at session 1 since I knew I was about to fall asleep."
+	},
+	{
+		"id":2494,
+		"sessionDate": 20260615,
+		"dateString": "2026-0615T00:00:00Z",
+		"dateString2": "2026-06-15",
+		"sessionNumber": 2,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2495,
+		"sessionDate": 20260616,
+		"dateString": "2026-0616T00:00:00Z",
+		"dateString2": "2026-06-16",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":60,
+		"comments": ""
 	}
 ]
