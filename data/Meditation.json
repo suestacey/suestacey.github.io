@@ -14957,5 +14957,75 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":60,
 		"comments": ""
+	},
+	{
+		"id":2495,
+		"sessionDate": 20260617,
+		"dateString": "2026-0617T00:00:00Z",
+		"dateString2": "2026-06-17",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": "OA  (@2:00am)"
+	},
+	{
+		"id":2496,
+		"sessionDate": 20260618,
+		"dateString": "2026-0618T00:00:00Z",
+		"dateString2": "2026-06-18",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":30,
+		"comments": ""
+	},
+	{
+		"id":2497,
+		"sessionDate": 20260619,
+		"dateString": "2026-0619T00:00:00Z",
+		"dateString2": "2026-06-19",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":30,
+		"comments": ""
+	},
+	{
+		"id":2498,
+		"sessionDate": 20260620,
+		"dateString": "2026-0620T00:00:00Z",
+		"dateString2": "2026-06-20",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":35,
+		"comments": ""
+	},
+	{
+		"id":2499,
+		"sessionDate": 20260621,
+		"dateString": "2026-0621T00:00:00Z",
+		"dateString2": "2026-06-21",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime":30,
+		"comments": ""
+	},
+	{
+		"id":2500,
+		"sessionDate": 20260622,
+		"dateString": "2026-0622T00:00:00Z",
+		"dateString2": "2026-06-22",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":30,
+		"comments": ""
+	},
+	{
+		"id":2501,
+		"sessionDate": 20260623,
+		"dateString": "2026-0623T00:00:00Z",
+		"dateString2": "2026-06-23",
+		"sessionNumber": 1,
+		"timePeriod": "Not Yet",
+		"lengthOfTime":24,
+		"comments": "OR"
 	}
 ]
