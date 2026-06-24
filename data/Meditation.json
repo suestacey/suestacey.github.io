@@ -15024,8 +15024,18 @@
 		"dateString": "2026-0623T00:00:00Z",
 		"dateString2": "2026-06-23",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Evening",
 		"lengthOfTime":24,
 		"comments": "OR"
+	},
+	{
+		"id":2502,
+		"sessionDate": 20260624,
+		"dateString": "2026-0624T00:00:00Z",
+		"dateString2": "2026-06-24",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":69,
+		"comments": "You know how the angle of a photo can make you look small ﻿… and then you stand up and you’re almost to the ceiling"
 	}
 ]
