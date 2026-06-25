@@ -15037,5 +15037,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":69,
 		"comments": "You know how the angle of a photo can make you look small ﻿… and then you stand up and you’re almost to the ceiling"
+	},
+	{
+		"id":2503,
+		"sessionDate": 20260625,
+		"dateString": "2026-0625T00:00:00Z",
+		"dateString2": "2026-06-25",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":69,
+		"comments": ""
 	}
 ]
