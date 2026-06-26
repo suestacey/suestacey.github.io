@@ -15044,8 +15044,18 @@
 		"dateString": "2026-0625T00:00:00Z",
 		"dateString2": "2026-06-25",
 		"sessionNumber": 1,
-		"timePeriod": "First Thing",
+		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":69,
+		"comments": ""
+	},
+	{
+		"id":2504,
+		"sessionDate": 20260626,
+		"dateString": "2026-0626T00:00:00Z",
+		"dateString2": "2026-06-26",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
 		"comments": ""
 	}
 ]
