@@ -15137,5 +15137,15 @@
 		"timePeriod": "Midnight Plus",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2513,
+		"sessionDate": 20260704,
+		"dateString": "2026-0704T00:00:00Z",
+		"dateString2": "2026-07-04",
+		"sessionNumber": 1,
+		"timePeriod": "Midnight",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
