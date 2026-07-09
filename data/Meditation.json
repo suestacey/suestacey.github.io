@@ -15187,5 +15187,15 @@
 		"timePeriod": "Late Morning",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2517,
+		"sessionDate": 20260709,
+		"dateString": "2026-0709T00:00:00Z",
+		"dateString2": "2026-07-09",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
