@@ -15267,5 +15267,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2523,
+		"sessionDate": 20260717,
+		"dateString": "2026-0717T00:00:00Z",
+		"dateString2": "2026-07-17",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":20,
+		"comments": "interrupted by alarm"
+	},
+	{
+		"id":2524,
+		"sessionDate": 20260717,
+		"dateString": "2026-0717T00:00:00Z",
+		"dateString2": "2026-07-17",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
