@@ -15309,7 +15309,7 @@
 		"comments": "5:20 am"
 	},
 	{
-		"id":2529,
+		"id":2530,
 		"sessionDate": 20260720,
 		"dateString": "2026-0720T00:00:00Z",
 		"dateString2": "2026-07-20",
@@ -15319,7 +15319,7 @@
 		"comments": "4:00 am"
 	},
 	{
-		"id":2530,
+		"id":2531,
 		"sessionDate": 20260721,
 		"dateString": "2026-0721T00:00:00Z",
 		"dateString2": "2026-07-21",
@@ -15327,5 +15327,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2532,
+		"sessionDate": 20260722,
+		"dateString": "2026-0722T00:00:00Z",
+		"dateString2": "2026-07-22",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "4:50am"
 	}
 ]
