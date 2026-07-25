@@ -15367,5 +15367,15 @@
 		"timePeriod": "Early Evening",
 		"lengthOfTime":24,
 		"comments": "smart ass"
+	},
+	{
+		"id":2536,
+		"sessionDate": 20260725,
+		"dateString": "2026-0725T00:00:00Z",
+		"dateString2": "2026-07-25",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":24,
+		"comments": "barely the next day"
 	}
 ]
