@@ -15377,5 +15377,25 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":24,
 		"comments": "sleep inducing at 1am"
+	},
+	{
+		"id":2537,
+		"sessionDate": 20260726,
+		"dateString": "2026-0726T00:00:00Z",
+		"dateString2": "2026-07-26",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":5,
+		"comments": "5:40 am, stopped to disable alarm"
+	},
+	{
+		"id":2538,
+		"sessionDate": 20260726,
+		"dateString": "2026-0726T00:00:00Z",
+		"dateString2": "2026-07-26",
+		"sessionNumber": 2,
+		"timePeriod": "Second Thing",
+		"lengthOfTime":47,
+		"comments": "interrupted by smoking"
 	}
 ]
