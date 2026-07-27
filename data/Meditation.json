@@ -15397,5 +15397,15 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime":47,
 		"comments": "interrupted by smoking"
+	},
+	{
+		"id":2539,
+		"sessionDate": 20260727,
+		"dateString": "2026-0727T00:00:00Z",
+		"dateString2": "2026-07-27",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
