@@ -15427,5 +15427,15 @@
 		"timePeriod": "Early Evening",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2542,
+		"sessionDate": 20260730,
+		"dateString": "2026-0730T00:00:00Z",
+		"dateString2": "2026-07-30",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": "Awareness being aware of itself"
 	}
 ]
