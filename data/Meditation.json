@@ -15496,6 +15496,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
-		"comments": "time elapse, definitely the gayatri mantra)"
+		"comments": "time elapse, definitely the gayatri mantra"
+	},
+	{
+		"id":2549,
+		"sessionDate": 20260804,
+		"dateString": "2026-0804T00:00:00Z",
+		"dateString2": "2026-08-04",
+		"sessionNumber": 2,
+		"timePeriod": "Late Afternoon",
+		"lengthOfTime":24,
+		"comments": "more like sleep, less like meditations"
 	}
 ]
