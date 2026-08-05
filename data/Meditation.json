@@ -15507,5 +15507,15 @@
 		"timePeriod": "Late Afternoon",
 		"lengthOfTime":24,
 		"comments": "more like sleep, less like meditations"
+	},
+	{
+		"id":2550,
+		"sessionDate": 20260805,
+		"dateString": "2026-0805T00:00:00Z",
+		"dateString2": "2026-08-05",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
