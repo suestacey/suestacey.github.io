@@ -15547,5 +15547,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2554,
+		"sessionDate": 20260809,
+		"dateString": "2026-0809T00:00:00Z",
+		"dateString2": "2026-08-09",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
