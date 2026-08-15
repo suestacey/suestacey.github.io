@@ -15607,5 +15607,15 @@
 		"timePeriod": "Morning",
 		"lengthOfTime":24,
 		"comments": "middle of the morning = mindless blah blah"
+	},
+	{
+		"id":2560,
+		"sessionDate": 20260815,
+		"dateString": "2026-0815T00:00:00Z",
+		"dateString2": "2026-08-15",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":24,
+		"comments": "2:23am"
 	}
 ]
