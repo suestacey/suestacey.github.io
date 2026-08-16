@@ -15536,7 +15536,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":39,
-		"comments": "Almost immediately after completing this session, I found out that Boo has died."
+		"comments": "Almost immediately after completing this session, I found out that Boo died."
 	},
 	{
 		"id":2553,
@@ -15616,6 +15616,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
-		"comments": "2:23am"
+		"comments": ""
+	},
+	{
+		"id":2561,
+		"sessionDate": 20260816,
+		"dateString": "2026-0816T00:00:00Z",
+		"dateString2": "2026-08-16",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "5:30am"
 	}
 ]
