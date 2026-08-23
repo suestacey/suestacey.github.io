@@ -15689,13 +15689,23 @@
 		"comments": ""
 	},
 	{
-		"id":2567,
+		"id":2568,
 		"sessionDate": 20260822,
 		"dateString": "2026-0822T00:00:00Z",
 		"dateString2": "2026-08-22",
 		"sessionNumber": 1,
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2569,
+		"sessionDate": 20260823,
+		"dateString": "2026-0823T00:00:00Z",
+		"dateString2": "2026-08-23",
+		"sessionNumber": 1,
+		"timePeriod": "Late Morning",
+		"lengthOfTime":46.49,
 		"comments": ""
 	}
 ]
