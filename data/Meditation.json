@@ -15706,7 +15706,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Late Morning",
 		"lengthOfTime":47,
-		"comments": ""
+		"comments": "actually 46.89"
 	},
 	{
 		"id":2569,
@@ -15716,6 +15716,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2570,
+		"sessionDate": 20260825,
+		"dateString": "2026-0825T00:00:00Z",
+		"dateString2": "2026-08-25",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
 		"comments": ""
 	}
 ]
