@@ -15727,5 +15727,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2572,
+		"sessionDate": 20260826,
+		"dateString": "2026-0826T00:00:00Z",
+		"dateString2": "2026-08-26",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "rage and resentment at having to do the menial work"
 	}
 ]
