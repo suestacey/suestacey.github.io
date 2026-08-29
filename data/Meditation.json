@@ -15757,5 +15757,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": " "
+	},
+	{
+		"id":2575,
+		"sessionDate": 20260829,
+		"dateString": "2026-0829T00:00:00Z",
+		"dateString2": "2026-08-29",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "in the center of the apartment"
 	}
 ]
