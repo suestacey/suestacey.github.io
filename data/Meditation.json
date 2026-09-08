@@ -15857,5 +15857,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": "gayatri"
+	},
+	{
+		"id":2585,
+		"sessionDate": 20260908,
+		"dateString": "2026-0908T00:00:00Z",
+		"dateString2": "2026-09-08",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
+		"comments": "50YAL"
 	}
 ]
