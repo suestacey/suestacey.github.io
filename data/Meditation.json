@@ -15867,5 +15867,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
 		"comments": "50YAL"
+	},
+	{
+		"id":2586,
+		"sessionDate": 20260909,
+		"dateString": "2026-0909T00:00:00Z",
+		"dateString2": "2026-09-09",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
