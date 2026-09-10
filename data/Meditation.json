@@ -15887,5 +15887,15 @@
 		"timePeriod": "Evening",
 		"lengthOfTime":32,
 		"comments": "overeating problem"
+	},
+	{
+		"id":2588,
+		"sessionDate": 20260910,
+		"dateString": "2026-0910T00:00:00Z",
+		"dateString2": "2026-09-10",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
