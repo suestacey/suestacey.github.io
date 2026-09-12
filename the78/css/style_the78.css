@@ -176,6 +176,20 @@ p.standard_M_card13 {
   font-size: 15px;
 }
 
+p.standard_M_black15 {
+  color: #000000;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 15px;
+}
+
+p.standard_M_black16 {
+  color: #000000;
+  font-weight: bold;
+  font: Verdana, Arial, sans-serif;
+  font-size: 16px;
+}
+
 p.standard_Black_24 {
   color: #000000;
   font-weight: bold;
