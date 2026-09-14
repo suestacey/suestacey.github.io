@@ -15924,8 +15924,18 @@
 		"dateString": "2026-0913T00:00:00Z",
 		"dateString2": "2026-09-13",
 		"sessionNumber": 1,
-		"timePeriod": "Not Yet",
+		"timePeriod": "Evening",
 		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2591,
+		"sessionDate": 20260914,
+		"dateString": "2026-0914T00:00:00Z",
+		"dateString2": "2026-09-14",
+		"sessionNumber": 1,
+		"timePeriod": "Middle of the Night",
+		"lengthOfTime":47,
 		"comments": ""
 	}
 ]
