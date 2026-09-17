@@ -15957,5 +15957,15 @@
 		"timePeriod": "Middle of the Night",
 		"lengthOfTime":69,
 		"comments": "vape interruption"
+	},
+	{
+		"id":2594,
+		"sessionDate": 20260917,
+		"dateString": "2026-0917T00:00:00Z",
+		"dateString2": "2026-09-17",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "6:30am"
 	}
 ]
