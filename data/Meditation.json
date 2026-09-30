@@ -16017,5 +16017,85 @@
 		"timePeriod": "Second Thing",
 		"lengthOfTime":24,
 		"comments": "2 twenty-fours: be not afraid"
+	},
+	{
+		"id":2600,
+		"sessionDate": 20260922,
+		"dateString": "2026-0922T00:00:00Z",
+		"dateString2": "2026-09-22",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":25,
+		"comments": "OA"
+	},
+	{
+		"id":2601,
+		"sessionDate": 20260923,
+		"dateString": "2026-0923T00:00:00Z",
+		"dateString2": "2026-09-23",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "4:30 am"
+	},
+	{
+		"id":2602,
+		"sessionDate": 20260924,
+		"dateString": "2026-0924T00:00:00Z",
+		"dateString2": "2026-09-24",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":43,
+		"comments": "4:07 am"
+	},
+	{
+		"id":2603,
+		"sessionDate": 20260925,
+		"dateString": "2026-0925T00:00:00Z",
+		"dateString2": "2026-09-25",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "no more ice cream - couldn't sense my chakras"
+	},
+	{
+		"id":2604,
+		"sessionDate": 20260926,
+		"dateString": "2026-0926T00:00:00Z",
+		"dateString2": "2026-09-26",
+		"sessionNumber": 1,
+		"timePeriod": "Before Sleep",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2605,
+		"sessionDate": 20260927,
+		"dateString": "2026-0927T00:00:00Z",
+		"dateString2": "2026-09-27",
+		"sessionNumber": 1,
+		"timePeriod": "Before Sleep",
+		"lengthOfTime":47,
+		"comments": "2:11am"
+	},
+	{
+		"id":2606,
+		"sessionDate": 20260928,
+		"dateString": "2026-0928T00:00:00Z",
+		"dateString2": "2026-09-28",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "3:48am"
+	},
+	{
+		"id":2607,
+		"sessionDate": 20260929,
+		"dateString": "2026-0929T00:00:00Z",
+		"dateString2": "2026-09-29",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "2:42am"
 	}
 ]
