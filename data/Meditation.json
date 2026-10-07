@@ -16167,5 +16167,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2617,
+		"sessionDate": 20261007,
+		"dateString": "2026-1007T00:00:00Z",
+		"dateString2": "2026-10-07",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
