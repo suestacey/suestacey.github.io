@@ -16187,5 +16187,15 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2619,
+		"sessionDate": 20261009,
+		"dateString": "2026-1009T00:00:00Z",
+		"dateString2": "2026-10-09",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": "vape interruption"
 	}
 ]
