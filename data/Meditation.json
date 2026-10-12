@@ -16217,5 +16217,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
+	},
+	{
+		"id":2622,
+		"sessionDate": 20261012,
+		"dateString": "2026-1012T00:00:00Z",
+		"dateString2": "2026-10-12",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":39,
+		"comments": "NYC"
 	}
 ]
