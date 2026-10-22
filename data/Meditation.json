@@ -16228,7 +16228,7 @@
 		"lengthOfTime":39,
 		"comments": "NYC"
 	},
-{
+	{
 		"id":2623,
 		"sessionDate": 20261013,
 		"dateString": "2026-1013T00:00:00Z",
@@ -16238,7 +16238,7 @@
 		"lengthOfTime":47,
 		"comments": ""
 	},
-{
+	{
 		"id":2624,
 		"sessionDate": 20261014,
 		"dateString": "2026-1014T00:00:00Z",
@@ -16248,7 +16248,7 @@
 		"lengthOfTime":34,
 		"comments": ""
 	},
-{
+	{
 		"id":2625,
 		"sessionDate": 20261015,
 		"dateString": "2026-1015T00:00:00Z",
@@ -16258,7 +16258,7 @@
 		"lengthOfTime":31,
 		"comments": ""
 	},
-{
+	{
 		"id":2626,
 		"sessionDate": 20261016,
 		"dateString": "2026-1016T00:00:00Z",
@@ -16268,7 +16268,7 @@
 		"lengthOfTime":37,
 		"comments": ""
 	},
-{
+	{
 		"id":2627,
 		"sessionDate": 20261017,
 		"dateString": "2026-1017T00:00:00Z",
@@ -16278,7 +16278,7 @@
 		"lengthOfTime":44,
 		"comments": ""
 	},
-{
+	{
 		"id":2628,
 		"sessionDate": 20261018,
 		"dateString": "2026-1018T00:00:00Z",
@@ -16288,7 +16288,7 @@
 		"lengthOfTime":31,
 		"comments": ""
 	},
-{
+	{
 		"id":2629,
 		"sessionDate": 20261019,
 		"dateString": "2026-1019T00:00:00Z",
@@ -16316,6 +16316,16 @@
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":90,
+		"comments": ""
+	},
+	{
+		"id":2632,
+		"sessionDate": 20261222,
+		"dateString": "2026-1022T00:00:00Z",
+		"dateString2": "2026-10-22",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
 		"comments": ""
 	}
 ]
