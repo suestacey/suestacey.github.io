@@ -7,7 +7,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "Midnight",
 		"lengthOfTime": 21,
-		"comments": "comments1"
+		"comments": ""
 	},
 	{
 		"id": 2634,
@@ -17,7 +17,7 @@
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime": 24,
-		"comments": ""
+		"comments": "myID could be wrong if you meditated more than once between 10/23/26-10/30/26"
 	},
 	{
 		"id":2635,
