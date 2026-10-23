@@ -20,7 +20,7 @@
 		"comments": "for 167 Meditation in 365 Tao book"
 	},
 	{
-		"id": 1636,
+		"id": 2634,
 		"sessionDate": 20261025,
 		"dateString": "20261025T12:00:00Z",
 		"dateString2": "2026-10-25",
@@ -30,14 +30,14 @@
 		"comments": ""
 	},
 	{
-		"id": 1002,
-		"sessionDate": 20250209,
-		"dateString": "19760908T12:00:00Z",
-		"dateString2": "2025-01-11",
+		"id":2635,
+		"sessionDate": 20261023,
+		"dateString": "2026-1023T00:00:00Z",
+		"dateString2": "2026-10-23",
 		"sessionNumber": 1,
-		"timePeriod": "Noon",
-		"lengthOfTime": 21,
-		"comments": "appear for Feb 2025 range"
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	},
 	{
 		"id": 1003,
