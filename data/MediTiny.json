@@ -31,155 +31,44 @@
 	},
 	{
 		"id":2635,
-		"sessionDate": 20261023,
-		"dateString": "2026-1023T00:00:00Z",
-		"dateString2": "2026-10-23",
+		"sessionDate": 20261026,
+		"dateString": "2026-1026T00:00:00Z",
+		"dateString2": "2026-10-26",
 		"sessionNumber": 1,
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": ""
 	},
 	{
-		"id": 1003,
-		"sessionDate": 20240325,
-		"dateString": "20240325T12:00:00Z",
-		"dateString2": "2024-03-25",
-		"sessionNumber": 1,
-		"timePeriod": "MiddleNight90",
-		"lengthOfTime": 90,
-		"comments": ""
-	},
-	{
-		"id":1803,
-		"sessionDate": 20241030,
-		"dateString": "2024-10-30T00:00:00Z",
-		"dateString2": "2024-10-30",
-		"sessionNumber": 1,
-		"timePeriod": "First Thing",
-		"lengthOfTime": 69,
-		"comments": ""
-	},
-	{
-		"id":1804,
-		"sessionDate": 20241031,
-		"dateString": "2024-10-31T00:00:00Z",
-		"dateString2": "2024-10-31",
-		"sessionNumber": 1,
-		"timePeriod": "Before Dawn",
-		"lengthOfTime": 47,
-		"comments": "The 4"
-	},
-	{
-		"id":1805,
-		"sessionDate": 20241031,
-		"dateString": "2024-10-31T00:00:00Z",
-		"dateString2": "2024-10-31",
-		"sessionNumber": 2,
-		"timePeriod": "Second Thing",
-		"lengthOfTime": 24,
-		"comments": "I am 4 Two"
-	},
-	{
-		"id":1806,
-		"sessionDate": 20241031,
-		"dateString": "2024-10-31T00:00:00Z",
-		"dateString2": "2024-10-31",
-		"sessionNumber": 1,
-		"timePeriod": "Third Thing",
-		"lengthOfTime": 24,
-		"comments": "They Call Me Ms. Three"
-	},
-	{
-		"id":1807,
-		"sessionDate": 20241031,
-		"dateString": "2024-10-31T00:00:00Z",
-		"dateString2": "2024-10-31",
-		"sessionNumber": 1,
-		"timePeriod": "Fourth Thing",
-		"lengthOfTime": 24,
-		"comments": "Human Locust"
-	},
-	{
-		"id":1900,
-		"sessionDate": 20241101,
-		"dateString": "2024-1101T00:00:00Z",
-		"dateString2": "2024-11-01",
+		"id":2636,
+		"sessionDate": 20261027,
+		"dateString": "2026-1027T00:00:00Z",
+		"dateString2": "2026-10-27",
 		"sessionNumber": 1,
 		"timePeriod": "Before 2nd Sleep",
-		"lengthOfTime": 69,
-		"comments": ""
-	},
-	{
-		"id":1910,
-		"sessionDate": 20241102,
-		"dateString": "2024-1102T00:00:00Z",
-		"dateString2": "2024-11-02",
-		"sessionNumber": 1,
-		"timePeriod": "First Thing",
-		"lengthOfTime": 47,
-		"comments": ""
-	},
-	{
-		"id":1907,
-		"sessionDate": 20250122,
-		"dateString": "2025-0122T00:00:00Z",
-		"dateString2": "2025-01-22",
-		"sessionNumber": 1,
-		"timePeriod": "Middle of the Night",
 		"lengthOfTime":47,
-		"comments": "appear for 2025 range"
+		"comments": ""
 	},
 	{
-		"id":1908,
-		"sessionDate": 20250123,
-		"dateString": "2025-0123T00:00:00Z",
-		"dateString2": "2025-01-23",
+		"id":2637,
+		"sessionDate": 20261028,
+		"dateString": "2026-1028T00:00:00Z",
+		"dateString2": "2026-10-28",
 		"sessionNumber": 1,
 		"timePeriod": "Evening",
-		"lengthOfTime":24,
-		"comments": "appear for 2025 range"
-	},
-	{
-		"id":1977,
-		"sessionDate": 20250201,
-		"dateString": "2025-0122T00:00:00Z",
-		"dateString2": "2025-02-01",
-		"sessionNumber": 1,
-		"timePeriod": "Dawn",
-		"lengthOfTime":47,
-		"comments": "appear for 2025 range"
-	},
-	{
-		"id":1984,
-		"sessionDate": 20250211,
-		"dateString": "2025-0211T00:00:00Z",
-		"dateString2": "2025-02-11",
-		"sessionNumber": 1,
-		"timePeriod": "Midnight",
-		"lengthOfTime":24,
-		"comments": "appear for 2025 range"
-	},
-	{
-		"id":1947,
-		"sessionDate": 20250307,
-		"dateString": "2025-0307T00:00:00Z",
-		"dateString2": "2025-03-07",
-		"sessionNumber": 1,
-		"timePeriod": "Midnight",
-		"lengthOfTime":24,
+		"lengthOfTime":69,
 		"comments": ""
 	},
 	{
-		"id":1953,
-		"sessionDate": 20250303,
-		"dateString": "2025-0303T00:00:00Z",
-		"dateString2": "2025-03-03",
+		"id":2638,
+		"sessionDate": 20261029,
+		"dateString": "2026-1029T00:00:00Z",
+		"dateString2": "2026-10-29",
 		"sessionNumber": 1,
-		"timePeriod": "First Thing",
-		"lengthOfTime":24,
-		"comments": "The Date Changer"
+		"timePeriod": "Midnight",
+		"lengthOfTime":90,
+		"comments": ""
 	},
-
 	{
 		"id":1967,
 		"sessionDate": 20250312,
