@@ -16367,5 +16367,125 @@
 		"timePeriod": "Before 2nd Sleep",
 		"lengthOfTime":44,
 		"comments": ""
+	},
+	{
+		"id":2637,
+		"sessionDate": 20261027,
+		"dateString": "2026-1027T00:00:00Z",
+		"dateString2": "2026-10-27",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2638,
+		"sessionDate": 20261028,
+		"dateString": "2026-1028T00:00:00Z",
+		"dateString2": "2026-10-28",
+		"sessionNumber": 1,
+		"timePeriod": "Evening",
+		"lengthOfTime":24,
+		"comments": "flu"
+	},
+	{
+		"id":2639,
+		"sessionDate": 20261029,
+		"dateString": "2026-1029T00:00:00Z",
+		"dateString2": "2026-10-29",
+		"sessionNumber": 0,
+		"timePeriod": "Flu",
+		"lengthOfTime":0,
+		"comments": "flu"
+	},
+	{
+		"id":2640,
+		"sessionDate": 20261030,
+		"dateString": "2026-1030T00:00:00Z",
+		"dateString2": "2026-10-30",
+		"sessionNumber": 0,
+		"timePeriod": "Flu",
+		"lengthOfTime":0,
+		"comments": "flu"
+	},
+	{
+		"id":2641,
+		"sessionDate": 20261031,
+		"dateString": "2026-1031T00:00:00Z",
+		"dateString2": "2026-10-31",
+		"sessionNumber": 0,
+		"timePeriod": "Flu",
+		"lengthOfTime":0,
+		"comments": "flu"
+	},
+	{
+		"id":2641,
+		"sessionDate": 20261101,
+		"dateString": "2026-1101T00:00:00Z",
+		"dateString2": "2026-11-01",
+		"sessionNumber": 0,
+		"timePeriod": "Flu",
+		"lengthOfTime":0,
+		"comments": "flu"
+	},
+	{
+		"id":2642,
+		"sessionDate": 20261102,
+		"dateString": "2026-1102T00:00:00Z",
+		"dateString2": "2026-11-02",
+		"sessionNumber": 1,
+		"timePeriod": "Unknown",
+		"lengthOfTime":0,
+		"comments": ""
+	},
+	{
+		"id":2643,
+		"sessionDate": 20261103,
+		"dateString": "2026-1103T00:00:00Z",
+		"dateString2": "2026-11-03",
+		"sessionNumber": 1,
+		"timePeriod": "Unknown",
+		"lengthOfTime":0,
+		"comments": ""
+	},
+	{
+		"id":2644,
+		"sessionDate": 20261104,
+		"dateString": "2026-1104T00:00:00Z",
+		"dateString2": "2026-11-04",
+		"sessionNumber": 1,
+		"timePeriod": "Unknown",
+		"lengthOfTime":0,
+		"comments": ""
+	},
+	{
+		"id":2645,
+		"sessionDate": 20261105,
+		"dateString": "2026-1105T00:00:00Z",
+		"dateString2": "2026-11-05",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":24,
+		"comments": ""
+	},
+	{
+		"id":2646,
+		"sessionDate": 20261106,
+		"dateString": "2026-1106T00:00:00Z",
+		"dateString2": "2026-11-06",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
+	},
+	{
+		"id":2647,
+		"sessionDate": 20261107,
+		"dateString": "2026-1107T00:00:00Z",
+		"dateString2": "2026-11-07",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
