@@ -16394,7 +16394,7 @@
 		"dateString": "2026-1029T00:00:00Z",
 		"dateString2": "2026-10-29",
 		"sessionNumber": 0,
-		"timePeriod": "Flu",
+		"timePeriod": "too sick",
 		"lengthOfTime":0,
 		"comments": "flu"
 	},
@@ -16404,7 +16404,7 @@
 		"dateString": "2026-1030T00:00:00Z",
 		"dateString2": "2026-10-30",
 		"sessionNumber": 0,
-		"timePeriod": "Flu",
+		"timePeriod": "too sick",
 		"lengthOfTime":0,
 		"comments": "flu"
 	},
@@ -16414,7 +16414,7 @@
 		"dateString": "2026-1031T00:00:00Z",
 		"dateString2": "2026-10-31",
 		"sessionNumber": 0,
-		"timePeriod": "Flu",
+		"timePeriod": "too sick",
 		"lengthOfTime":0,
 		"comments": "flu"
 	},
@@ -16424,7 +16424,7 @@
 		"dateString": "2026-1101T00:00:00Z",
 		"dateString2": "2026-11-01",
 		"sessionNumber": 0,
-		"timePeriod": "Flu",
+		"timePeriod": "too sick",
 		"lengthOfTime":0,
 		"comments": "flu"
 	},
