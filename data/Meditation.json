@@ -16434,8 +16434,8 @@
 		"dateString": "2026-1102T00:00:00Z",
 		"dateString2": "2026-11-02",
 		"sessionNumber": 1,
-		"timePeriod": "Unknown",
-		"lengthOfTime":0,
+		"timePeriod": "Late Morning",
+		"lengthOfTime":20,
 		"comments": ""
 	},
 	{
@@ -16444,8 +16444,8 @@
 		"dateString": "2026-1103T00:00:00Z",
 		"dateString2": "2026-11-03",
 		"sessionNumber": 1,
-		"timePeriod": "Unknown",
-		"lengthOfTime":0,
+		"timePeriod": "Late Morning",
+		"lengthOfTime":20,
 		"comments": ""
 	},
 	{
@@ -16454,8 +16454,8 @@
 		"dateString": "2026-1104T00:00:00Z",
 		"dateString2": "2026-11-04",
 		"sessionNumber": 1,
-		"timePeriod": "Unknown",
-		"lengthOfTime":0,
+		"timePeriod": "Late Morning",
+		"lengthOfTime":20,
 		"comments": ""
 	},
 	{
