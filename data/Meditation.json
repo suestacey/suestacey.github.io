@@ -16617,5 +16617,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":90,
 		"comments": ""
+	},
+	{
+		"id":2661,
+		"sessionDate": 20261120,
+		"dateString": "2026-1120T00:00:00Z",
+		"dateString2": "2026-11-20",
+		"sessionNumber": 2,
+		"timePeriod": "Night",
+		"lengthOfTime":47,
+		"comments": "the thing I love most is just being conscious"
+	},
+	{
+		"id":2662,
+		"sessionDate": 20261121,
+		"dateString": "2026-1121T00:00:00Z",
+		"dateString2": "2026-11-21",
+		"sessionNumber": 1,
+		"timePeriod": "First Thing",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
