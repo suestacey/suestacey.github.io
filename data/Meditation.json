@@ -16637,5 +16637,15 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": "A World Appears"
+	},
+	{
+		"id":2663,
+		"sessionDate": 20261122,
+		"dateString": "2026-1122T00:00:00Z",
+		"dateString2": "2026-11-22",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":47,
+		"comments": ""
 	}
 ]
