@@ -16697,5 +16697,25 @@
 		"timePeriod": "First Thing",
 		"lengthOfTime":47,
 		"comments": "then coffee shop"
+	},
+	{
+		"id":2670,
+		"sessionDate": 20261128,
+		"dateString": "2026-1128T00:00:00Z",
+		"dateString2": "2026-11-28",
+		"sessionNumber": 1,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":42,
+		"comments": "vape interruption"
+	},
+	{
+		"id":2671,
+		"sessionDate": 20261128,
+		"dateString": "2026-1128T00:00:00Z",
+		"dateString2": "2026-11-28",
+		"sessionNumber": 2,
+		"timePeriod": "Before 2nd Sleep",
+		"lengthOfTime":24,
+		"comments": ""
 	}
 ]
